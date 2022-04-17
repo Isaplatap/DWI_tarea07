@@ -1,0 +1,3340 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://rickandmortyapi.com/documentation
+Subject: Documentation
+Date: Thu, 7 Apr 2022 11:16:40 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----"
+
+
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/html
+Content-ID: <frame-8490A26CACD2150ABD77A3DC733EFD84@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://rickandmortyapi.com/documentation
+
+<!DOCTYPE html><html lang=3D"en" data-react-helmet=3D"lang" class=3D"transl=
+ated-ltr"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; cha=
+rset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7c=
+461f46-a253-4003-bbfb-1dae118d8c50@mhtml.blink" /><link rel=3D"stylesheet" =
+type=3D"text/css" href=3D"cid:css-d790285f-524f-40c9-a800-25f5cd5eeab5@mhtm=
+l.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-635fd=
+176-59db-4427-8a8e-ad51d7ea20ec@mhtml.blink" /><meta http-equiv=3D"x-ua-com=
+patible" content=3D"ie=3Dedge"><meta name=3D"viewport" content=3D"width=3Dd=
+evice-width, initial-scale=3D1, shrink-to-fit=3Dno"><meta name=3D"theme-col=
+or" content=3D"#FF9800"><meta data-react-helmet=3D"true" property=3D"og:loc=
+ale" content=3D"en"><meta data-react-helmet=3D"true" property=3D"og:type" c=
+ontent=3D"website"><meta data-react-helmet=3D"true" property=3D"og:image:ty=
+pe" content=3D"image/jpeg"><meta data-react-helmet=3D"true" property=3D"og:=
+image:width" content=3D"1280"><meta data-react-helmet=3D"true" property=3D"=
+og:image:height" content=3D"720"><meta data-react-helmet=3D"true" name=3D"t=
+witter:creator" content=3D"rickandmortyapi"><meta data-react-helmet=3D"true=
+" name=3D"twitter:site" content=3D"rickandmortyapi"><meta data-react-helmet=
+=3D"true" name=3D"twitter:card" content=3D"summary_large_image"><link rel=
+=3D"sitemap" type=3D"application/xml" href=3D"https://rickandmortyapi.com/s=
+itemap.xml"><link rel=3D"icon" href=3D"https://rickandmortyapi.com/favicon-=
+32x32.png?v=3D1538abef51e33ef514e8fe1ab9aeab4e" type=3D"image/png"><link re=
+l=3D"manifest" href=3D"https://rickandmortyapi.com/manifest.webmanifest" cr=
+ossorigin=3D"anonymous"><title>Documentation</title><link rel=3D"apple-touc=
+h-icon" sizes=3D"48x48" href=3D"https://rickandmortyapi.com/icons/icon-48x4=
+8.png?v=3D1538abef51e33ef514e8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" =
+sizes=3D"72x72" href=3D"https://rickandmortyapi.com/icons/icon-72x72.png?v=
+=3D1538abef51e33ef514e8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" sizes=
+=3D"96x96" href=3D"https://rickandmortyapi.com/icons/icon-96x96.png?v=3D153=
+8abef51e33ef514e8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" sizes=3D"144x=
+144" href=3D"https://rickandmortyapi.com/icons/icon-144x144.png?v=3D1538abe=
+f51e33ef514e8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" sizes=3D"192x192"=
+ href=3D"https://rickandmortyapi.com/icons/icon-192x192.png?v=3D1538abef51e=
+33ef514e8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" sizes=3D"256x256" hre=
+f=3D"https://rickandmortyapi.com/icons/icon-256x256.png?v=3D1538abef51e33ef=
+514e8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" sizes=3D"384x384" href=3D=
+"https://rickandmortyapi.com/icons/icon-384x384.png?v=3D1538abef51e33ef514e=
+8fe1ab9aeab4e"><link rel=3D"apple-touch-icon" sizes=3D"512x512" href=3D"htt=
+ps://rickandmortyapi.com/icons/icon-512x512.png?v=3D1538abef51e33ef514e8fe1=
+ab9aeab4e"><meta name=3D"generator" content=3D"Gatsby 2.28.0"><link rel=3D"=
+preconnect" href=3D"https://www.google-analytics.com/"><link rel=3D"dns-pre=
+fetch" href=3D"https://www.google-analytics.com/"><link as=3D"script" rel=
+=3D"preload" href=3D"https://rickandmortyapi.com/1bfc9850-b7e61fb44dbb68dee=
+389.js"><link as=3D"script" rel=3D"preload" href=3D"https://rickandmortyapi=
+.com/component---src-pages-index-js-3ec29f01f224eba5aaa5.js"><link as=3D"sc=
+ript" rel=3D"preload" href=3D"https://rickandmortyapi.com/commons-c626adcaf=
+e3467010731.js"><link as=3D"script" rel=3D"preload" href=3D"https://rickand=
+mortyapi.com/framework-1bcdbcdd30f43763a25c.js"><link as=3D"script" rel=3D"=
+preload" href=3D"https://rickandmortyapi.com/app-db3a26771539a9afa80a.js"><=
+link as=3D"script" rel=3D"preload" href=3D"https://rickandmortyapi.com/webp=
+ack-runtime-e463e5a10e858c89ebec.js"><link as=3D"fetch" rel=3D"preload" hre=
+f=3D"https://rickandmortyapi.com/page-data/index/page-data.json" crossorigi=
+n=3D"anonymous"><link as=3D"fetch" rel=3D"preload" href=3D"https://rickandm=
+ortyapi.com/page-data/sq/d/1506520932.json" crossorigin=3D"anonymous"><link=
+ as=3D"fetch" rel=3D"preload" href=3D"https://rickandmortyapi.com/page-data=
+/sq/d/1506520932.json" crossorigin=3D"anonymous"><link as=3D"fetch" rel=3D"=
+preload" href=3D"https://rickandmortyapi.com/page-data/sq/d/2138676555.json=
+" crossorigin=3D"anonymous"><link as=3D"fetch" rel=3D"preload" href=3D"http=
+s://rickandmortyapi.com/page-data/sq/d/2138676555.json" crossorigin=3D"anon=
+ymous"><link as=3D"fetch" rel=3D"preload" href=3D"https://rickandmortyapi.c=
+om/page-data/app-data.json" crossorigin=3D"anonymous"><link type=3D"text/cs=
+s" rel=3D"stylesheet" charset=3D"UTF-8" href=3D"https://translate.googleapi=
+s.com/translate_static/css/translateelement.css"><link rel=3D"prefetch" hre=
+f=3D"https://rickandmortyapi.com/page-data/about/page-data.json" crossorigi=
+n=3D"anonymous" as=3D"fetch"><link rel=3D"prefetch" href=3D"https://rickand=
+mortyapi.com/page-data/documentation/page-data.json" crossorigin=3D"anonymo=
+us" as=3D"fetch"><link rel=3D"prefetch" href=3D"https://rickandmortyapi.com=
+/page-data/help-us/page-data.json" crossorigin=3D"anonymous" as=3D"fetch"><=
+link href=3D"http://blocksi.net/includes/raisehand.css" id=3D"raiseHandCSS"=
+ type=3D"text/css" rel=3D"stylesheet"><link rel=3D"prefetch" href=3D"https:=
+//rickandmortyapi.com/component---src-pages-help-us-index-mdx-c7e31c93373d5=
+3afefcb.js"><link rel=3D"prefetch" href=3D"https://rickandmortyapi.com/comp=
+onent---src-pages-documentation-mdx-57cdf847b752c6683b3b.js"><link rel=3D"p=
+refetch" href=3D"https://rickandmortyapi.com/component---src-pages-about-md=
+x-fbefd520ea09824f325f.js"><link rel=3D"prefetch" href=3D"https://rickandmo=
+rtyapi.com/page-data/api/location/page-data.json" crossorigin=3D"anonymous"=
+ as=3D"fetch"><link rel=3D"prefetch" href=3D"https://rickandmortyapi.com/pa=
+ge-data/api/character/page-data.json" crossorigin=3D"anonymous" as=3D"fetch=
+"><link rel=3D"prefetch" href=3D"https://rickandmortyapi.com/page-data/api/=
+episode/page-data.json" crossorigin=3D"anonymous" as=3D"fetch"><link rel=3D=
+"stylesheet" type=3D"text/css" href=3D"https://rickandmortyapi.com/styles.2=
+946f3cc1f53ed9e3f62.css"><meta name=3D"description" content=3D"This documen=
+tation will help you get familiar with the resources of the Rick and Morty =
+API and show you how to make different queries." data-react-helmet=3D"true"=
+><meta name=3D"image" content=3D"https://rickandmortyapi.com/images/docs.jp=
+eg" data-react-helmet=3D"true"><meta property=3D"og:site_name" content=3D"D=
+ocumentation" data-react-helmet=3D"true"><meta property=3D"og:title" conten=
+t=3D"Documentation" data-react-helmet=3D"true"><meta property=3D"og:url" co=
+ntent=3D"https://rickandmortyapi.com/documentation" data-react-helmet=3D"tr=
+ue"><meta property=3D"og:description" content=3D"This documentation will he=
+lp you get familiar with the resources of the Rick and Morty API and show y=
+ou how to make different queries." data-react-helmet=3D"true"><meta propert=
+y=3D"og:image" content=3D"https://rickandmortyapi.com/images/docs.jpeg" dat=
+a-react-helmet=3D"true"><meta name=3D"twitter:title" content=3D"Documentati=
+on" data-react-helmet=3D"true"><meta name=3D"twitter:url" content=3D"https:=
+//rickandmortyapi.com/documentation" data-react-helmet=3D"true"><meta name=
+=3D"twitter:description" content=3D"This documentation will help you get fa=
+miliar with the resources of the Rick and Morty API and show you how to mak=
+e different queries." data-react-helmet=3D"true"><meta name=3D"twitter:imag=
+e" content=3D"https://rickandmortyapi.com/images/docs.jpeg" data-react-helm=
+et=3D"true"></head><body><div id=3D"___gatsby"><div style=3D"outline:none" =
+tabindex=3D"-1" id=3D"gatsby-focus-wrapper"><header class=3D"header__Header=
+-sc-1lpxlh0-0 dtvleI"><nav class=3D"header__Nav-sc-1lpxlh0-1 ehgJoC"><a ari=
+a-label=3D"p=C3=A1gina de inicio" class=3D"header__Link-sc-1lpxlh0-2 eIsSlF=
+ home-icon" href=3D"https://rickandmortyapi.com/"><svg width=3D"40" height=
+=3D"40" viewBox=3D"0 0 50 50" fill=3D"none"><path d=3D"M22.0852 0.160518C16=
+.4024 0.906765 11.4609 3.26988 7.50769 7.14463C4.09614 10.4836 1.80593 14.5=
+114 0.656075 19.1994C0.161922 21.2181 -0.00913038 22.768 0.000372558 25.035=
+4C0.0098755 29.1493 0.817625 32.5362 2.6707 36.2674C4.52377 39.9795 7.45068=
+ 43.2993 11.0238 45.7103C15.7943 48.9249 21.8476 50.4748 27.3118 49.8721C33=
+.5838 49.1736 38.5918 46.8105 42.8111 42.534C48.5129 36.7458 50.9076 29.264=
+2 49.6912 20.9215C48.988 16.0231 46.1846 10.6271 42.545 7.13506C39.105 3.84=
+392 34.9712 1.60518 30.4478 0.591045C27.8535 0.0170091 24.518 -0.164769 22.=
+0852 0.160518ZM28.0816 3.31772C34.9332 4.32228 40.9865 8.75193 44.1225 15.0=
+568C45.0728 16.9702 45.757 19.1324 46.0991 21.2563C46.3367 22.7297 46.3367 =
+26.681 46.0991 28.0491C45.4624 31.6655 44.17 34.7271 42.0034 37.6642C41.642=
+2 38.1617 40.7015 39.2141 39.9222 39.9986L38.5063 41.4146L38.5633 42.1513L3=
+8.6203 42.8784L38.3447 41.826C38.0216 40.5727 37.7365 39.8743 37.3184 39.31=
+94C37.1474 39.0897 37.0048 38.8506 37.0048 38.7836C37.0143 38.7262 37.2519 =
+38.4966 37.5465 38.2861C38.0786 37.9034 38.8104 37.1284 39.2095 36.5161C39.=
+352 36.3152 39.5516 36.1526 39.7512 36.0952C40.2263 35.9612 40.768 35.3968 =
+40.8915 34.9088C41.0246 34.44 40.977 34.22 40.6539 33.7321L40.4164 33.3876L=
+40.6254 32.4405C40.8345 31.5029 40.8345 31.4838 40.6729 30.0104C40.5874 29.=
+1972 40.5209 28.4127 40.5209 28.2787C40.5209 27.9439 39.7892 26.4705 39.209=
+5 25.6573C38.2402 24.2796 37.8791 23.9543 36.4726 23.2655C34.8381 22.4523 3=
+4.2395 22.3183 32.5859 22.3853C31.1415 22.4427 29.9251 22.7201 28.8133 23.2=
+559C27.6919 23.7917 26.4185 25.0641 25.1927 26.8915C24.7745 27.5038 24.746 =
+27.5803 24.746 28.1735C24.746 28.6327 24.651 29.0824 24.4039 29.8573C23.985=
+8 31.168 24.0048 31.4742 24.6035 32.4979C24.8411 32.8997 25.0311 33.2824 25=
+.0311 33.3302C25.0311 33.3876 24.9076 33.5694 24.746 33.7416C24.2424 34.287=
+ 24.2519 35.1289 24.7745 35.6934C25.0691 36.0091 25.7913 36.3057 25.9719 36=
+.1813C26.0194 36.1526 25.9814 35.9134 25.8769 35.6551C25.5918 34.8993 25.66=
+78 34.8706 26.0194 35.6073C26.7131 37.0806 27.6539 38.0278 29.1649 38.774C3=
+0.3052 39.3289 31.284 39.5777 32.681 39.6446C33.3082 39.6733 33.7358 39.730=
+7 33.6313 39.769C33.0611 39.9699 30.4383 39.5968 29.2314 39.1376L28.6042 38=
+.8984L28.4427 39.1184C28.0911 39.5777 27.3973 41.0989 27.2263 41.7781C27.13=
+13 42.1704 26.9982 42.9645 26.9317 43.5385C26.7416 45.3276 26.6656 45.4902 =
+26.4661 44.4378C26.1335 42.6966 23.9003 34.4496 23.6247 33.9521C23.5867 33.=
+8756 22.988 33.6747 22.2943 33.5025C21.6006 33.3207 20.8403 33.1102 20.6027=
+ 33.0145C20.3747 32.9284 20.1561 32.8806 20.1276 32.9093C20.0991 32.938 20.=
+2606 33.2154 20.4887 33.5216C20.7168 33.8277 21.0399 34.2965 21.2109 34.554=
+9C21.6576 35.2724 22.6934 37.5111 22.9975 38.4009C23.3301 39.3481 23.3016 3=
+9.415 22.3038 40.2665C21.9237 40.5918 21.6101 40.9267 21.6101 41.0128C21.61=
+01 41.0893 22.0472 41.5677 22.5794 42.0652C23.5011 42.9358 23.5392 42.9932 =
+23.4631 43.2611L23.3776 43.5481L23.3396 43.2515C23.3206 43.0219 23.0925 42.=
+7636 22.3228 42.0269C21.7716 41.5198 21.325 41.0415 21.325 40.9649C21.325 4=
+0.898 21.6671 40.544 22.0757 40.1804C23.121 39.2811 23.1305 39.2237 22.7029=
+ 38.1234C21.9807 36.277 20.4317 33.4259 19.8615 32.8901C19.681 32.7179 19.6=
+144 32.5553 19.6144 32.297C19.6144 31.9047 19.7 31.809 20.1846 31.6464C20.6=
+788 31.4838 21.1634 31.1106 21.496 30.6418C21.7621 30.2687 21.8761 30.2017 =
+22.6079 29.9721C23.0545 29.8286 23.4156 29.6755 23.4156 29.6373C23.4156 29.=
+5894 23.2446 29.3407 23.0355 29.0919C22.6269 28.5944 22.5508 28.2405 22.826=
+4 28.1544C22.912 28.1257 23.2446 28.0778 23.5582 28.0395C23.8718 28.0108 24=
+.1568 27.963 24.1949 27.9343C24.2329 27.9152 24.1378 27.5516 23.9858 27.130=
+7C23.8242 26.7097 23.7007 26.3079 23.7007 26.2505C23.7007 26.1835 23.9478 2=
+6.0591 24.2519 25.9539C24.9266 25.7338 26.0764 25.1598 26.0764 25.045C26.07=
+64 24.9972 25.7248 24.7675 25.3067 24.5379C24.4799 24.0978 23.6437 23.4281 =
+23.7672 23.3133C23.8052 23.275 24.1473 23.1411 24.5084 23.0263C25.4207 22.7=
+201 26.39 22.2705 27.1503 21.7825C27.5019 21.5625 27.787 21.3616 27.768 21.=
+352C27.7299 21.3233 25.1547 20.2135 24.9076 20.1274C24.7935 20.0796 24.765 =
+20.0222 24.8125 19.9361C24.8506 19.8595 25.4778 19.2472 26.2 18.5775C26.912=
+7 17.8982 27.5019 17.3146 27.5019 17.2764C27.5019 17.1998 26.9127 17.0946 2=
+5.1737 16.8458C24.5465 16.7502 23.9953 16.6545 23.9573 16.6162C23.9098 16.5=
+78 24.3469 15.736 24.9266 14.7506C25.8674 13.1337 26.0479 12.7893 25.9529 1=
+2.7893C25.9339 12.7893 25.1546 13.0668 24.2234 13.4112C22.8644 13.9087 22.4=
+938 14.0044 22.3988 13.9087C22.1897 13.6982 21.9902 12.1196 21.9902 10.7036=
+V9.33553L21.2204 9.74692C20.3177 10.2349 19.1108 11.182 18.5501 11.8422C18.=
+341 12.1005 18.1225 12.311 18.0845 12.311C18.0369 12.311 17.6758 11.8709 17=
+.2672 11.3255C16.564 10.3879 15.3761 9.05808 15.2431 9.05808C15.2051 9.0580=
+8 15.129 9.47904 15.072 9.9861C14.901 11.4212 14.3973 13.172 14.1502 13.172=
+C14.0837 13.172 13.6276 12.9807 13.1429 12.751C12.3637 12.3875 11.1758 12.0=
+239 10.7387 12.0239C10.6247 12.0239 10.6817 12.1961 10.9573 12.7606C11.3754=
+ 13.6121 11.7555 14.942 11.708 15.4012L11.6795 15.7073L10.8242 15.7743C8.33=
+445 15.9657 7.16559 16.0805 7.16559 16.1283C7.16559 16.1666 7.58372 16.6162=
+ 8.09688 17.1424C9.05667 18.1183 9.75989 19.1611 9.71237 19.5247C9.69337 19=
+.6586 9.20872 20.0604 8.21091 20.7589C7.40316 21.3233 6.72845 21.8304 6.709=
+45 21.8782C6.69044 21.9261 6.79497 21.993 6.94702 22.0313C7.96383 22.2513 8=
+.40097 22.3949 8.76208 22.6053C9.25623 22.9019 9.76939 23.342 10.026 23.705=
+6L10.216 23.9735L9.1517 25.0354C8.25842 25.9347 8.10638 26.1165 8.22041 26.=
+2218C8.29644 26.2887 8.86661 26.5088 9.49381 26.7001C10.121 26.8915 10.6722=
+ 27.0924 10.7197 27.1402C10.7672 27.1881 10.6912 27.676 10.5106 28.3457C10.=
+3491 28.9676 10.2445 29.5129 10.273 29.5607C10.3206 29.6468 11.8885 29.5703=
+ 12.1451 29.4746C12.3827 29.3885 12.4777 29.6181 12.5443 30.374C12.5823 30.=
+8141 12.6393 31.1872 12.6773 31.2063C12.7533 31.2541 13.8176 30.7949 13.817=
+6 30.7184C13.8176 30.6897 13.6941 30.4888 13.5421 30.2687C12.9054 29.3311 1=
+2.4682 28.1544 12.1261 26.4227C11.8981 25.3224 11.7935 24.27 11.9076 24.27C=
+11.9456 24.27 12.0121 24.5762 12.0501 24.9493C12.2402 27.0828 13.219 29.790=
+4 14.1122 30.6897C14.3403 30.9193 14.8345 31.2446 15.3096 31.4646L16.1079 3=
+1.8377L16.0793 32.1917L16.0508 32.5457L13.9412 33.2537L11.8315 33.9617L11.6=
+415 34.5453C11.5369 34.8706 11.0998 36.3535 10.6817 37.8556C9.90243 40.5822=
+ 9.66486 41.2711 9.7789 40.4579C9.82641 40.056 9.8074 40.0178 9.32275 39.48=
+2C6.29132 36.1909 4.41924 32.3352 3.68751 27.8578C3.41193 26.2218 3.44044 2=
+2.7201 3.73503 21.1128C4.56178 16.5971 6.38635 12.9137 9.37027 9.76606C14.2=
+358 4.64757 21.0494 2.29402 28.0816 3.31772ZM15.2241 34.2391C14.5399 35.664=
+7 13.3235 39.0802 13.428 39.262C13.4755 39.3481 13.8842 39.7403 14.3403 40.=
+1421C14.8059 40.544 15.1956 40.9171 15.2146 40.9841C15.2431 41.051 15.1005 =
+41.2615 14.901 41.4624C14.6919 41.6825 14.6159 41.7303 14.7109 41.5868C15.0=
+815 41.0032 15.11 41.0797 14.1502 40.19C13.504 39.5872 13.2475 39.2907 13.2=
+475 39.128C13.2475 38.6305 15.129 33.8373 15.3286 33.8373C15.3761 33.8373 1=
+5.3286 34.0191 15.2241 34.2391Z"></path></svg></a><ul class=3D"header__List=
+-sc-1lpxlh0-3 LYiXj"><li><a aria-current=3D"page" name=3D"/documentation" c=
+lass=3D"header__Link-sc-1lpxlh0-2 eIsSlF nav-item__primary active" href=3D"=
+https://rickandmortyapi.com/documentation"><font style=3D"vertical-align: i=
+nherit;"><font style=3D"vertical-align: inherit;">Documentos</font></font><=
+/a></li><li><a name=3D"/about" class=3D"header__Link-sc-1lpxlh0-2 eIsSlF na=
+v-item__primary" href=3D"https://rickandmortyapi.com/about"><font style=3D"=
+vertical-align: inherit;"><font style=3D"vertical-align: inherit;">Sobre</f=
+ont></font></a></li><li><a class=3D"header__Link-sc-1lpxlh0-2 eIsSlF nav-it=
+em" href=3D"https://rickandmortyapi.com/help-us"><span class=3D"caption__Ca=
+ption-w9tm9f-0 button__Button-sc-5mhuas-0 header__Button-sc-1lpxlh0-4 jwJec=
+e dTkcTc erFval desktop nav-item"><font style=3D"vertical-align: inherit;">=
+<font style=3D"vertical-align: inherit;">Ay=C3=BAdanos</font></font></span>=
+<span class=3D"caption__Caption-w9tm9f-0 button__Button-sc-5mhuas-0 header_=
+_Button-sc-1lpxlh0-4 jwJece keqpVm erFval mobile nav-item" title=3D"Ay=C3=
+=BAdanos" aria-label=3D"Ay=C3=BAdanos"><svg stroke=3D"currentColor" fill=3D=
+"currentColor" stroke-width=3D"0" viewBox=3D"0 0 12 16" height=3D"1em" widt=
+h=3D"1em" xmlns=3D"http://www.w3.org/2000/svg" style=3D"font-size: 16px; ve=
+rtical-align: middle;"><path fill-rule=3D"evenodd" d=3D"M9 2c-.97 0-1.69.42=
+-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-1.632.0=
+86-2.954 1.333-3 3 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.3=
+9 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.047-1.69-1.342-2.913-3-3z"><=
+/path></svg></span></a></li></ul></nav></header><main class=3D"layout__Main=
+-sc-1tka7c-0 fvEmfW"><div class=3D"mdxPages__MarkdownWrapper-sc-152okm3-0 h=
+cPGbd"><div class=3D"docs__Wrapper-y8vzk-0 iwfUYx"><aside class=3D"sidebar_=
+_Wrapper-sc-1qv9b7u-1 gmaGpC"><div id=3D"nav-mobile"><button class=3D"butto=
+n__ButtonWrapper-sc-11h7etp-1 jlOiRP"><svg viewBox=3D"0 0 459 459" class=3D=
+"button__Svg-sc-11h7etp-0 hkDYHb button___StyledIcon-sc-11h7etp-2 esnBGc"><=
+path d=3D"M459.319,229.668c0,22.201-17.992,40.193-40.205,40.193H269.85v149.=
+271c0,22.207-17.998,40.199-40.196,40.193 c-11.101,0-21.149-4.492-28.416-11.=
+763c-7.276-7.281-11.774-17.324-11.769-28.419l-0.006-149.288H40.181 c-11.094=
+,0-21.134-4.492-28.416-11.774c-7.264-7.264-11.759-17.312-11.759-28.413C0,20=
+7.471,17.992,189.475,40.202,189.475h149.267 V40.202C189.469,17.998,207.471,=
+0,229.671,0c22.192,0.006,40.178,17.986,40.19,40.187v149.288h149.282 C441.33=
+9,189.487,459.308,207.471,459.319,229.668z"></path></svg></button><div clas=
+s=3D"mobile__Wrapper-ezyuhy-0 gBSXWo"><nav class=3D"mobile__Nav-ezyuhy-1 hE=
+Jucj"><div class=3D"sidebar__TOCWrapper-sc-1qv9b7u-0 cYgfJU"><ul><li class=
+=3D"section"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL title" href=3D"h=
+ttps://rickandmortyapi.com/documentation/#introduction"><font style=3D"vert=
+ical-align: inherit;"><font style=3D"vertical-align: inherit;">Introducci=
+=C3=B3n</font></font></a><ul><li class=3D"item"><a class=3D"sidebar__Link-s=
+c-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#grap=
+hql"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align=
+: inherit;">Gr=C3=A1ficoQL</font></font></a></li><li class=3D"item"><a clas=
+s=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com=
+/documentation/#rest"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">DESCANSO</font></font></a></li><li class=3D"i=
+tem"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickand=
+mortyapi.com/documentation/#info-and-pagination"><font style=3D"vertical-al=
+ign: inherit;"><font style=3D"vertical-align: inherit;">Informaci=C3=B3n y =
+Paginaci=C3=B3n</font></font></a></li><li class=3D"item"><a class=3D"sideba=
+r__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentat=
+ion/#javascript-client"><font style=3D"vertical-align: inherit;"><font styl=
+e=3D"vertical-align: inherit;">cliente JavaScript</font></font></a></li></u=
+l></li><li class=3D"section"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL =
+title" href=3D"https://rickandmortyapi.com/documentation/#character"><font =
+style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"=
+>Personaje</font></font></a><ul><li class=3D"item"><a class=3D"sidebar__Lin=
+k-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#c=
+haracter-schema"><font style=3D"vertical-align: inherit;"><font style=3D"ve=
+rtical-align: inherit;">esquema de caracteres</font></font></a></li><li cla=
+ss=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://=
+rickandmortyapi.com/documentation/#get-all-characters"><font style=3D"verti=
+cal-align: inherit;"><font style=3D"vertical-align: inherit;">Obtener todos=
+ los personajes</font></font></a></li><li class=3D"item"><a class=3D"sideba=
+r__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentat=
+ion/#get-a-single-character"><font style=3D"vertical-align: inherit;"><font=
+ style=3D"vertical-align: inherit;">Consigue un solo personaje</font></font=
+></a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL"=
+ href=3D"https://rickandmortyapi.com/documentation/#get-multiple-characters=
+"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: i=
+nherit;">Consigue varios personajes</font></font></a></li><li class=3D"item=
+"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmor=
+tyapi.com/documentation/#filter-characters"><font style=3D"vertical-align: =
+inherit;"><font style=3D"vertical-align: inherit;">Filtrar caracteres</font=
+></font></a></li></ul></li><li class=3D"section"><a class=3D"sidebar__Link-=
+sc-1qv9b7u-2 ghTjvL title" href=3D"https://rickandmortyapi.com/documentatio=
+n/#location"><font style=3D"vertical-align: inherit;"><font style=3D"vertic=
+al-align: inherit;">Ubicaci=C3=B3n</font></font></a><ul><li class=3D"item">=
+<a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmorty=
+api.com/documentation/#location-schema"><font style=3D"vertical-align: inhe=
+rit;"><font style=3D"vertical-align: inherit;">esquema de ubicaci=C3=B3n</f=
+ont></font></a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u=
+-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#get-all-locat=
+ions"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-alig=
+n: inherit;">Obtener todas las ubicaciones</font></font></a></li><li class=
+=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://ri=
+ckandmortyapi.com/documentation/#get-a-single-location">Get a single locati=
+on</a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL=
+" href=3D"https://rickandmortyapi.com/documentation/#get-multiple-locations=
+">Get multiple locations</a></li><li class=3D"item"><a class=3D"sidebar__Li=
+nk-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#=
+filter-locations">Filter locations</a></li></ul></li><li class=3D"section">=
+<a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL title" href=3D"https://rickan=
+dmortyapi.com/documentation/#episode">Episode</a><ul><li class=3D"item"><a =
+class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi=
+.com/documentation/#episode-schema">Episode schema</a></li><li class=3D"ite=
+m"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmo=
+rtyapi.com/documentation/#get-all-episodes">Get all episodes</a></li><li cl=
+ass=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https:/=
+/rickandmortyapi.com/documentation/#get-a-single-episode">Get a single epis=
+ode</a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjv=
+L" href=3D"https://rickandmortyapi.com/documentation/#get-multiple-episodes=
+">Get multiple episodes</a></li><li class=3D"item"><a class=3D"sidebar__Lin=
+k-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#f=
+ilter-episodes">Filter episodes</a></li></ul></li><li class=3D"section"><a =
+class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL title" href=3D"https://rickandmo=
+rtyapi.com/documentation/#libraries">Libraries</a><ul><li class=3D"item"><a=
+ class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyap=
+i.com/documentation/#dart">Dart</a></li><li class=3D"item"><a class=3D"side=
+bar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/document=
+ation/#elixir">Elixir</a></li><li class=3D"item"><a class=3D"sidebar__Link-=
+sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#go"=
+>Go</a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjv=
+L" href=3D"https://rickandmortyapi.com/documentation/#java">Java</a></li><l=
+i class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"htt=
+ps://rickandmortyapi.com/documentation/#net">.NET</a></li><li class=3D"item=
+"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmor=
+tyapi.com/documentation/#python">Python</a></li><li class=3D"item"><a class=
+=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/=
+documentation/#r">R</a></li><li class=3D"item"><a class=3D"sidebar__Link-sc=
+-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#ruby"=
+>Ruby</a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghT=
+jvL" href=3D"https://rickandmortyapi.com/documentation/#rust">Rust</a></li>=
+<li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"h=
+ttps://rickandmortyapi.com/documentation/#swift">Swift</a></li></ul></li></=
+ul></div></nav></div></div><div id=3D"nav-desktop" class=3D"desktop__Wrappe=
+r-sc-16dcqc-0 cPElHS"><nav><div class=3D"sidebar__TOCWrapper-sc-1qv9b7u-0 c=
+YgfJU"><ul><li class=3D"section"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghT=
+jvL title" href=3D"https://rickandmortyapi.com/documentation/#introduction"=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;">Introducci=C3=B3n</font></font></a><ul><li class=3D"item"><a class=
+=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/=
+documentation/#graphql"><font style=3D"vertical-align: inherit;"><font styl=
+e=3D"vertical-align: inherit;">Gr=C3=A1ficoQL</font></font></a></li><li cla=
+ss=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://=
+rickandmortyapi.com/documentation/#rest"><font style=3D"vertical-align: inh=
+erit;"><font style=3D"vertical-align: inherit;">DESCANSO</font></font></a><=
+/li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=
+=3D"https://rickandmortyapi.com/documentation/#info-and-pagination"><font s=
+tyle=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">=
+Informaci=C3=B3n y Paginaci=C3=B3n</font></font></a></li><li class=3D"item"=
+><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmort=
+yapi.com/documentation/#javascript-client"><font style=3D"vertical-align: i=
+nherit;"><font style=3D"vertical-align: inherit;">cliente JavaScript</font>=
+</font></a></li></ul></li><li class=3D"section"><a class=3D"sidebar__Link-s=
+c-1qv9b7u-2 ghTjvL title" href=3D"https://rickandmortyapi.com/documentation=
+/#character"><font style=3D"vertical-align: inherit;"><font style=3D"vertic=
+al-align: inherit;">Personaje</font></font></a><ul><li class=3D"item"><a cl=
+ass=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.c=
+om/documentation/#character-schema"><font style=3D"vertical-align: inherit;=
+"><font style=3D"vertical-align: inherit;">esquema de caracteres</font></fo=
+nt></a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjv=
+L" href=3D"https://rickandmortyapi.com/documentation/#get-all-characters"><=
+font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inhe=
+rit;">Obtener todos los personajes</font></font></a></li><li class=3D"item"=
+><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmort=
+yapi.com/documentation/#get-a-single-character"><font style=3D"vertical-ali=
+gn: inherit;"><font style=3D"vertical-align: inherit;">Consigue un solo per=
+sonaje</font></font></a></li><li class=3D"item"><a class=3D"sidebar__Link-s=
+c-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#get-=
+multiple-characters"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">Consigue varios personajes</font></font></a><=
+/li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=
+=3D"https://rickandmortyapi.com/documentation/#filter-characters"><font sty=
+le=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">Fi=
+ltrar caracteres</font></font></a></li></ul></li><li class=3D"section"><a c=
+lass=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL title" href=3D"https://rickandmor=
+tyapi.com/documentation/#location"><font style=3D"vertical-align: inherit;"=
+><font style=3D"vertical-align: inherit;">Ubicaci=C3=B3n</font></font></a><=
+ul><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=
+=3D"https://rickandmortyapi.com/documentation/#location-schema"><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">esqu=
+ema de ubicaci=C3=B3n</font></font></a></li><li class=3D"item"><a class=3D"=
+sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/docu=
+mentation/#get-all-locations"><font style=3D"vertical-align: inherit;"><fon=
+t style=3D"vertical-align: inherit;">Obtener todas las ubicaciones</font></=
+font></a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghT=
+jvL" href=3D"https://rickandmortyapi.com/documentation/#get-a-single-locati=
+on"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align:=
+ inherit;">Obtener una sola ubicaci=C3=B3n</font></font></a></li><li class=
+=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://ri=
+ckandmortyapi.com/documentation/#get-multiple-locations"><font style=3D"ver=
+tical-align: inherit;"><font style=3D"vertical-align: inherit;">Obtener var=
+ias ubicaciones</font></font></a></li><li class=3D"item"><a class=3D"sideba=
+r__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentat=
+ion/#filter-locations"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">Filtrar ubicaciones</font></font></a></li></u=
+l></li><li class=3D"section"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL =
+title" href=3D"https://rickandmortyapi.com/documentation/#episode"><font st=
+yle=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">E=
+pisodio</font></font></a><ul><li class=3D"item"><a class=3D"sidebar__Link-s=
+c-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#epis=
+ode-schema"><font style=3D"vertical-align: inherit;"><font style=3D"vertica=
+l-align: inherit;">esquema del episodio</font></font></a></li><li class=3D"=
+item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickan=
+dmortyapi.com/documentation/#get-all-episodes"><font style=3D"vertical-alig=
+n: inherit;"><font style=3D"vertical-align: inherit;">Obtener todos los epi=
+sodios</font></font></a></li><li class=3D"item"><a class=3D"sidebar__Link-s=
+c-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#get-=
+a-single-episode"><font style=3D"vertical-align: inherit;"><font style=3D"v=
+ertical-align: inherit;">Obtener un solo episodio</font></font></a></li><li=
+ class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"http=
+s://rickandmortyapi.com/documentation/#get-multiple-episodes"><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">Obte=
+ner m=C3=BAltiples episodios</font></font></a></li><li class=3D"item"><a cl=
+ass=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.c=
+om/documentation/#filter-episodes"><font style=3D"vertical-align: inherit;"=
+><font style=3D"vertical-align: inherit;">Filtrar episodios</font></font></=
+a></li></ul></li><li class=3D"section"><a class=3D"sidebar__Link-sc-1qv9b7u=
+-2 ghTjvL title" href=3D"https://rickandmortyapi.com/documentation/#librari=
+es"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align:=
+ inherit;">bibliotecas</font></font></a><ul><li class=3D"item"><a class=3D"=
+sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/docu=
+mentation/#dart"><font style=3D"vertical-align: inherit;"><font style=3D"ve=
+rtical-align: inherit;">Dardo</font></font></a></li><li class=3D"item"><a c=
+lass=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.=
+com/documentation/#elixir"><font style=3D"vertical-align: inherit;"><font s=
+tyle=3D"vertical-align: inherit;">Elixir</font></font></a></li><li class=3D=
+"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://ricka=
+ndmortyapi.com/documentation/#go"><font style=3D"vertical-align: inherit;">=
+<font style=3D"vertical-align: inherit;">Ir</font></font></a></li><li class=
+=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://ri=
+ckandmortyapi.com/documentation/#java"><font style=3D"vertical-align: inher=
+it;"><font style=3D"vertical-align: inherit;">Java</font></font></a></li><l=
+i class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"htt=
+ps://rickandmortyapi.com/documentation/#net"><font style=3D"vertical-align:=
+ inherit;"><font style=3D"vertical-align: inherit;">.NETO</font></font></a>=
+</li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u-2 ghTjvL" href=
+=3D"https://rickandmortyapi.com/documentation/#python"><font style=3D"verti=
+cal-align: inherit;"><font style=3D"vertical-align: inherit;">Pit=C3=B3n</f=
+ont></font></a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7u=
+-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#r"><font styl=
+e=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">R</=
+font></font></a></li><li class=3D"item"><a class=3D"sidebar__Link-sc-1qv9b7=
+u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#ruby"><font =
+style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"=
+>Rub=C3=AD</font></font></a></li><li class=3D"item"><a class=3D"sidebar__Li=
+nk-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documentation/#=
+rust"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-alig=
+n: inherit;">Oxido</font></font></a></li><li class=3D"item"><a class=3D"sid=
+ebar__Link-sc-1qv9b7u-2 ghTjvL" href=3D"https://rickandmortyapi.com/documen=
+tation/#swift"><font style=3D"vertical-align: inherit;"><font style=3D"vert=
+ical-align: inherit;">R=C3=A1pido</font></font></a></li></ul></li></ul></di=
+v></nav></div></aside><div class=3D"content"><article class=3D"article__Art=
+icle-dsqu2p-0 docs__Article-y8vzk-1 kuaylo gJdYTa"><h2 id=3D"introduction">=
+<font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inh=
+erit;">Introducci=C3=B3n</font></font></h2><p><font style=3D"vertical-align=
+: inherit;"><font style=3D"vertical-align: inherit;">Esta documentaci=C3=B3=
+n lo ayudar=C3=A1 a familiarizarse con los recursos de la </font></font><st=
+rong><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align=
+: inherit;">API de Rick and Morty</font></font></strong><font style=3D"vert=
+ical-align: inherit;"><font style=3D"vertical-align: inherit;"> y le mostra=
+r=C3=A1 c=C3=B3mo realizar diferentes consultas, para que pueda aprovecharl=
+a al m=C3=A1ximo.</font></font></p><h3 id=3D"graphql"><font style=3D"vertic=
+al-align: inherit;"><font style=3D"vertical-align: inherit;">Gr=C3=A1ficoQL=
+</font></font></h3><p><a href=3D"https://rickandmortyapi.com/graphql" targe=
+t=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=3D"vertical-a=
+lign: inherit;"><font style=3D"vertical-align: inherit;">https://rickandmor=
+tyapi.com/graphql</font></font></a></p><div class=3D"gatsby-highlight" data=
+-language=3D"graphql"><pre class=3D"language-graphql"><code class=3D"langua=
+ge-graphql"><span class=3D"token keyword">query</span> <span class=3D"token=
+ punctuation">{</span>
+  characters<span class=3D"token punctuation">(</span><span class=3D"token =
+attr-name">page</span><span class=3D"token punctuation">:</span> <span clas=
+s=3D"token number">2</span><span class=3D"token punctuation">,</span> <span=
+ class=3D"token attr-name">filter</span><span class=3D"token punctuation">:=
+</span> <span class=3D"token punctuation">{</span> <span class=3D"token att=
+r-name">name</span><span class=3D"token punctuation">:</span> <span class=
+=3D"token string">"rick"</span> <span class=3D"token punctuation">}</span><=
+span class=3D"token punctuation">)</span> <span class=3D"token punctuation"=
+>{</span>
+    info <span class=3D"token punctuation">{</span><font></font>
+      count<font></font>
+    <span class=3D"token punctuation">}</span>
+    results <span class=3D"token punctuation">{</span><font></font>
+      name<font></font>
+    <span class=3D"token punctuation">}</span>
+  <span class=3D"token punctuation">}</span>
+  location<span class=3D"token punctuation">(</span><span class=3D"token at=
+tr-name">id</span><span class=3D"token punctuation">:</span> <span class=3D=
+"token number">1</span><span class=3D"token punctuation">)</span> <span cla=
+ss=3D"token punctuation">{</span><font></font>
+    id<font></font>
+  <span class=3D"token punctuation">}</span>
+  episodesByIds<span class=3D"token punctuation">(</span><span class=3D"tok=
+en attr-name">ids</span><span class=3D"token punctuation">:</span> <span cl=
+ass=3D"token punctuation">[</span><span class=3D"token number">1</span><spa=
+n class=3D"token punctuation">,</span> <span class=3D"token number">2</span=
+><span class=3D"token punctuation">]</span><span class=3D"token punctuation=
+">)</span> <span class=3D"token punctuation">{</span><font></font>
+    id<font></font>
+  <span class=3D"token punctuation">}</span>
+<span class=3D"token punctuation">}</span>
+</code></pre></div><blockquote><p><em><font style=3D"vertical-align: inheri=
+t;"><font style=3D"vertical-align: inherit;">=C2=BFNuevo en GraphQL? </font=
+><font style=3D"vertical-align: inherit;">revisa los documentos </font></fo=
+nt><a href=3D"https://graphql.org/learn/" target=3D"_blank" rel=3D"nofollow=
+ noopener noreferrer"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">aqu=C3=AD</font></font></a></em></p></blockqu=
+ote><h3 id=3D"rest"><font style=3D"vertical-align: inherit;"><font style=3D=
+"vertical-align: inherit;">DESCANSO</font></font></h3><p><strong><font styl=
+e=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">URL=
+ base: </font></font></strong> <a href=3D"https://rickandmortyapi.com/api" =
+target=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=3D"verti=
+cal-align: inherit;"><font style=3D"vertical-align: inherit;">https://ricka=
+ndmortyapi.com/api</font></font></a></p><p><font style=3D"vertical-align: i=
+nherit;"><font style=3D"vertical-align: inherit;">La URL base contiene info=
+rmaci=C3=B3n sobre todos los recursos de API disponibles. </font><font styl=
+e=3D"vertical-align: inherit;">Todas las solicitudes son </font></font><cod=
+e class=3D"language-text">GET</code><font style=3D"vertical-align: inherit;=
+"><font style=3D"vertical-align: inherit;">solicitudes y repasan </font></f=
+ont><code class=3D"language-text">https</code><font style=3D"vertical-align=
+: inherit;"><font style=3D"vertical-align: inherit;">. </font><font style=
+=3D"vertical-align: inherit;">Todas las respuestas devolver=C3=A1n datos en=
+ formato </font></font><code class=3D"language-text">json</code><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">.</f=
+ont></font></p><div class=3D"restQuery__Wrapper-tkzubw-0 iQKEuF gatsby-high=
+light" data-language=3D"shell"><pre class=3D"language-shell"><code class=3D=
+"language-shell"><span class=3D"endpoint"><span class=3D"request">GET </spa=
+n>https://rickandmortyapi.com/api</span></code></pre></div><div class=3D"ga=
+tsby-highlight" data-language=3D"json"><pre class=3D"language-json"><code c=
+lass=3D"language-json"><span class=3D"token punctuation">{</span>
+  <span class=3D"token property">"characters"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/=
+api/character"</span><span class=3D"token punctuation">,</span>
+  <span class=3D"token property">"locations"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location"</span><span class=3D"token punctuation">,</span>
+  <span class=3D"token property">"episodes"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/ap=
+i/episode"</span>
+<span class=3D"token punctuation">}</span></code></pre></div><p><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">Actu=
+almente hay tres recursos disponibles:</font></font></p><ul><li><a href=3D"=
+https://rickandmortyapi.com/documentation#character"><font style=3D"vertica=
+l-align: inherit;"><font style=3D"vertical-align: inherit;">Personaje</font=
+></font></a><font style=3D"vertical-align: inherit;"><font style=3D"vertica=
+l-align: inherit;"> : se utiliza para obtener todos los personajes.</font><=
+/font></li><li><a href=3D"https://rickandmortyapi.com/documentation#locatio=
+n"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: =
+inherit;">Ubicaci=C3=B3n</font></font></a><font style=3D"vertical-align: in=
+herit;"><font style=3D"vertical-align: inherit;"> : se utiliza para obtener=
+ todas las ubicaciones.</font></font></li><li><a href=3D"https://rickandmor=
+tyapi.com/documentation#episode"><font style=3D"vertical-align: inherit;"><=
+font style=3D"vertical-align: inherit;">Episodio</font></font></a><font sty=
+le=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"> :=
+ se utiliza para obtener todos los episodios.</font></font></li></ul><h3 id=
+=3D"info-and-pagination"><font style=3D"vertical-align: inherit;"><font sty=
+le=3D"vertical-align: inherit;">Informaci=C3=B3n y Paginaci=C3=B3n</font></=
+font></h3><p><font style=3D"vertical-align: inherit;"><font style=3D"vertic=
+al-align: inherit;">La API paginar=C3=A1 autom=C3=A1ticamente las respuesta=
+s. </font><font style=3D"vertical-align: inherit;">Recibir=C3=A1 hasta 20 d=
+ocumentos por p=C3=A1gina.</font></font></p><p><font style=3D"vertical-alig=
+n: inherit;"><font style=3D"vertical-align: inherit;">Cada recurso contiene=
+ un </font></font><code class=3D"language-text">info</code><font style=3D"v=
+ertical-align: inherit;"><font style=3D"vertical-align: inherit;">objeto co=
+n informaci=C3=B3n sobre la respuesta.</font></font></p><table><thead><tr><=
+th><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: =
+inherit;">Llave</font></font></th><th><font style=3D"vertical-align: inheri=
+t;"><font style=3D"vertical-align: inherit;">Escribe</font></font></th><th>=
+<font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inh=
+erit;">Descripci=C3=B3n</font></font></th></tr></thead><tbody><tr><td><font=
+ style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;=
+">contar</font></font></td><td><font style=3D"vertical-align: inherit;"><fo=
+nt style=3D"vertical-align: inherit;">En t</font></font></td><td><font styl=
+e=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">La =
+longitud de la respuesta</font></font></td></tr><tr><td><font style=3D"vert=
+ical-align: inherit;"><font style=3D"vertical-align: inherit;">paginas</fon=
+t></font></td><td><font style=3D"vertical-align: inherit;"><font style=3D"v=
+ertical-align: inherit;">En t</font></font></td><td><font style=3D"vertical=
+-align: inherit;"><font style=3D"vertical-align: inherit;">la cantidad de p=
+aginas</font></font></td></tr><tr><td><font style=3D"vertical-align: inheri=
+t;"><font style=3D"vertical-align: inherit;">pr=C3=B3ximo</font></font></td=
+><td><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align=
+: inherit;">cadena (direcci=C3=B3n)</font></font></td><td><font style=3D"ve=
+rtical-align: inherit;"><font style=3D"vertical-align: inherit;">Enlace a l=
+a p=C3=A1gina siguiente (si existe)</font></font></td></tr><tr><td><font st=
+yle=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">a=
+nterior</font></font></td><td><font style=3D"vertical-align: inherit;"><fon=
+t style=3D"vertical-align: inherit;">cadena (direcci=C3=B3n)</font></font><=
+/td><td><font style=3D"vertical-align: inherit;"><font style=3D"vertical-al=
+ign: inherit;">Enlace a la p=C3=A1gina anterior (si existe)</font></font></=
+td></tr></tbody></table><div class=3D"restQuery__Wrapper-tkzubw-0 iQKEuF ga=
+tsby-highlight" data-language=3D"shell"><pre class=3D"language-shell"><code=
+ class=3D"language-shell"><span class=3D"endpoint"><span class=3D"request">=
+GET </span>https://rickandmortyapi.com/api</span>/character</code></pre></d=
+iv><div class=3D"gatsby-highlight" data-language=3D"json"><pre class=3D"lan=
+guage-json"><code class=3D"language-json"><span class=3D"token punctuation"=
+>{</span>
+  <span class=3D"token property">"info"</span><span class=3D"token operator=
+">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"count"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">826</span><span class=3D"token p=
+unctuation">,</span>
+    <span class=3D"token property">"pages"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">42</span><span class=3D"token pu=
+nctuation">,</span>
+    <span class=3D"token property">"next"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+character/?page=3D2"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"prev"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token null keyword">null</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"results"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span>
+<span class=3D"token punctuation">}</span></code></pre></div><p><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">Pued=
+e acceder a diferentes p=C3=A1ginas con el </font></font><code class=3D"lan=
+guage-text">page</code><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">par=C3=A1metro. </font><font style=3D"vertica=
+l-align: inherit;">Si no especifica ninguna p=C3=A1gina, se mostrar=C3=A1 l=
+a primera p=C3=A1gina. </font><font style=3D"vertical-align: inherit;">Por =
+ejemplo, para acceder a la p=C3=A1gina 2, agregue </font></font><code class=
+=3D"language-text">?page=3D2</code><font style=3D"vertical-align: inherit;"=
+><font style=3D"vertical-align: inherit;">al final de la URL.</font></font>=
+</p><div class=3D"restQuery__Wrapper-tkzubw-0 iQKEuF gatsby-highlight" data=
+-language=3D"shell"><pre class=3D"language-shell"><code class=3D"language-s=
+hell"><span class=3D"endpoint"><span class=3D"request">GET </span>https://r=
+ickandmortyapi.com/api</span>/character/?page=3D19</code></pre></div><div c=
+lass=3D"gatsby-highlight" data-language=3D"json"><pre class=3D"language-jso=
+n"><code class=3D"language-json"><span class=3D"token punctuation">{</span>
+  <span class=3D"token property">"info"</span><span class=3D"token operator=
+">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"count"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">826</span><span class=3D"token p=
+unctuation">,</span>
+    <span class=3D"token property">"pages"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">42</span><span class=3D"token pu=
+nctuation">,</span>
+    <span class=3D"token property">"next"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+character/?page=3D20"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"prev"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+character/?page=3D18"</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"results"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"id"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token number">361</span><span class=3D"token pu=
+nctuation">,</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Toxic Rick"</span><span class=
+=3D"token punctuation">,</span>
+      <span class=3D"token property">"status"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Dead"</span><span class=3D"t=
+oken punctuation">,</span>
+      <span class=3D"token property">"species"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"Humanoid"</span><span class=
+=3D"token punctuation">,</span>
+      <span class=3D"token property">"type"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Rick's Toxic Side"</span><span=
+ class=3D"token punctuation">,</span>
+      <span class=3D"token property">"gender"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Male"</span><span class=3D"t=
+oken punctuation">,</span>
+      <span class=3D"token property">"origin"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token punctuation">{</span>
+        <span class=3D"token property">"name"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Alien Spa"</span><span class=
+=3D"token punctuation">,</span>
+        <span class=3D"token property">"url"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location/64"</span>
+      <span class=3D"token punctuation">}</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"location"</span><span class=3D"token =
+operator">:</span> <span class=3D"token punctuation">{</span>
+        <span class=3D"token property">"name"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Earth"</span><span class=3D"=
+token punctuation">,</span>
+        <span class=3D"token property">"url"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location/20"</span>
+      <span class=3D"token punctuation">}</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"image"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/character/avatar/361.jpeg"</span><span class=3D"token punctuation">,</sp=
+an>
+      <span class=3D"token property">"episode"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token punctuation">[</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/episo=
+de/27"</span>
+      <span class=3D"token punctuation">]</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/character/361"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token property">"created"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"2018-01-10T18:20:41.703Z"</=
+span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"java=
+script-client"><font style=3D"vertical-align: inherit;"><font style=3D"vert=
+ical-align: inherit;">cliente JavaScript</font></font></h3><p><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">El c=
+liente JavaScript de la API de Rick and Morty es un cliente </font></font><=
+a href=3D"https://javascript.rickandmortyapi.com/modules/interfaces.html" t=
+arget=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=3D"vertic=
+al-align: inherit;"><font style=3D"vertical-align: inherit;">totalmente tip=
+ificado</font></font></a><font style=3D"vertical-align: inherit;"><font sty=
+le=3D"vertical-align: inherit;"> que le brinda acceso a la API y sus funcio=
+nes.</font></font></p><ul><li><a href=3D"https://github.com/afuh/rick-and-m=
+orty-api-node" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><font=
+ style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;=
+">Ver en GitHub</font></font></a></li><li><a href=3D"https://javascript.ric=
+kandmortyapi.com/" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><=
+font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inhe=
+rit;">Referencia de cliente</font></font></a></li></ul><h2 id=3D"character"=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;">Personaje</font></font></h2><p><font style=3D"vertical-align: inher=
+it;"><font style=3D"vertical-align: inherit;">Hay un total de </font></font=
+><code class=3D"language-text">826</code><font style=3D"vertical-align: inh=
+erit;"><font style=3D"vertical-align: inherit;">caracteres ordenados por id=
+.</font></font></p><h3 id=3D"character-schema"><font style=3D"vertical-alig=
+n: inherit;"><font style=3D"vertical-align: inherit;">esquema de caracteres=
+</font></font></h3><table><thead><tr><th><font style=3D"vertical-align: inh=
+erit;"><font style=3D"vertical-align: inherit;">Llave</font></font></th><th=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;">Escribe</font></font></th><th><font style=3D"vertical-align: inheri=
+t;"><font style=3D"vertical-align: inherit;">Descripci=C3=B3n</font></font>=
+</th></tr></thead><tbody><tr><td><font style=3D"vertical-align: inherit;"><=
+font style=3D"vertical-align: inherit;">identificaci=C3=B3n</font></font></=
+td><td><font style=3D"vertical-align: inherit;"><font style=3D"vertical-ali=
+gn: inherit;">En t</font></font></td><td><font style=3D"vertical-align: inh=
+erit;"><font style=3D"vertical-align: inherit;">La identificaci=C3=B3n del =
+personaje.</font></font></td></tr><tr><td><font style=3D"vertical-align: in=
+herit;"><font style=3D"vertical-align: inherit;">nombre</font></font></td><=
+td><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: =
+inherit;">cuerda</font></font></td><td><font style=3D"vertical-align: inher=
+it;"><font style=3D"vertical-align: inherit;">El nombre del personaje.</fon=
+t></font></td></tr><tr><td><font style=3D"vertical-align: inherit;"><font s=
+tyle=3D"vertical-align: inherit;">estado</font></font></td><td><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">cuer=
+da</font></font></td><td><font style=3D"vertical-align: inherit;"><font sty=
+le=3D"vertical-align: inherit;">El estado del personaje ('Vivo', 'Muerto' o=
+ 'desconocido').</font></font></td></tr><tr><td><font style=3D"vertical-ali=
+gn: inherit;"><font style=3D"vertical-align: inherit;">especies</font></fon=
+t></td><td><font style=3D"vertical-align: inherit;"><font style=3D"vertical=
+-align: inherit;">cuerda</font></font></td><td><font style=3D"vertical-alig=
+n: inherit;"><font style=3D"vertical-align: inherit;">La especie del person=
+aje.</font></font></td></tr><tr><td><font style=3D"vertical-align: inherit;=
+"><font style=3D"vertical-align: inherit;">escribe</font></font></td><td><f=
+ont style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inher=
+it;">cuerda</font></font></td><td><font style=3D"vertical-align: inherit;">=
+<font style=3D"vertical-align: inherit;">El tipo o subespecie del personaje=
+.</font></font></td></tr><tr><td><font style=3D"vertical-align: inherit;"><=
+font style=3D"vertical-align: inherit;">g=C3=A9nero</font></font></td><td><=
+font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inhe=
+rit;">cuerda</font></font></td><td><font style=3D"vertical-align: inherit;"=
+><font style=3D"vertical-align: inherit;">El g=C3=A9nero del personaje ('Fe=
+menino', 'Masculino', 'Sin g=C3=A9nero' o 'desconocido').</font></font></td=
+></tr><tr><td><font style=3D"vertical-align: inherit;"><font style=3D"verti=
+cal-align: inherit;">origen</font></font></td><td><font style=3D"vertical-a=
+lign: inherit;"><font style=3D"vertical-align: inherit;">objeto</font></fon=
+t></td><td><font style=3D"vertical-align: inherit;"><font style=3D"vertical=
+-align: inherit;">Nombre y enlace a la ubicaci=C3=B3n de origen del persona=
+je.</font></font></td></tr><tr><td><font style=3D"vertical-align: inherit;"=
+><font style=3D"vertical-align: inherit;">ubicaci=C3=B3n</font></font></td>=
+<td><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align:=
+ inherit;">objeto</font></font></td><td><font style=3D"vertical-align: inhe=
+rit;"><font style=3D"vertical-align: inherit;">Nombre y enlace al punto fin=
+al de la =C3=BAltima ubicaci=C3=B3n conocida del personaje.</font></font></=
+td></tr><tr><td><font style=3D"vertical-align: inherit;"><font style=3D"ver=
+tical-align: inherit;">imagen</font></font></td><td><font style=3D"vertical=
+-align: inherit;"><font style=3D"vertical-align: inherit;">cadena (direcci=
+=C3=B3n)</font></font></td><td><font style=3D"vertical-align: inherit;"><fo=
+nt style=3D"vertical-align: inherit;">Enlace a la imagen del personaje. </f=
+ont><font style=3D"vertical-align: inherit;">Todas las im=C3=A1genes son de=
+ 300x300px y la mayor=C3=ADa son planos medios o retratos, ya que est=C3=A1=
+n destinados a ser utilizados como avatares.</font></font></td></tr><tr><td=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;">episodio</font></font></td><td><font style=3D"vertical-align: inher=
+it;"><font style=3D"vertical-align: inherit;">matriz (URL)</font></font></t=
+d><td><font style=3D"vertical-align: inherit;"><font style=3D"vertical-alig=
+n: inherit;">Lista de episodios en los que apareci=C3=B3 este personaje.</f=
+ont></font></td></tr><tr><td><font style=3D"vertical-align: inherit;"><font=
+ style=3D"vertical-align: inherit;">URL</font></font></td><td><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">cade=
+na (direcci=C3=B3n)</font></font></td><td><font style=3D"vertical-align: in=
+herit;"><font style=3D"vertical-align: inherit;">Enlace al extremo de la UR=
+L del propio personaje.</font></font></td></tr><tr><td><font style=3D"verti=
+cal-align: inherit;"><font style=3D"vertical-align: inherit;">creado</font>=
+</font></td><td><font style=3D"vertical-align: inherit;"><font style=3D"ver=
+tical-align: inherit;">cuerda</font></font></td><td><font style=3D"vertical=
+-align: inherit;"><font style=3D"vertical-align: inherit;">Hora en la que s=
+e cre=C3=B3 el personaje en la base de datos.</font></font></td></tr></tbod=
+y></table><h3 id=3D"get-all-characters"><font style=3D"vertical-align: inhe=
+rit;"><font style=3D"vertical-align: inherit;">Obtener todos los personajes=
+</font></font></h3><p><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">Puede acceder a la lista de caracteres utiliz=
+ando el </font></font><code class=3D"language-text">/character</code><font =
+style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"=
+>punto final.</font></font></p><div class=3D"restQuery__Wrapper-tkzubw-0 iQ=
+KEuF gatsby-highlight" data-language=3D"shell"><pre class=3D"language-shell=
+"><code class=3D"language-shell"><span class=3D"endpoint"><span class=3D"re=
+quest">GET </span>https://rickandmortyapi.com/api</span>/character</code></=
+pre></div><div class=3D"gatsby-highlight" data-language=3D"json"><pre class=
+=3D"language-json"><code class=3D"language-json"><span class=3D"token punct=
+uation">{</span>
+  <span class=3D"token property">"info"</span><span class=3D"token operator=
+">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"count"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">826</span><span class=3D"token p=
+unctuation">,</span>
+    <span class=3D"token property">"pages"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">42</span><span class=3D"token pu=
+nctuation">,</span>
+    <span class=3D"token property">"next"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+character/?page=3D2"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"prev"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token null keyword">null</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"results"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"id"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token number">1</span><span class=3D"token punc=
+tuation">,</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Rick Sanchez"</span><span clas=
+s=3D"token punctuation">,</span>
+      <span class=3D"token property">"status"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Alive"</span><span class=3D"=
+token punctuation">,</span>
+      <span class=3D"token property">"species"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"Human"</span><span class=3D=
+"token punctuation">,</span>
+      <span class=3D"token property">"type"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">""</span><span class=3D"token p=
+unctuation">,</span>
+      <span class=3D"token property">"gender"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Male"</span><span class=3D"t=
+oken punctuation">,</span>
+      <span class=3D"token property">"origin"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token punctuation">{</span>
+        <span class=3D"token property">"name"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Earth"</span><span class=3D"=
+token punctuation">,</span>
+        <span class=3D"token property">"url"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location/1"</span>
+      <span class=3D"token punctuation">}</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"location"</span><span class=3D"token =
+operator">:</span> <span class=3D"token punctuation">{</span>
+        <span class=3D"token property">"name"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Earth"</span><span class=3D"=
+token punctuation">,</span>
+        <span class=3D"token property">"url"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location/20"</span>
+      <span class=3D"token punctuation">}</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"image"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/character/avatar/1.jpeg"</span><span class=3D"token punctuation">,</span=
+>
+      <span class=3D"token property">"episode"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token punctuation">[</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/episo=
+de/1"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/episo=
+de/2"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token comment">// ...</span>
+      <span class=3D"token punctuation">]</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/character/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token property">"created"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"2017-11-04T18:48:46.250Z"</=
+span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"get-=
+a-single-character"><font style=3D"vertical-align: inherit;"><font style=3D=
+"vertical-align: inherit;">Consigue un solo personaje</font></font></h3><p>=
+<font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inh=
+erit;">Puede obtener un solo car=C3=A1cter agregando </font></font><code cl=
+ass=3D"language-text">id</code><font style=3D"vertical-align: inherit;"><fo=
+nt style=3D"vertical-align: inherit;">como par=C3=A1metro:</font></font><co=
+de class=3D"language-text">/character/2</code></p><div class=3D"restQuery__=
+Wrapper-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre clas=
+s=3D"language-shell"><code class=3D"language-shell"><span class=3D"endpoint=
+"><span class=3D"request">GET </span>https://rickandmortyapi.com/api</span>=
+/character/2</code></pre></div><div class=3D"gatsby-highlight" data-languag=
+e=3D"json"><pre class=3D"language-json"><code class=3D"language-json"><span=
+ class=3D"token punctuation">{</span>
+  <span class=3D"token property">"id"</span><span class=3D"token operator">=
+:</span> <span class=3D"token number">2</span><span class=3D"token punctuat=
+ion">,</span>
+  <span class=3D"token property">"name"</span><span class=3D"token operator=
+">:</span> <span class=3D"token string">"Morty Smith"</span><span class=3D"=
+token punctuation">,</span>
+  <span class=3D"token property">"status"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Alive"</span><span class=3D"toke=
+n punctuation">,</span>
+  <span class=3D"token property">"species"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"Human"</span><span class=3D"tok=
+en punctuation">,</span>
+  <span class=3D"token property">"type"</span><span class=3D"token operator=
+">:</span> <span class=3D"token string">""</span><span class=3D"token punct=
+uation">,</span>
+  <span class=3D"token property">"gender"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Male"</span><span class=3D"token=
+ punctuation">,</span>
+  <span class=3D"token property">"origin"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Earth"</span><span class=3D"toke=
+n punctuation">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/l=
+ocation/1"</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"location"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Earth"</span><span class=3D"toke=
+n punctuation">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/l=
+ocation/20"</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"image"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/c=
+haracter/avatar/2.jpeg"</span><span class=3D"token punctuation">,</span>
+  <span class=3D"token property">"episode"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token string">"https://rickandmortyapi.com/api/episode/1=
+"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token string">"https://rickandmortyapi.com/api/episode/2=
+"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"url"</span><span class=3D"token operator"=
+>:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/cha=
+racter/2"</span><span class=3D"token punctuation">,</span>
+  <span class=3D"token property">"created"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"2017-11-04T18:50:21.651Z"</span=
+>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"get-=
+multiple-characters"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">Consigue varios personajes</font></font></h3>=
+<p>You can get multiple characters by adding an array of <code class=3D"lan=
+guage-text">ids</code> as parameter: <code class=3D"language-text">/charact=
+er/[1,2,3]</code> or <code class=3D"language-text">/character/1,2,3</code><=
+/p><div class=3D"restQuery__Wrapper-tkzubw-0 iQKEuF gatsby-highlight" data-=
+language=3D"shell"><pre class=3D"language-shell"><code class=3D"language-sh=
+ell"><span class=3D"endpoint"><span class=3D"request">GET </span>https://ri=
+ckandmortyapi.com/api</span>/character/1,183</code></pre></div><div class=
+=3D"gatsby-highlight" data-language=3D"json"><pre class=3D"language-json"><=
+code class=3D"language-json"><span class=3D"token punctuation">[</span>
+  <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"id"</span><span class=3D"token operator=
+">:</span> <span class=3D"token number">1</span><span class=3D"token punctu=
+ation">,</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Rick Sanchez"</span><span class=
+=3D"token punctuation">,</span>
+    <span class=3D"token property">"status"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Alive"</span><span class=3D"to=
+ken punctuation">,</span>
+    <span class=3D"token property">"species"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"Human"</span><span class=3D"t=
+oken punctuation">,</span>
+    <span class=3D"token property">"type"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">""</span><span class=3D"token pun=
+ctuation">,</span>
+    <span class=3D"token property">"gender"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Male"</span><span class=3D"tok=
+en punctuation">,</span>
+    <span class=3D"token property">"origin"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Earth (C-137)"</span><span cla=
+ss=3D"token punctuation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/location/1"</span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"location"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Earth (Replacement Dimension)"=
+</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/location/20"</span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"image"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/character/avatar/1.jpeg"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"episode"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token punctuation">[</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/episode=
+/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/episode=
+/2"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token comment">// ...</span>
+    <span class=3D"token punctuation">]</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/c=
+haracter/1"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"created"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"2017-11-04T18:48:46.250Z"</sp=
+an>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"id"</span><span class=3D"token operator=
+">:</span> <span class=3D"token number">183</span><span class=3D"token punc=
+tuation">,</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Johnny Depp"</span><span class=
+=3D"token punctuation">,</span>
+    <span class=3D"token property">"status"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Alive"</span><span class=3D"to=
+ken punctuation">,</span>
+    <span class=3D"token property">"species"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"Human"</span><span class=3D"t=
+oken punctuation">,</span>
+    <span class=3D"token property">"type"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">""</span><span class=3D"token pun=
+ctuation">,</span>
+    <span class=3D"token property">"gender"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Male"</span><span class=3D"tok=
+en punctuation">,</span>
+    <span class=3D"token property">"origin"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Earth (C-500A)"</span><span cl=
+ass=3D"token punctuation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/location/23"</span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"location"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Earth (C-500A)"</span><span cl=
+ass=3D"token punctuation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/location/23"</span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"image"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/character/avatar/183.jpeg"</span><span class=3D"token punctuation">,</span=
+>
+    <span class=3D"token property">"episode"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token punctuation">[</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/episode=
+/8"</span>
+    <span class=3D"token punctuation">]</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/c=
+haracter/183"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"created"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"2017-12-29T18:51:29.693Z"</sp=
+an>
+  <span class=3D"token punctuation">}</span>
+<span class=3D"token punctuation">]</span></code></pre></div><h3 id=3D"filt=
+er-characters">Filter characters</h3><p>You can also include filters in the=
+ URL by including additional query parameters. To start filtering add a <co=
+de class=3D"language-text">?</code> followed by the query <code class=3D"la=
+nguage-text">&lt;query&gt;=3D&lt;value&gt;</code>. If you want to chain sev=
+eral queries in the same call, use <code class=3D"language-text">&amp;</cod=
+e> followed by the query.</p><p>For example, If you want to check how many =
+alive Ricks exist, just add <code class=3D"language-text">?name=3Drick&amp;=
+status=3Dalive</code> to the URL.</p><p>Available parameters:</p><ul><li><c=
+ode class=3D"language-text">name</code>: filter by the given name.</li><li>=
+<code class=3D"language-text">status</code>: filter by the given status (<c=
+ode class=3D"language-text">alive</code>, <code class=3D"language-text">dea=
+d</code> or <code class=3D"language-text">unknown</code>).</li><li><code cl=
+ass=3D"language-text">species</code>: filter by the given species.</li><li>=
+<code class=3D"language-text">type</code>: filter by the given type.</li><l=
+i><code class=3D"language-text">gender</code>: filter by the given gender (=
+<code class=3D"language-text">female</code>, <code class=3D"language-text">=
+male</code>, <code class=3D"language-text">genderless</code> or <code class=
+=3D"language-text">unknown</code>).</li></ul><div class=3D"restQuery__Wrapp=
+er-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre class=3D"=
+language-shell"><code class=3D"language-shell"><span class=3D"endpoint"><sp=
+an class=3D"request">GET </span>https://rickandmortyapi.com/api</span>/char=
+acter/?name=3Drick&amp;status=3Dalive</code></pre></div><div class=3D"gatsb=
+y-highlight" data-language=3D"json"><pre class=3D"language-json"><code clas=
+s=3D"language-json">
+  <span class=3D"token property">"info"</span><span class=3D"token operator=
+">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"count"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">29</span><span class=3D"token pu=
+nctuation">,</span>
+    <span class=3D"token property">"pages"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">2</span><span class=3D"token pun=
+ctuation">,</span>
+    <span class=3D"token property">"next"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+character/?page=3D2&amp;name=3Drick&amp;status=3Dalive"</span><span class=
+=3D"token punctuation">,</span>
+    <span class=3D"token property">"prev"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token null keyword">null</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"results"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"id"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token number">1</span><span class=3D"token punc=
+tuation">,</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Rick Sanchez"</span><span clas=
+s=3D"token punctuation">,</span>
+      <span class=3D"token property">"status"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Alive"</span><span class=3D"=
+token punctuation">,</span>
+      <span class=3D"token property">"species"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"Human"</span><span class=3D=
+"token punctuation">,</span>
+      <span class=3D"token property">"type"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">""</span><span class=3D"token p=
+unctuation">,</span>
+      <span class=3D"token property">"gender"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Male"</span><span class=3D"t=
+oken punctuation">,</span>
+      <span class=3D"token property">"origin"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token punctuation">{</span>
+        <span class=3D"token property">"name"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Earth"</span><span class=3D"=
+token punctuation">,</span>
+        <span class=3D"token property">"url"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location/1"</span>
+      <span class=3D"token punctuation">}</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"location"</span><span class=3D"token =
+operator">:</span> <span class=3D"token punctuation">{</span>
+        <span class=3D"token property">"name"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"Earth"</span><span class=3D"=
+token punctuation">,</span>
+        <span class=3D"token property">"url"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/location/20"</span>
+      <span class=3D"token punctuation">}</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"image"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"https://rickandmortyapi.com/a=
+pi/character/avatar/1.jpeg"</span><span class=3D"token punctuation">,</span=
+>
+      <span class=3D"token property">"episode"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token punctuation">[</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/episo=
+de/1"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/episo=
+de/2"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token comment">//...</span>
+      <span class=3D"token punctuation">]</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/character/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token property">"created"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"2017-11-04T18:48:46.250Z"</=
+span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span>
+<span class=3D"token punctuation">}</span></code></pre></div><h2 id=3D"loca=
+tion">Location</h2><p>There is a total of <code class=3D"language-text">126=
+</code> locations sorted by id.</p><h3 id=3D"location-schema">Location sche=
+ma</h3><table><thead><tr><th>Key</th><th>Type</th><th>Description</th></tr>=
+</thead><tbody><tr><td>id</td><td>int</td><td>The id of the location.</td><=
+/tr><tr><td>name</td><td>string</td><td>The name of the location.</td></tr>=
+<tr><td>type</td><td>string</td><td>The type of the location.</td></tr><tr>=
+<td>dimension</td><td>string</td><td>The dimension in which the location is=
+ located.</td></tr><tr><td>residents</td><td>array (urls)</td><td>List of c=
+haracter who have been last seen in the location.</td></tr><tr><td>url</td>=
+<td>string (url)</td><td>Link to the location's own endpoint.</td></tr><tr>=
+<td>created</td><td>string</td><td>Time at which the location was created i=
+n the database.</td></tr></tbody></table><h3 id=3D"get-all-locations">Get a=
+ll locations</h3><p>You can access the list of locations by using the <code=
+ class=3D"language-text">/location</code> endpoint.</p><div class=3D"restQu=
+ery__Wrapper-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre=
+ class=3D"language-shell"><code class=3D"language-shell"><span class=3D"end=
+point"><span class=3D"request">GET </span>https://rickandmortyapi.com/api</=
+span>/location</code></pre></div><div class=3D"gatsby-highlight" data-langu=
+age=3D"json"><pre class=3D"language-json"><code class=3D"language-json">  <=
+span class=3D"token property">"info"</span><span class=3D"token operator">:=
+</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"count"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">126</span><span class=3D"token p=
+unctuation">,</span>
+    <span class=3D"token property">"pages"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">7</span><span class=3D"token pun=
+ctuation">,</span>
+    <span class=3D"token property">"next"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+location?page=3D2"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"prev"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token null keyword">null</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"results"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"id"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token number">1</span><span class=3D"token punc=
+tuation">,</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Earth"</span><span class=3D"to=
+ken punctuation">,</span>
+      <span class=3D"token property">"type"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Planet"</span><span class=3D"t=
+oken punctuation">,</span>
+      <span class=3D"token property">"dimension"</span><span class=3D"token=
+ operator">:</span> <span class=3D"token string">"Dimension C-137"</span><s=
+pan class=3D"token punctuation">,</span>
+      <span class=3D"token property">"residents"</span><span class=3D"token=
+ operator">:</span> <span class=3D"token punctuation">[</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/chara=
+cter/1"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/chara=
+cter/2"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token comment">// ...</span>
+      <span class=3D"token punctuation">]</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/location/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token property">"created"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"2017-11-10T12:42:04.162Z"</=
+span>
+    <span class=3D"token punctuation">}</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"get-=
+a-single-location">Get a single location</h3><p>You can get a single locati=
+on by adding the <code class=3D"language-text">id</code> as a parameter: <c=
+ode class=3D"language-text">/location/3</code></p><div class=3D"restQuery__=
+Wrapper-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre clas=
+s=3D"language-shell"><code class=3D"language-shell"><span class=3D"endpoint=
+"><span class=3D"request">GET </span>https://rickandmortyapi.com/api</span>=
+/location/3</code></pre></div><div class=3D"gatsby-highlight" data-language=
+=3D"json"><pre class=3D"language-json"><code class=3D"language-json"><span =
+class=3D"token punctuation">{</span>
+  <span class=3D"token property">"id"</span><span class=3D"token operator">=
+:</span> <span class=3D"token number">3</span><span class=3D"token punctuat=
+ion">,</span>
+  <span class=3D"token property">"name"</span><span class=3D"token operator=
+">:</span> <span class=3D"token string">"Citadel of Ricks"</span><span clas=
+s=3D"token punctuation">,</span>
+  <span class=3D"token property">"type"</span><span class=3D"token operator=
+">:</span> <span class=3D"token string">"Space station"</span><span class=
+=3D"token punctuation">,</span>
+  <span class=3D"token property">"dimension"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"unknown"</span><span class=3D=
+"token punctuation">,</span>
+  <span class=3D"token property">"residents"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token string">"https://rickandmortyapi.com/api/character=
+/8"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token string">"https://rickandmortyapi.com/api/character=
+/14"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"url"</span><span class=3D"token operator"=
+>:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/loc=
+ation/3"</span><span class=3D"token punctuation">,</span>
+  <span class=3D"token property">"created"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"2017-11-10T13:08:13.191Z"</span=
+>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"get-=
+multiple-locations">Get multiple locations</h3><p>You can get multiple loca=
+tions by adding an array of <code class=3D"language-text">ids</code> as par=
+ameter: <code class=3D"language-text">/location/[1,2,3]</code> or <code cla=
+ss=3D"language-text">/location/1,2,3</code></p><div class=3D"restQuery__Wra=
+pper-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre class=
+=3D"language-shell"><code class=3D"language-shell"><span class=3D"endpoint"=
+><span class=3D"request">GET </span>https://rickandmortyapi.com/api</span>/=
+location/3,21</code></pre></div><div class=3D"gatsby-highlight" data-langua=
+ge=3D"json"><pre class=3D"language-json"><code class=3D"language-json"><spa=
+n class=3D"token punctuation">[</span>
+  <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"id"</span><span class=3D"token operator=
+">:</span> <span class=3D"token number">3</span><span class=3D"token punctu=
+ation">,</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Citadel of Ricks"</span><span cl=
+ass=3D"token punctuation">,</span>
+    <span class=3D"token property">"type"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Space station"</span><span class=
+=3D"token punctuation">,</span>
+    <span class=3D"token property">"dimension"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"unknown"</span><span class=
+=3D"token punctuation">,</span>
+    <span class=3D"token property">"residents"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token punctuation">[</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/8"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/14"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token comment">// ...</span>
+    <span class=3D"token punctuation">]</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/l=
+ocation/3"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"created"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"2017-11-10T13:08:13.191Z"</sp=
+an>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"id"</span><span class=3D"token operator=
+">:</span> <span class=3D"token number">21</span><span class=3D"token punct=
+uation">,</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Testicle Monster Dimension"</spa=
+n><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"type"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Dimension"</span><span class=3D"=
+token punctuation">,</span>
+    <span class=3D"token property">"dimension"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"Testicle Monster Dimension"=
+</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"residents"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token punctuation">[</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/7"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/436"</span>
+    <span class=3D"token punctuation">]</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/l=
+ocation/21"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"created"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"2017-11-18T19:41:01.605Z"</sp=
+an>
+  <span class=3D"token punctuation">}</span>
+<span class=3D"token punctuation">]</span>
+</code></pre></div><h3 id=3D"filter-locations">Filter locations</h3><p>Avai=
+lable parameters:</p><ul><li><code class=3D"language-text">name</code>: fil=
+ter by the given name.</li><li><code class=3D"language-text">type</code>: f=
+ilter by the given type.</li><li><code class=3D"language-text">dimension</c=
+ode>: filter by the given dimension.</li></ul><p>If you want to know how to=
+ use queries, check <a href=3D"https://rickandmortyapi.com/documentation#fi=
+lter-characters">here</a></p><h2 id=3D"episode">Episode</h2><p>There is a t=
+otal of <code class=3D"language-text">51</code> episodes sorted by id (whic=
+h is of course the order of the episodes)</p><h3 id=3D"episode-schema">Epis=
+ode schema</h3><table><thead><tr><th>Key</th><th>Type</th><th>Description</=
+th></tr></thead><tbody><tr><td>id</td><td>int</td><td>The id of the episode=
+.</td></tr><tr><td>name</td><td>string</td><td>The name of the episode.</td=
+></tr><tr><td>air_date</td><td>string</td><td>The air date of the episode.<=
+/td></tr><tr><td>episode</td><td>string</td><td>The code of the episode.</t=
+d></tr><tr><td>characters</td><td>array (urls)</td><td>List of characters w=
+ho have been seen in the episode.</td></tr><tr><td>url</td><td>string (url)=
+</td><td>Link to the episode's own endpoint.</td></tr><tr><td>created</td><=
+td>string</td><td>Time at which the episode was created in the database.</t=
+d></tr></tbody></table><h3 id=3D"get-all-episodes">Get all episodes</h3><p>=
+You can access the list of episodes by using the <code class=3D"language-te=
+xt">/episode</code> endpoint.</p><div class=3D"restQuery__Wrapper-tkzubw-0 =
+iQKEuF gatsby-highlight" data-language=3D"shell"><pre class=3D"language-she=
+ll"><code class=3D"language-shell"><span class=3D"endpoint"><span class=3D"=
+request">GET </span>https://rickandmortyapi.com/api</span>/episode</code></=
+pre></div><div class=3D"gatsby-highlight" data-language=3D"json"><pre class=
+=3D"language-json"><code class=3D"language-json"><span class=3D"token punct=
+uation">{</span>
+  <span class=3D"token property">"info"</span><span class=3D"token operator=
+">:</span> <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"count"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">51</span><span class=3D"token pu=
+nctuation">,</span>
+    <span class=3D"token property">"pages"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token number">3</span><span class=3D"token pun=
+ctuation">,</span>
+    <span class=3D"token property">"next"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/=
+episode?page=3D2"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"prev"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token null keyword">null</span>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"results"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token punctuation">{</span>
+      <span class=3D"token property">"id"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token number">1</span><span class=3D"token punc=
+tuation">,</span>
+      <span class=3D"token property">"name"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"Pilot"</span><span class=3D"to=
+ken punctuation">,</span>
+      <span class=3D"token property">"air_date"</span><span class=3D"token =
+operator">:</span> <span class=3D"token string">"December 2, 2013"</span><s=
+pan class=3D"token punctuation">,</span>
+      <span class=3D"token property">"episode"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"S01E01"</span><span class=
+=3D"token punctuation">,</span>
+      <span class=3D"token property">"characters"</span><span class=3D"toke=
+n operator">:</span> <span class=3D"token punctuation">[</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/chara=
+cter/1"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token string">"https://rickandmortyapi.com/api/chara=
+cter/2"</span><span class=3D"token punctuation">,</span>
+        <span class=3D"token comment">//...</span>
+      <span class=3D"token punctuation">]</span><span class=3D"token punctu=
+ation">,</span>
+      <span class=3D"token property">"url"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api=
+/episode/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token property">"created"</span><span class=3D"token o=
+perator">:</span> <span class=3D"token string">"2017-11-10T12:56:33.798Z"</=
+span>
+    <span class=3D"token punctuation">}</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"get-=
+a-single-episode">Get a single episode</h3><p>You can get a single episode =
+by adding the <code class=3D"language-text">id</code> as a parameter: <code=
+ class=3D"language-text">/episode/28</code></p><div class=3D"restQuery__Wra=
+pper-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre class=
+=3D"language-shell"><code class=3D"language-shell"><span class=3D"endpoint"=
+><span class=3D"request">GET </span>https://rickandmortyapi.com/api</span>/=
+episode/28</code></pre></div><div class=3D"gatsby-highlight" data-language=
+=3D"json"><pre class=3D"language-json"><code class=3D"language-json"><span =
+class=3D"token punctuation">{</span>
+  <span class=3D"token property">"id"</span><span class=3D"token operator">=
+:</span> <span class=3D"token number">28</span><span class=3D"token punctua=
+tion">,</span>
+  <span class=3D"token property">"name"</span><span class=3D"token operator=
+">:</span> <span class=3D"token string">"The Ricklantis Mixup"</span><span =
+class=3D"token punctuation">,</span>
+  <span class=3D"token property">"air_date"</span><span class=3D"token oper=
+ator">:</span> <span class=3D"token string">"September 10, 2017"</span><spa=
+n class=3D"token punctuation">,</span>
+  <span class=3D"token property">"episode"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"S03E07"</span><span class=3D"to=
+ken punctuation">,</span>
+  <span class=3D"token property">"characters"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token punctuation">[</span>
+    <span class=3D"token string">"https://rickandmortyapi.com/api/character=
+/1"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token string">"https://rickandmortyapi.com/api/character=
+/2"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token comment">// ...</span>
+  <span class=3D"token punctuation">]</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token property">"url"</span><span class=3D"token operator"=
+>:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/epi=
+sode/28"</span><span class=3D"token punctuation">,</span>
+  <span class=3D"token property">"created"</span><span class=3D"token opera=
+tor">:</span> <span class=3D"token string">"2017-11-10T12:56:36.618Z"</span=
+>
+<span class=3D"token punctuation">}</span></code></pre></div><h3 id=3D"get-=
+multiple-episodes">Get multiple episodes</h3><p>You can get multiple episod=
+es by adding an array of <code class=3D"language-text">ids</code> as parame=
+ter: <code class=3D"language-text">/episode/[1,2,3]</code> or <code class=
+=3D"language-text">/episode/1,2,3</code></p><div class=3D"restQuery__Wrappe=
+r-tkzubw-0 iQKEuF gatsby-highlight" data-language=3D"shell"><pre class=3D"l=
+anguage-shell"><code class=3D"language-shell"><span class=3D"endpoint"><spa=
+n class=3D"request">GET </span>https://rickandmortyapi.com/api</span>/episo=
+de/10,28</code></pre></div><div class=3D"gatsby-highlight" data-language=3D=
+"json"><pre class=3D"language-json"><code class=3D"language-json"><span cla=
+ss=3D"token punctuation">[</span>
+  <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"id"</span><span class=3D"token operator=
+">:</span> <span class=3D"token number">10</span><span class=3D"token punct=
+uation">,</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"Close Rick-counters of the Rick =
+Kind"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"air_date"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"April 7, 2014"</span><span c=
+lass=3D"token punctuation">,</span>
+    <span class=3D"token property">"episode"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"S01E10"</span><span class=3D"=
+token punctuation">,</span>
+    <span class=3D"token property">"characters"</span><span class=3D"token =
+operator">:</span> <span class=3D"token punctuation">[</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/2"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token comment">// ...</span>
+    <span class=3D"token punctuation">]</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/e=
+pisode/10"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"created"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"2017-11-10T12:56:34.747Z"</sp=
+an>
+  <span class=3D"token punctuation">}</span><span class=3D"token punctuatio=
+n">,</span>
+  <span class=3D"token punctuation">{</span>
+    <span class=3D"token property">"id"</span><span class=3D"token operator=
+">:</span> <span class=3D"token number">28</span><span class=3D"token punct=
+uation">,</span>
+    <span class=3D"token property">"name"</span><span class=3D"token operat=
+or">:</span> <span class=3D"token string">"The Ricklantis Mixup"</span><spa=
+n class=3D"token punctuation">,</span>
+    <span class=3D"token property">"air_date"</span><span class=3D"token op=
+erator">:</span> <span class=3D"token string">"September 10, 2017"</span><s=
+pan class=3D"token punctuation">,</span>
+    <span class=3D"token property">"episode"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"S03E07"</span><span class=3D"=
+token punctuation">,</span>
+    <span class=3D"token property">"characters"</span><span class=3D"token =
+operator">:</span> <span class=3D"token punctuation">[</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/1"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token string">"https://rickandmortyapi.com/api/charact=
+er/2"</span><span class=3D"token punctuation">,</span>
+      <span class=3D"token comment">// ...</span>
+    <span class=3D"token punctuation">]</span><span class=3D"token punctuat=
+ion">,</span>
+    <span class=3D"token property">"url"</span><span class=3D"token operato=
+r">:</span> <span class=3D"token string">"https://rickandmortyapi.com/api/e=
+pisode/28"</span><span class=3D"token punctuation">,</span>
+    <span class=3D"token property">"created"</span><span class=3D"token ope=
+rator">:</span> <span class=3D"token string">"2017-11-10T12:56:36.618Z"</sp=
+an>
+  <span class=3D"token punctuation">}</span>
+<span class=3D"token punctuation">]</span></code></pre></div><h3 id=3D"filt=
+er-episodes">Filter episodes</h3><p>Available parameters:</p><ul><li><code =
+class=3D"language-text">name</code>: filter by the given name.</li><li><cod=
+e class=3D"language-text">episode</code>: filter by the given episode code.=
+</li></ul><p>If you want to know how to use queries, check <a href=3D"https=
+://rickandmortyapi.com/documentation#filter-characters">here</a>.    </p><h=
+2 id=3D"libraries">Libraries</h2><p>Here you will find a list of community =
+helper libraries to use the Rick and Morty API with your preferred language=
+.
+You can also quickly start using the API with this <a href=3D"https://githu=
+b.com/loopDelicious/rick-and-morty-postman" target=3D"_blank" rel=3D"nofoll=
+ow noopener noreferrer">Postman collection</a> created by <a href=3D"https:=
+//github.com/loopDelicious" target=3D"_blank" rel=3D"nofollow noopener nore=
+ferrer">loopDelicious</a>.</p><p>If you are looking for a <strong>JavaScrip=
+t</strong> library, you can check <a href=3D"https://rickandmortyapi.com/do=
+cumentation/#javascript-client">The Rick and Morty API JavaScript client</a=
+></p><h3 id=3D"dart">Dart</h3><p><a href=3D"https://github.com/Yash-Garg/Ri=
+ckandMorty-Dart-Wrapper" target=3D"_blank" rel=3D"nofollow noopener norefer=
+rer">Rick and Morty API Dart Client</a> by <a href=3D"https://github.com/Ya=
+sh-Garg" target=3D"_blank" rel=3D"nofollow noopener noreferrer">Yash Garg</=
+a></p><h3 id=3D"elixir">Elixir</h3><p><a href=3D"https://github.com/l1h3r/e=
+x_shla" target=3D"_blank" rel=3D"nofollow noopener noreferrer">ExShla - The=
+ Rick and Morty API Wrapper</a> by <a href=3D"https://github.com/l1h3r" tar=
+get=3D"_blank" rel=3D"nofollow noopener noreferrer">l1h3r</a></p><h3 id=3D"=
+go">Go</h3><p><a href=3D"https://github.com/pitakill/rickandmortyapigowrapp=
+er" target=3D"_blank" rel=3D"nofollow noopener noreferrer">The Rick and Mor=
+ty API Go client</a> by <a href=3D"https://github.com/pitakill" target=3D"_=
+blank" rel=3D"nofollow noopener noreferrer">Leopoldo Caballero</a></p><h3 i=
+d=3D"java"><font style=3D"vertical-align: inherit;"><font style=3D"vertical=
+-align: inherit;">Java</font></font></h3><p><a href=3D"https://github.com/a=
+drianoluis/rickandmortyapi-java" target=3D"_blank" rel=3D"nofollow noopener=
+ noreferrer"><font style=3D"vertical-align: inherit;"><font style=3D"vertic=
+al-align: inherit;">Cliente Java de la API de Rick y Morty</font></font></a=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;"> por </font></font><a href=3D"https://github.com/adrianoluis" targe=
+t=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=3D"vertical-a=
+lign: inherit;"><font style=3D"vertical-align: inherit;">Adriano Rocha</fon=
+t></font></a></p><h3 id=3D"net"><font style=3D"vertical-align: inherit;"><f=
+ont style=3D"vertical-align: inherit;">.NETO</font></font></h3><ul><li><a h=
+ref=3D"https://github.com/bigdummyhead/rick.net" target=3D"_blank" rel=3D"n=
+ofollow noopener noreferrer"><font style=3D"vertical-align: inherit;"><font=
+ style=3D"vertical-align: inherit;">Rick.Net</font></font></a><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"> de =
+</font></font><a href=3D"https://github.com/bigdummyhead" target=3D"_blank"=
+ rel=3D"nofollow noopener noreferrer"><font style=3D"vertical-align: inheri=
+t;"><font style=3D"vertical-align: inherit;">BIGDummyHead</font></font></a>=
+</li><li><a href=3D"https://github.com/Carlj28/RickAndMorty.Net.Api" target=
+=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=3D"vertical-al=
+ign: inherit;"><font style=3D"vertical-align: inherit;">RickAndMorty.Net.Ap=
+i</font></font></a><font style=3D"vertical-align: inherit;"><font style=3D"=
+vertical-align: inherit;"> por </font></font><a href=3D"https://github.com/=
+Carlj28" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">Carl=
+j28</font></font></a></li></ul><h3 id=3D"python"><font style=3D"vertical-al=
+ign: inherit;"><font style=3D"vertical-align: inherit;">Pit=C3=B3n</font></=
+font></h3><p><a href=3D"https://github.com/curiousrohan/ramapi" target=3D"_=
+blank" rel=3D"nofollow noopener noreferrer"><font style=3D"vertical-align: =
+inherit;"><font style=3D"vertical-align: inherit;">Implementaci=C3=B3n de P=
+ython para la API de Rick and Morty</font></font></a><font style=3D"vertica=
+l-align: inherit;"><font style=3D"vertical-align: inherit;"> por </font></f=
+ont><a href=3D"https://github.com/curiousrohan" target=3D"_blank" rel=3D"no=
+follow noopener noreferrer"><font style=3D"vertical-align: inherit;"><font =
+style=3D"vertical-align: inherit;">Rohan Hazra</font></font></a></p><h3 id=
+=3D"r"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-ali=
+gn: inherit;">R</font></font></h3><p><a href=3D"https://github.com/MikeJohn=
+Page/mortyr" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><font s=
+tyle=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">=
+Mortyr</font></font></a><font style=3D"vertical-align: inherit;"><font styl=
+e=3D"vertical-align: inherit;"> de </font></font><a href=3D"https://github.=
+com/MikeJohnPage" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><f=
+ont style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inher=
+it;">Mike Page</font></font></a></p><h3 id=3D"ruby"><font style=3D"vertical=
+-align: inherit;"><font style=3D"vertical-align: inherit;">Rub=C3=AD</font>=
+</font></h3><p><a href=3D"https://github.com/spielhoelle/rick-and-morty-gem=
+" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=3D"ver=
+tical-align: inherit;"><font style=3D"vertical-align: inherit;">La gema API=
+ de Rick y Morty</font></font></a><font style=3D"vertical-align: inherit;">=
+<font style=3D"vertical-align: inherit;"> de </font></font><a href=3D"https=
+://github.com/spielhoelle" target=3D"_blank" rel=3D"nofollow noopener noref=
+errer"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-ali=
+gn: inherit;">Tommy Spielhoelle</font></font></a></p><h3 id=3D"rust"><font =
+style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"=
+>Oxido</font></font></h3><p><a href=3D"https://github.com/dshomoye/rick-and=
+-morty" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">caja=
+ de rick-and-morty</font></font></a><font style=3D"vertical-align: inherit;=
+"><font style=3D"vertical-align: inherit;"> de </font></font><a href=3D"htt=
+ps://github.com/dshomoye" target=3D"_blank" rel=3D"nofollow noopener norefe=
+rrer"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-alig=
+n: inherit;">dshomoye</font></font></a></p><h3 id=3D"swift"><font style=3D"=
+vertical-align: inherit;"><font style=3D"vertical-align: inherit;">R=C3=A1p=
+ido</font></font></h3><p><a href=3D"https://github.com/benjaminbruch/rick-m=
+orty-swift-api" target=3D"_blank" rel=3D"nofollow noopener noreferrer"><fon=
+t style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit=
+;">El cliente Swift API de Rick and Morty</font></font></a><font style=3D"v=
+ertical-align: inherit;"><font style=3D"vertical-align: inherit;"> por </fo=
+nt></font><a href=3D"https://github.com/benjaminbruch" target=3D"_blank" re=
+l=3D"nofollow noopener noreferrer"><font style=3D"vertical-align: inherit;"=
+><font style=3D"vertical-align: inherit;">Benjamin Bruch</font></font></a><=
+/p></article></div></div><div id=3D"edit-wrapper" class=3D"editThisPage__Wr=
+apper-sc-1yv1nlc-0 hruCvr"><a href=3D"https://github.com/afuh/rick-and-mort=
+y-api-site/blob/master/src/pages/documentation.mdx" class=3D"externalLink__=
+ExternalLink-sc-1lixk38-0 editThisPage__Link-sc-1yv1nlc-1 bQJGkk egxLAS edi=
+t-page" rel=3D"nofollow noopener noreferrer" target=3D"_blank"><svg stroke=
+=3D"currentColor" fill=3D"currentColor" stroke-width=3D"0" viewBox=3D"0 0 1=
+4 16" class=3D"editThisPage__Icon-sc-1yv1nlc-2 gLjIY" height=3D"1em" width=
+=3D"1em" xmlns=3D"http://www.w3.org/2000/svg"><path fill-rule=3D"evenodd" d=
+=3D"M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996=
+.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg><span><fon=
+t style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit=
+;">Edita esta p=C3=A1gina</font></font></span></a></div></div></main><foote=
+r class=3D"footer__Wrapper-vp91ct-1 CZpTZ"><ul><li><a title=3D"caracteres" =
+href=3D"https://rickandmortyapi.com/api/character"><span class=3D"caption__=
+Caption-w9tm9f-0 jwJece"><font style=3D"vertical-align: inherit;"><font sty=
+le=3D"vertical-align: inherit;">caracteres </font></font><font style=3D"ver=
+tical-align: inherit;"><font style=3D"vertical-align: inherit;">: </font></=
+font><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align=
+: inherit;">826</font></font></span></a></li><li><a title=3D"ubicaciones" h=
+ref=3D"https://rickandmortyapi.com/api/location"><span class=3D"caption__Ca=
+ption-w9tm9f-0 jwJece"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">ubicaciones </font></font><font style=3D"vert=
+ical-align: inherit;"><font style=3D"vertical-align: inherit;">: </font></f=
+ont><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align:=
+ inherit;">126</font></font></span></a></li><li><a title=3D"episodios" href=
+=3D"https://rickandmortyapi.com/api/episode"><span class=3D"caption__Captio=
+n-w9tm9f-0 jwJece"><font style=3D"vertical-align: inherit;"><font style=3D"=
+vertical-align: inherit;">episodios </font></font><font style=3D"vertical-a=
+lign: inherit;"><font style=3D"vertical-align: inherit;">: </font></font><f=
+ont style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inher=
+it;">51</font></font></span></a></li></ul><a href=3D"https://status.rickand=
+mortyapi.com/" rel=3D"nofollow noopener noreferrer" target=3D"_blank" data-=
+testid=3D"server-status" class=3D"externalLink__ExternalLink-sc-1lixk38-0 f=
+ooter__Status-vp91ct-2 bQJGkk NVGIK"><span class=3D"caption__Caption-w9tm9f=
+-0 jwJece"><font style=3D"vertical-align: inherit;"><font style=3D"vertical=
+-align: inherit;">el estado del servidor</font></font></span><span class=3D=
+"server-icon"></span></a><ul class=3D"mt"><li><a href=3D"https://github.com=
+/afuh/rick-and-morty-api" title=3D"GitHub" aria-label=3D"github" rel=3D"nof=
+ollow noopener noreferrer" target=3D"_blank" class=3D"externalLink__Externa=
+lLink-sc-1lixk38-0 bQJGkk"><svg stroke=3D"currentColor" fill=3D"currentColo=
+r" stroke-width=3D"0" viewBox=3D"0 0 16 16" class=3D"footer-icon" height=3D=
+"1em" width=3D"1em" xmlns=3D"http://www.w3.org/2000/svg"><path fill-rule=3D=
+"evenodd" d=3D"M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.1=
+7.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.=
+82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33=
+.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-=
+.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.=
+09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 =
+2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2=
+ 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>=
+</a></li><li><a href=3D"https://twitter.com/rickandmortyapi" title=3D"Gorje=
+o" aria-label=3D"gorjeo" rel=3D"nofollow noopener noreferrer" target=3D"_bl=
+ank" class=3D"externalLink__ExternalLink-sc-1lixk38-0 bQJGkk"><svg stroke=
+=3D"currentColor" fill=3D"currentColor" stroke-width=3D"0" viewBox=3D"0 0 5=
+12 512" class=3D"footer-icon" height=3D"1em" width=3D"1em" xmlns=3D"http://=
+www.w3.org/2000/svg"><path d=3D"M459.37 151.716c.325 4.548.325 9.097.325 13=
+.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.13=
+7-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-=
+44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.81=
+8 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-10=
+2.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-5=
+1.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 =
+105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.78=
+2-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 4=
+6.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.=
+273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z">=
+</path></svg></a></li><li><a title=3D"Ay=C3=BAdanos" aria-label=3D"Ay=C3=BA=
+danos" href=3D"https://rickandmortyapi.com/help-us"><svg stroke=3D"currentC=
+olor" fill=3D"currentColor" stroke-width=3D"0" viewBox=3D"0 0 12 16" class=
+=3D"footer-icon" height=3D"1em" width=3D"1em" xmlns=3D"http://www.w3.org/20=
+00/svg"><path fill-rule=3D"evenodd" d=3D"M9 2c-.97 0-1.69.42-2.2 1-.51.58-.=
+78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-1.632.086-2.954 1.333-=
+3 3 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.3=
+4-5.33C11.91 6.51 12 5.5 12 5c-.047-1.69-1.342-2.913-3-3z"></path></svg></a=
+></li></ul><a href=3D"https://www.netlify.com/" class=3D"externalLink__Exte=
+rnalLink-sc-1lixk38-0 bQJGkk mt" rel=3D"nofollow noopener noreferrer" targe=
+t=3D"_blank"><svg width=3D"114px" height=3D"51px" viewBox=3D"0 0 114 51" ve=
+rsion=3D"1.1"><g id=3D"Page-1" stroke=3D"none" stroke-width=3D"1" fill=3D"n=
+one" fill-rule=3D"evenodd"><g id=3D"netlify-callout-vertical-dark"><rect id=
+=3D"Background" fill=3D"#313D3E" x=3D"0" y=3D"0" width=3D"114" height=3D"51=
+" rx=3D"4"></rect><g id=3D"Group" transform=3D"translate(8.000000, 8.000000=
+)" fill=3D"#FFFFFF"><path d=3D"M23.6161838,12.0243902 C23.7871091,12.110176=
+6 23.9295469,12.2245585 24.0434971,12.353238 C24.0577409,12.3675357 24.0577=
+409,12.3675357 24.0719847,12.3675357 L24.0862285,12.3675357 L27.3622974,10.=
+9520606 C27.3765412,10.9377628 27.3907849,10.9234651 27.3907849,10.9091674 =
+C27.3907849,10.8948696 27.3907849,10.8805719 27.3765412,10.8662742 L24.3141=
+289,7.79226241 C24.2998851,7.77796468 24.2856414,7.77796468 24.2856414,7.77=
+796468 L24.2713976,7.77796468 C24.2571538,7.77796468 24.24291,7.79226241 24=
+.24291,7.82085786 L23.5734525,11.9814971 C23.5876962,11.9957948 23.60194,12=
+.0243902 23.6161838,12.0243902 Z M16.8219017,9.23633305 C16.9785833,9.47939=
+445 17.0782897,9.76534903 17.1067773,10.0513036 C17.1067773,10.0656013 17.1=
+210211,10.0798991 17.1352648,10.0941968 L22.0066369,12.195963 L22.0208807,1=
+2.195963 C22.0351244,12.195963 22.0493682,12.195963 22.0493682,12.1816653 C=
+22.191806,12.0672834 22.3627313,11.9814971 22.5479004,11.9243061 C22.562144=
+2,11.9243061 22.576388,11.9100084 22.576388,11.881413 L23.3740396,6.8629100=
+1 C23.3740396,6.84861228 23.3740396,6.83431455 23.3597958,6.82001682 L20.31=
+16273,3.74600505 C20.2973835,3.73170732 20.2973835,3.73170732 20.2831398,3.=
+73170732 C20.268896,3.73170732 20.2546522,3.74600505 20.2546522,3.76030278 =
+L16.8219017,9.16484441 C16.8076579,9.19343987 16.8076579,9.22203532 16.8219=
+017,9.23633305 Z M33.4586343,16.9714045 L28.2311678,11.7098402 C28.2169241,=
+11.6955425 28.2026803,11.6955425 28.2026803,11.6955425 L28.1884365,11.69554=
+25 L24.6417358,13.2253995 C24.627492,13.2396972 24.6132482,13.253995 24.613=
+2482,13.2682927 C24.6132482,13.2825904 24.627492,13.3111859 24.6417358,13.3=
+111859 L33.3874154,17.0714886 L33.4016592,17.0714886 C33.415903,17.0714886 =
+33.4301468,17.0714886 33.4301468,17.0571909 L33.4586343,17.0285955 C33.4871=
+219,17.0285955 33.4871219,16.9857023 33.4586343,16.9714045 Z M32.5897639,17=
+.8292683 L24.2001787,14.2262405 L24.1859349,14.2262405 C24.1716911,14.22624=
+05 24.1574474,14.2262405 24.1432036,14.2405383 C23.9153031,14.5550883 23.57=
+34525,14.7552565 23.1746267,14.8124474 C23.1603829,14.8124474 23.1318953,14=
+.8267452 23.1318953,14.8553406 L22.2345373,20.4457527 C22.2345373,20.460050=
+5 22.2345373,20.4743482 22.2487811,20.4886459 C22.5621442,20.7317073 22.747=
+3133,21.0891505 22.7900447,21.489487 C22.7900447,21.5180824 22.8042884,21.5=
+323802 22.832776,21.5323802 L27.9035609,22.6047098 L27.9178047,22.6047098 C=
+27.9320485,22.6047098 27.9462923,22.6047098 27.9462923,22.5904121 L32.58976=
+39,17.9150547 C32.6040077,17.9007569 32.6040077,17.8864592 32.6040077,17.87=
+21615 C32.6040077,17.8578638 32.6040077,17.843566 32.5897639,17.8292683 Z M=
+21.4796171,13.0538267 L16.8931206,11.0807401 L16.8788768,11.0807401 C16.864=
+6331,11.0807401 16.8503893,11.0950378 16.8361455,11.1093356 C16.5227824,11.=
+5954584 15.9957626,11.881413 15.4260115,11.881413 C15.3405488,11.881413 15.=
+2550862,11.8671152 15.1553797,11.8528175 L15.1411359,11.8528175 C15.1268922=
+,11.8528175 15.1126484,11.8671152 15.0984046,11.881413 L11.3238034,17.81497=
+06 C11.3095597,17.8292683 11.3095597,17.8578638 11.3238034,17.8721615 C11.3=
+380472,17.8864592 11.352291,17.8864592 11.3665348,17.8864592 L11.3807786,17=
+.8864592 L21.4511295,13.5256518 C21.4653733,13.5113541 21.4796171,13.497056=
+3 21.4796171,13.4827586 L21.4796171,13.4255677 L21.4796171,13.3540791 C21.4=
+796171,13.2682927 21.4938609,13.1825063 21.5081047,13.1110177 C21.5081047,1=
+3.0824222 21.4938609,13.0681245 21.4796171,13.0538267 Z M27.0062029,23.4339=
+781 L22.5479004,22.5046257 L22.5336567,22.5046257 C22.5194129,22.5046257 22=
+.5051691,22.5189235 22.4909253,22.5189235 C22.32,22.7333894 22.1063433,22.9=
+049622 21.8499553,23.0050463 C21.8357116,23.0050463 21.8214678,23.0336417 2=
+1.8214678,23.0479394 L20.7531844,29.7106812 C20.7531844,29.7392767 20.76742=
+82,29.7535744 20.781672,29.7678722 L20.8101595,29.7678722 C20.8244033,29.76=
+78722 20.8386471,29.7678722 20.8386471,29.7535744 L27.0204467,23.5340622 C2=
+7.0346905,23.5197645 27.0346905,23.5054668 27.0346905,23.491169 C27.0346905=
+,23.4482759 27.0204467,23.4339781 27.0062029,23.4339781 Z M20.781672,22.976=
+4508 C20.3543586,22.804878 20.0409955,22.4188394 19.9270453,21.9756098 C19.=
+9270453,21.961312 19.9128015,21.9470143 19.884314,21.9327166 L11.6229228,20=
+.2026913 C11.6229228,20.2026913 11.6229228,20.2026913 11.608679,20.2026913 =
+C11.5944352,20.2026913 11.5801914,20.2169891 11.5659477,20.2312868 C11.5232=
+163,20.3027754 11.4947288,20.3599664 11.4519974,20.4171573 C11.4377537,20.4=
+31455 11.4377537,20.4600505 11.4519974,20.4743482 L18.9727122,31.5121951 C1=
+8.986956,31.5264929 18.986956,31.5264929 19.0011997,31.5264929 C19.0154435,=
+31.5264929 19.0296873,31.5264929 19.0296873,31.5121951 L19.4854882,31.05466=
+78 C19.4854882,31.0403701 19.499732,31.0403701 19.499732,31.0260723 L20.781=
+672,23.019344 C20.8101595,23.019344 20.8101595,22.9907485 20.781672,22.9764=
+508 Z M11.7938481,19.1875526 C11.7938481,19.216148 11.8080919,19.2304458 11=
+.8365795,19.2304458 L20.0267518,20.9461733 L20.0409955,20.9461733 C20.05523=
+93,20.9461733 20.0694831,20.9318755 20.0837269,20.9175778 C20.3258711,20.48=
+86459 20.7531844,20.2026913 21.2374729,20.1740959 C21.2659604,20.1740959 21=
+.2802042,20.1597981 21.2802042,20.1312027 L22.1633184,14.626577 C22.1633184=
+,14.6122792 22.1633184,14.5836838 22.1348309,14.5836838 C22.0778558,14.5407=
+906 22.0208807,14.4978974 21.9496618,14.4264087 C21.935418,14.412111 21.921=
+1742,14.412111 21.9211742,14.412111 L21.9069304,14.412111 L11.7796043,18.80=
+15139 C11.7511168,18.8158116 11.7511168,18.8301093 11.7511168,18.8587048 C1=
+1.7653606,18.9730866 11.7938481,19.0731707 11.7938481,19.1875526 Z M8.36109=
+764,20.5744323 C8.31836631,20.5172414 8.27563497,20.4600505 8.23290364,20.3=
+885618 C8.21865986,20.3742641 8.20441608,20.3599664 8.1901723,20.3599664 L8=
+.17592853,20.3599664 L4.6434716,21.8898234 C4.62922782,21.8898234 4.6149840=
+5,21.9041211 4.61498405,21.9184188 C4.61498405,21.9327166 4.61498405,21.947=
+0143 4.62922782,21.961312 L6.35272495,23.6913373 C6.36696873,23.705635 6.38=
+121251,23.705635 6.38121251,23.705635 C6.39545629,23.705635 6.40970006,23.6=
+913373 6.42394384,23.6770395 L8.37534142,20.6030278 C8.37534142,20.6030278 =
+8.37534142,20.58873 8.36109764,20.5744323 Z M10.6970772,21.1320437 C10.6828=
+334,21.117746 10.6685897,21.1034483 10.6543459,21.1034483 L10.6401021,21.10=
+34483 C10.3837141,21.2178301 10.1273261,21.275021 9.85669432,21.275021 C9.6=
+4303765,21.275021 9.44362476,21.2464256 9.22996809,21.1749369 L9.21572431,2=
+1.1749369 C9.20148054,21.1749369 9.18723676,21.1892347 9.17299298,21.203532=
+4 L7.12188896,24.4348192 L7.10764518,24.4491169 C7.0934014,24.4634146 7.093=
+4014,24.4920101 7.10764518,24.5063078 L16.5370262,33.9857023 C16.5512699,34=
+ 16.5655137,34 16.5655137,34 C16.5797575,34 16.5940013,34 16.5940013,33.985=
+7023 L18.2462795,32.312868 C18.2605233,32.2985702 18.2605233,32.2699748 18.=
+2462795,32.255677 L10.6970772,21.1320437 Z M9.37240587,17.4003364 C9.386649=
+65,17.4146341 9.40089343,17.4289319 9.4151372,17.4289319 L9.42938098,17.428=
+9319 C9.57181876,17.4003364 9.72850032,17.371741 9.8709381,17.371741 C10.02=
+76197,17.371741 10.198545,17.4003364 10.3552265,17.4432296 L10.3694703,17.4=
+432296 C10.3837141,17.4432296 10.3979579,17.4289319 10.4122017,17.4146341 L=
+14.2295341,11.4095879 C14.2437779,11.3952902 14.2437779,11.3666947 14.22953=
+41,11.352397 C13.9304148,11.0378469 13.7594895,10.6232128 13.7594895,10.179=
+9832 C13.7594895,10.0513036 13.7737332,9.92262405 13.8022208,9.79394449 C13=
+.8022208,9.76534903 13.787977,9.7510513 13.7737332,9.73675357 C13.2894448,9=
+.52228764 9.00206765,7.6921783 9.00206765,7.67788057 L8.98782387,7.67788057=
+ C8.97358009,7.67788057 8.95933631,7.67788057 8.95933631,7.6921783 L5.32717=
+294,11.352397 C5.31292916,11.3666947 5.31292916,11.3952902 5.32717294,11.40=
+95879 L9.37240587,17.4003364 Z M9.78547543,6.93439865 C9.78547543,6.9343986=
+5 14.1155839,8.79310345 14.300753,8.87888982 L14.3149968,8.87888982 C14.329=
+2406,8.87888982 14.3292406,8.87888982 14.3434844,8.86459209 C14.6426037,8.6=
+215307 15.0271857,8.47855341 15.4117677,8.47855341 C15.5969368,8.47855341 1=
+5.7821059,8.50714886 15.967275,8.56433978 L15.9815188,8.56433978 C15.995762=
+6,8.56433978 16.0100064,8.55004205 16.0242502,8.53574432 L19.5424633,3.0025=
+2313 C19.5567071,2.9882254 19.5567071,2.95962994 19.5424633,2.94533221 L16.=
+6224888,0.0142977292 C16.6082451,0 16.6082451,0 16.5940013,0 C16.5797575,0 =
+16.5655137,0 16.5655137,0.0142977292 L9.78547543,6.84861228 C9.77123165,6.8=
+6291001 9.77123165,6.87720774 9.77123165,6.89150547 C9.75698787,6.92010093 =
+9.77123165,6.92010093 9.78547543,6.93439865 Z M8.10470964,18.4440706 C8.118=
+95341,18.4440706 8.13319719,18.4297729 8.14744097,18.4154752 C8.23290364,18=
+.2439024 8.36109764,18.0866274 8.48929164,17.9436501 C8.50353542,17.9293524=
+ 8.50353542,17.9007569 8.48929164,17.8864592 C8.44656031,17.8292683 4.58649=
+649,12.1673675 4.58649649,12.1530698 C4.57225271,12.1387721 4.57225271,12.1=
+387721 4.54376516,12.1244743 C4.52952138,12.1244743 4.5152776,12.1244743 4.=
+5152776,12.1387721 L0.0142437779,16.6568545 C0,16.6711522 0,16.68545 0,16.6=
+997477 C0,16.7140454 0.0142437779,16.7283431 0.0427313338,16.7283431 L8.104=
+70964,18.4440706 C8.09046586,18.4440706 8.09046586,18.4440706 8.10470964,18=
+.4440706 Z M7.73437141,19.430614 C7.73437141,19.4020185 7.72012763,19.38772=
+08 7.69164008,19.3877208 L0.697945118,17.9150547 C0.697945118,17.9150547 0.=
+697945118,17.9150547 0.68370134,17.9150547 C0.669457562,17.9150547 0.655213=
+784,17.9293524 0.640970006,17.9436501 C0.626726228,17.9579479 0.640970006,1=
+7.9865433 0.655213784,18.000841 L3.77460115,21.1463415 C3.78884493,21.16063=
+92 3.8030887,21.1606392 3.8030887,21.1606392 L3.81733248,21.1606392 L7.6916=
+4008,19.4878049 C7.72012763,19.4592094 7.73437141,19.4449117 7.73437141,19.=
+430614 Z" id=3D"Combined-Shape-Copy"></path><path d=3D"M67.5018666,14.76496=
+67 L69.7772159,14.7649667 L69.7772159,29.3120637 L67.5018666,29.3120637 L67=
+.5018666,14.7649667 Z M44.2221988,18.869426 C42.9991985,18.869426 42.017954=
+1,19.3301306 41.2642447,20.237579 L41.19314,19.0509157 L39.06,19.0509157 L3=
+9.06,29.298103 L41.3353493,29.298103 L41.3353493,22.0105937 C41.7904192,21.=
+172949 42.473024,20.7541266 43.3831637,20.7541266 C44.0088848,20.7541266 44=
+.4639547,20.9076948 44.7483733,21.228792 C45.032792,21.5359284 45.1607804,2=
+2.0245545 45.1607804,22.6667488 L45.1607804,29.298103 L47.4361297,29.298103=
+ L47.4361297,22.5271413 C47.4076878,20.0979716 46.3411178,18.869426 44.2221=
+988,18.869426 Z M54.0488637,18.869426 C53.1813868,18.869426 52.3992354,19.0=
+927979 51.6881888,19.5395418 C50.9771421,19.9862856 50.4367466,20.6145192 5=
+0.0385605,21.4242424 C49.6545953,22.2339657 49.4555022,23.1414141 49.455502=
+2,24.1605486 L49.4555022,24.4397635 C49.4555022,25.9614848 49.9105721,27.19=
+00304 50.8064909,28.1114396 C51.7024097,29.0328488 52.8685262,29.4935534 54=
+.3190614,29.4935534 C55.1580965,29.4935534 55.9260269,29.3260245 56.6086317=
+,28.9909666 C57.2912365,28.6559087 57.831632,28.1812433 58.2298181,27.56697=
+05 L57.0068178,26.3803071 C56.3526549,27.2319126 55.4993989,27.6646957 54.4=
+612708,27.6646957 C53.7217822,27.6646957 53.0960612,27.4134023 52.6125494,2=
+6.9247762 C52.1148168,26.4361501 51.844619,25.7660343 51.7735144,24.9144288=
+ L58.4004693,24.9144288 L58.4004693,23.9930196 C58.4004693,22.3596124 58.01=
+65041,21.1031453 57.2770156,20.2096576 C56.4948642,19.3161698 55.4282942,18=
+.869426 54.0488637,18.869426 Z M56.12512,23.2251786 L51.7877353,23.2251786 =
+C51.8872818,22.4294161 52.1432586,21.8151433 52.5272238,21.3823602 C52.9111=
+89,20.9356163 53.4231426,20.7262051 54.0488637,20.7262051 C54.6745848,20.72=
+62051 55.1723174,20.9216556 55.5278408,21.3125565 C55.8833641,21.7034573 56=
+.0824572,22.2898087 56.1393409,23.0576497 L56.1393409,23.2251786 L56.12512,=
+23.2251786 Z M63.5200053,27.3296378 C63.363575,27.1621089 63.2924703,26.868=
+9332 63.2924703,26.4780324 L63.2924703,20.7541266 L65.0843079,20.7541266 L6=
+5.0843079,19.0509157 L63.2924703,19.0509157 L63.2924703,16.5659029 L61.0171=
+21,16.5659029 L61.017121,19.0509157 L59.3532718,19.0509157 L59.3532718,20.7=
+541266 L61.017121,20.7541266 L61.017121,26.5617968 C61.017121,28.5163012 61=
+.8988189,29.4935534 63.6479937,29.4935534 C64.1315054,29.4935534 64.6292381=
+,29.4237497 65.1554126,29.2701815 L65.1554126,27.483206 C64.8852149,27.5530=
+098 64.6150171,27.5809313 64.3590403,27.5809313 C63.9466333,27.594892 63.67=
+64355,27.5111275 63.5200053,27.3296378 Z M73.3040074,19.0648764 L75.5793567=
+,19.0648764 L75.5793567,29.3120637 L73.3040074,29.3120637 L73.3040074,19.06=
+48764 Z M88.4919641,26.0173277 L86.3446032,19.0648764 L83.8843818,19.064876=
+4 L87.453836,29.2562207 L87.1267545,30.1357477 C86.9561033,30.6383346 86.72=
+85684,30.9873532 86.4299288,31.1967644 C86.1455102,31.4061756 85.7046612,31=
+.5178615 85.1358239,31.5178615 L84.7091959,31.4899401 L84.7091959,33.276915=
+5 C85.107382,33.3886015 85.4771263,33.4444444 85.8042078,33.4444444 C87.283=
+1848,33.4444444 88.3355339,32.5788782 88.9612549,30.8617065 L93,19.0648764 =
+L90.5682204,19.0648764 L88.4919641,26.0173277 Z M80.0447298,15.4909255 C79.=
+4190087,16.1051983 79.1061482,16.9847253 79.1061482,18.1295064 L79.1061482,=
+19.0648764 L77.5560664,19.0648764 L77.5560664,20.7680874 L79.1061482,20.768=
+0874 L79.1061482,29.3120637 L81.3814975,29.3120637 L81.3814975,20.7680874 L=
+83.4435328,20.7680874 L83.4435328,19.0648764 L81.3814975,19.0648764 L81.381=
+4975,18.1574279 C81.3814975,17.0266075 81.921893,16.4681777 83.0169048,16.4=
+681777 C83.3439863,16.4681777 83.6426259,16.4960992 83.8843818,16.5379814 L=
+83.9412655,14.7370452 C83.4861956,14.6253593 83.0737886,14.5695163 82.66138=
+15,14.5695163 C81.5521487,14.5555556 80.6704508,14.8766527 80.0447298,15.49=
+09255 Z M75.5793567,14.5555556 L75.5793567,16.5659029 L73.3040074,16.565902=
+9 L73.3040074,14.5555556 L75.5793567,14.5555556 Z" id=3D"Combined-Shape"></=
+path></g><path d=3D"M47,18.7088317 L47,13.0811682 L48.9325768,13.0811682 C4=
+9.6205775,13.0811682 50.187461,13.3008356 50.6332443,13.7401769 C51.0790276=
+,14.1795182 51.3019159,14.7431808 51.3019159,15.4311816 L51.3019159,16.3626=
+836 C51.3019159,17.0532611 51.0790276,17.6169237 50.6332443,18.0536882 C50.=
+187461,18.4904527 49.6205775,18.7088317 48.9325768,18.7088317 L47,18.708831=
+7 Z M48.1286248,13.9508278 L48.1286248,17.8430374 L48.8745995,17.8430374 C4=
+9.2791542,17.8430374 49.5960936,17.70647 49.8254272,17.4333311 C50.0547608,=
+17.1601922 50.1694259,16.8033133 50.1694259,16.3626836 L50.1694259,15.42345=
+13 C50.1694259,14.9879751 50.0547608,14.6336729 49.8254272,14.360534 C49.59=
+60936,14.0873952 49.2791542,13.9508278 48.8745995,13.9508278 L48.1286248,13=
+.9508278 Z M56.6358277,16.2351335 L54.3051401,16.2351335 L54.3051401,17.843=
+0374 L57.0300734,17.8430374 L57.0300734,18.7088317 L53.1765153,18.7088317 L=
+53.1765153,13.0811682 L57.0223431,13.0811682 L57.0223431,13.9508278 L54.305=
+1401,13.9508278 L54.3051401,15.3654739 L56.6358277,15.3654739 L56.6358277,1=
+6.2351335 Z M59.84004,16.6680307 L59.84004,18.7088317 L58.7114151,18.708831=
+7 L58.7114151,13.0811682 L60.9532042,13.0811682 C61.5999764,13.0811682 62.1=
+088832,13.2460798 62.4799398,13.5759079 C62.8509964,13.905736 63.0365219,14=
+.3399172 63.0365219,14.8784646 C63.0365219,15.417012 62.8509964,15.8499049 =
+62.4799398,16.1771562 C62.1088832,16.5044075 61.5999764,16.6680307 60.95320=
+42,16.6680307 L59.84004,16.6680307 Z M59.84004,15.7983711 L60.9532042,15.79=
+83711 C61.2675716,15.7983711 61.5059203,15.7126944 61.6682576,15.5413384 C6=
+1.8305948,15.3699824 61.9117623,15.1516034 61.9117623,14.8861949 C61.911762=
+3,14.6156328 61.831239,14.3921003 61.6701902,14.2155908 C61.5091413,14.0390=
+812 61.2701484,13.9508278 60.9532042,13.9508278 L59.84004,13.9508278 L59.84=
+004,15.7983711 Z M65.9856341,17.8430374 L68.4902535,17.8430374 L68.4902535,=
+18.7088317 L64.8570092,18.7088317 L64.8570092,13.0811682 L65.9856341,13.081=
+1682 L65.9856341,17.8430374 Z M74.4271293,16.4013351 C74.4271293,17.0919126=
+ 74.2087503,17.6626613 73.7719858,18.1135981 C73.3352213,18.5645349 72.7676=
+936,18.79 72.0693857,18.79 C71.3762314,18.79 70.813213,18.5645349 70.380313=
+6,18.1135981 C69.9474142,17.6626613 69.7309678,17.0919126 69.7309678,16.401=
+3351 L69.7309678,15.3886649 C69.7309678,14.7006641 69.9467701,14.1305597 70=
+.378381,13.6783344 C70.809992,13.2261092 71.3723662,13 72.0655205,13 C72.76=
+38284,13 73.3320003,13.2261092 73.7700532,13.6783344 C74.2081061,14.1305597=
+ 74.4271293,14.7006641 74.4271293,15.3886649 L74.4271293,16.4013351 Z M73.2=
+985045,15.3809346 C73.2985045,14.9428816 73.1889929,14.583426 72.9699665,14=
+.3025567 C72.75094,14.0216875 72.449461,13.881255 72.0655205,13.881255 C71.=
+68158,13.881255 71.3839662,14.0210433 71.1726701,14.3006242 C70.961374,14.5=
+80205 70.8557275,14.9403049 70.8557275,15.3809346 L70.8557275,16.4013351 C7=
+0.8557275,16.8471184 70.9626623,17.2104392 71.1765352,17.4913084 C71.390408=
+1,17.7721776 71.688022,17.9126101 72.0693857,17.9126101 C72.455903,17.91261=
+01 72.7573819,17.7721776 72.9738316,17.4913084 C73.1902813,17.2104392 73.29=
+85045,16.8471184 73.2985045,16.4013351 L73.2985045,15.3809346 Z M78.0642388=
+,15.6746862 L78.0874297,15.6746862 L79.3165485,13.0811682 L80.5533976,13.08=
+11682 L78.6208209,16.7298731 L78.6208209,18.7088317 L77.4960612,18.7088317 =
+L77.4960612,16.6718958 L75.5982708,13.0811682 L76.83512,13.0811682 L78.0642=
+388,15.6746862 Z M85.0524363,17.2400734 C85.0524363,17.0236237 84.9757782,1=
+6.8496936 84.8224597,16.7182777 C84.6691412,16.5868618 84.4005157,16.463178=
+1 84.0165752,16.3472229 C83.3466119,16.1539643 82.8402819,15.9246342 82.497=
+5699,15.6592256 C82.1548579,15.3938171 81.9835044,15.0304963 81.9835044,14.=
+5692523 C81.9835044,14.1080084 82.1799811,13.7311597 82.5729404,13.4386949 =
+C82.9658996,13.1462302 83.4677203,13 84.0784176,13 C84.6968453,13 85.200598=
+6,13.1642674 85.5896927,13.4928071 C85.9787867,13.8213468 86.166889,14.2265=
+396 86.1540051,14.7083979 L86.1462748,14.7315888 L85.0524363,14.7315888 C85=
+.0524363,14.4713338 84.9654712,14.260685 84.7915385,14.0996362 C84.6176057,=
+13.9385873 84.3734593,13.8580641 84.0590919,13.8580641 C83.7576084,13.85806=
+41 83.5244131,13.9250594 83.3594991,14.0590521 C83.1945851,14.1930447 83.11=
+21293,14.3643981 83.1121293,14.5731175 C83.1121293,14.7637993 83.2003827,14=
+.9203365 83.3768923,15.0427336 C83.5534018,15.1651308 83.8581017,15.2946121=
+ 84.2910011,15.4311816 C84.9120055,15.6038259 85.3822612,15.8318677 85.7017=
+821,16.1153137 C86.0213031,16.3987597 86.1810612,16.7710991 86.1810612,17.2=
+323431 C86.1810612,17.7142013 85.9910263,18.0942709 85.610951,18.3725634 C8=
+5.2308757,18.6508558 84.7290549,18.79 84.1054737,18.79 C83.4921996,18.79 82=
+.9575254,18.6321744 82.501435,18.3165187 C82.0453446,18.0008629 81.8237447,=
+17.5583072 81.8366286,16.9888384 L81.8443589,16.9656475 L82.9420625,16.9656=
+475 C82.9420625,17.3006291 83.0444881,17.5460639 83.2493422,17.7019592 C83.=
+4541964,17.8578546 83.7395707,17.935801 84.1054737,17.935801 C84.4121108,17=
+.935801 84.6465944,17.8726708 84.8089317,17.7464085 C84.9712689,17.6201462 =
+85.0524363,17.4513695 85.0524363,17.2400734 Z M90.985447,18.7088317 L90.985=
+447,13.0811682 L92.8871025,13.0811682 C93.5493354,13.0811682 94.0659725,13.=
+2100054 94.4370291,13.4676836 C94.8080857,13.7253618 94.9936112,14.1105849 =
+94.9936112,14.6233645 C94.9936112,14.8836194 94.9246833,15.1161705 94.78682=
+55,15.3210247 C94.6489676,15.5258788 94.4486258,15.6798393 94.1857941,15.78=
+29105 C94.5233525,15.8550604 94.7765175,16.009665 94.9452967,16.246729 C95.=
+114076,16.4837929 95.1984643,16.758216 95.1984643,17.0700066 C95.1984643,17=
+.6085541 95.020669,18.0163237 94.6650731,18.2933277 C94.3094772,18.5703318 =
+93.8057239,18.7088317 93.1537981,18.7088317 L90.985447,18.7088317 Z M92.114=
+0718,16.2196729 L92.1140718,17.8430374 L93.1537981,17.8430374 C93.4527048,1=
+7.8430374 93.6807466,17.7779746 93.8379303,17.6478471 C93.995114,17.5177196=
+ 94.0737046,17.3251081 94.0737046,17.0700066 C94.0737046,16.794291 94.00670=
+93,16.5836422 93.8727166,16.438054 C93.738724,16.2924659 93.527431,16.21967=
+29 93.2388315,16.2196729 L92.1140718,16.2196729 Z M92.1140718,15.4389119 L9=
+2.925754,15.4389119 C93.2272375,15.4389119 93.4591444,15.37707 93.6214817,1=
+5.2533845 C93.7838189,15.129699 93.8649863,14.9493269 93.8649863,14.712263 =
+C93.8649863,14.452008 93.7831747,14.2600407 93.6195491,14.1363551 C93.45592=
+34,14.0126696 93.211777,13.9508278 92.8871025,13.9508278 L92.1140718,13.950=
+8278 L92.1140718,15.4389119 Z M98.5109009,15.6746862 L98.5340918,15.6746862=
+ L99.7632106,13.0811682 L101.00006,13.0811682 L99.067483,16.7298731 L99.067=
+483,18.7088317 L97.9427233,18.7088317 L97.9427233,16.6718958 L96.0449329,13=
+.0811682 L97.281782,13.0811682 L98.5109009,15.6746862 Z" id=3D"DEPLOYS-BY" =
+fill=3D"#BCBCBC"></path></g></g></svg></a><div class=3D"footer__SignWrapper=
+-vp91ct-0 bgaOvs mt"><span><font style=3D"vertical-align: inherit;"><font s=
+tyle=3D"vertical-align: inherit;">=E2=9D=AE=E2=9D=AF de </font></font><a hr=
+ef=3D"https://axelfuhrmann.com/"><font style=3D"vertical-align: inherit;"><=
+font style=3D"vertical-align: inherit;">Axel Fuhrmann</font></font></a></sp=
+an><span> <font style=3D"vertical-align: inherit;"><font style=3D"vertical-=
+align: inherit;"> 2022</font></font></span></div></footer></div><div id=3D"=
+gatsby-announcer" style=3D"position:absolute;top:0;width:1px;height:1px;pad=
+ding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" a=
+ria-live=3D"assertive" aria-atomic=3D"true"><font style=3D"vertical-align: =
+inherit;"><font style=3D"vertical-align: inherit;">Naveg=C3=B3 a Documentac=
+i=C3=B3n</font></font></div></div><div id=3D"goog-gt-tt" class=3D"skiptrans=
+late" dir=3D"ltr"><div style=3D"padding: 8px;"><div><div class=3D"logo"><im=
+g src=3D"https://www.gstatic.com/images/branding/product/1x/translate_24dp.=
+png" width=3D"20" height=3D"20" alt=3D"Google Traductor de Google"></div></=
+div></div><div class=3D"top" style=3D"padding: 8px; float: left; width: 100=
+%;"><h1 class=3D"title gray">Texto original</h1></div><div class=3D"middle"=
+ style=3D"padding: 8px;"><div class=3D"original-text"></div></div><div clas=
+s=3D"bottom" style=3D"padding: 8px;"><div class=3D"activity-links"><span cl=
+ass=3D"activity-link">Sugiere una traducci=C3=B3n mejor</span><span class=
+=3D"activity-link"></span></div><div class=3D"started-activity-container"><=
+hr style=3D"color: #CCC; background-color: #CCC; height: 1px; border: none;=
+"><div class=3D"activity-root"></div></div></div><div class=3D"status-messa=
+ge" style=3D"display: none;"></div></div><div class=3D"goog-te-spinner-pos"=
+><div class=3D"goog-te-spinner-animation"><svg xmlns=3D"http://www.w3.org/2=
+000/svg" class=3D"goog-te-spinner" width=3D"96px" height=3D"96px" viewBox=
+=3D"0 0 66 66"><circle class=3D"goog-te-spinner-path" fill=3D"none" stroke-=
+width=3D"6" stroke-linecap=3D"round" cx=3D"33" cy=3D"33" r=3D"30"></circle>=
+</svg></div></div></body></html>
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7c461f46-a253-4003-bbfb-1dae118d8c50@mhtml.blink
+
+@charset "utf-8";
+
+html { font-family: sans-serif; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+article, aside, details, figcaption, figure, footer, header, main, menu, na=
+v, section, summary { display: block; }
+
+audio, canvas, progress, video { display: inline-block; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+progress { vertical-align: baseline; }
+
+[hidden], template { display: none; }
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline-width: 0px; }
+
+abbr[title] { border-bottom: none; text-decoration: underline dotted; }
+
+b, strong { font-weight: bolder; }
+
+dfn { font-style: italic; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+img { border-style: none; }
+
+svg:not(:root) { overflow: hidden; }
+
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+button, input, optgroup, select, textarea { font: inherit; margin: 0px; }
+
+optgroup { font-weight: 700; }
+
+button, input { overflow: visible; }
+
+button, select { text-transform: none; }
+
+[type=3D"reset"], [type=3D"submit"], button, html [type=3D"button"] { appea=
+rance: button; }
+
+fieldset { border: 1px solid silver; margin: 0px 2px; padding: 0.35em 0.625=
+em 0.75em; }
+
+legend { box-sizing: border-box; color: inherit; display: table; max-width:=
+ 100%; padding: 0px; white-space: normal; }
+
+textarea { overflow: auto; }
+
+[type=3D"checkbox"], [type=3D"radio"] { box-sizing: border-box; padding: 0p=
+x; }
+
+[type=3D"number"]::-webkit-inner-spin-button, [type=3D"number"]::-webkit-ou=
+ter-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+[type=3D"search"]::-webkit-search-cancel-button, [type=3D"search"]::-webkit=
+-search-decoration { appearance: none; }
+
+::-webkit-input-placeholder { color: inherit; opacity: 0.54; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+html { font: 112.5% / 1.625 -apple-system, BlinkMacSystemFont, "Segoe UI", =
+Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"=
+, "Segoe UI Symbol"; box-sizing: border-box; overflow-y: scroll; }
+
+* { box-sizing: inherit; }
+
+::before { box-sizing: inherit; }
+
+::after { box-sizing: inherit; }
+
+body { color: rgba(0, 0, 0, 0.8); font-family: -apple-system, BlinkMacSyste=
+mFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji=
+", "Segoe UI Emoji", "Segoe UI Symbol"; font-weight: normal; overflow-wrap:=
+ break-word; font-kerning: normal; font-feature-settings: "kern", "liga", "=
+clig", "calt"; }
+
+img { max-width: 100%; margin: 0px 0px 0.8125rem; padding: 0px; }
+
+h1 { margin: 2.4375rem 0px 1.21875rem; padding: 0px 0px calc(0.40625rem - 1=
+px); color: inherit; font-family: -apple-system, BlinkMacSystemFont, "Segoe=
+ UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI =
+Emoji", "Segoe UI Symbol"; font-weight: 800; text-rendering: optimizelegibi=
+lity; font-size: 2rem; line-height: 1.1; border-bottom: 1px solid rgba(0, 0=
+, 0, 0.07); }
+
+h2 { margin: 1.625rem 0px 0.40625rem; padding: 0px 0px calc(0.40625rem - 1p=
+x); color: inherit; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI E=
+moji", "Segoe UI Symbol"; font-weight: 800; text-rendering: optimizelegibil=
+ity; font-size: 1.51572rem; line-height: 1.1; border-bottom: 1px solid rgba=
+(0, 0, 0, 0.07); }
+
+h3 { margin: 0px 0px 0.8125rem; padding: 0px; color: inherit; font-family: =
+-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sa=
+ns-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-we=
+ight: 800; text-rendering: optimizelegibility; font-size: 1.31951rem; line-=
+height: 1.1; }
+
+h4 { margin: 0px 0px 0.8125rem; padding: 0px; color: inherit; font-family: =
+-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sa=
+ns-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-we=
+ight: 800; text-rendering: optimizelegibility; font-size: 1rem; line-height=
+: 1.1; }
+
+h5 { margin: 0px 0px 0.8125rem; padding: 0px; color: inherit; font-family: =
+-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sa=
+ns-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-we=
+ight: 800; text-rendering: optimizelegibility; font-size: 0.87055rem; line-=
+height: 1.1; }
+
+h6 { margin: 0px 0px 0.8125rem; padding: 0px; color: rgba(0, 0, 0, 0.53); f=
+ont-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetic=
+a, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symb=
+ol"; font-weight: 800; text-rendering: optimizelegibility; font-size: 0.812=
+25rem; line-height: 1.1; }
+
+hgroup { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+ul { margin: 0px 0px 0.8125rem 1.625rem; padding: 0px; list-style-position:=
+ outside; list-style-image: none; }
+
+ol { margin: 0px 0px 0.8125rem 1.625rem; padding: 0px; list-style-position:=
+ outside; list-style-image: none; }
+
+dl { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+dd { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+p { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+figure { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+pre { margin: 0px 0px 0.8125rem; padding: 0px; font-size: 0.85rem; line-hei=
+ght: 1.625rem; }
+
+table { margin: 0px 0px 3.25rem; padding: 0px; font-size: 1rem; line-height=
+: 1.625rem; border-collapse: collapse; width: 100%; }
+
+fieldset { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+blockquote { margin: 0px 0px 0.8125rem; padding: 0.8125rem 0px 0.8125rem ca=
+lc(0.8125rem - 1px); border-left: 6px solid rgb(255, 152, 0); color: rgba(0=
+, 0, 0, 0.53); background: rgba(255, 152, 0, 0.28); }
+
+form { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+noscript { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+iframe { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+hr { margin: 0px 0px calc(0.8125rem - 1px); padding: 0px; background: rgba(=
+0, 0, 0, 0.2); border: none; height: 1px; }
+
+address { margin: 0px 0px 0.8125rem; padding: 0px; }
+
+b { font-weight: 600; }
+
+strong { font-weight: 600; }
+
+dt { font-weight: 600; }
+
+th { font-weight: 600; }
+
+li { margin-bottom: calc(0.40625rem); }
+
+ol li { padding-left: 0px; }
+
+ul li { padding-left: 0px; }
+
+li > ol { margin-left: 1.625rem; margin-bottom: calc(0.40625rem); margin-to=
+p: calc(0.40625rem); }
+
+li > ul { margin-left: 1.625rem; margin-bottom: calc(0.40625rem); margin-to=
+p: calc(0.40625rem); }
+
+blockquote :last-child { margin-bottom: 0px; }
+
+li :last-child { margin-bottom: 0px; }
+
+p :last-child { margin-bottom: 0px; }
+
+li > p { margin-bottom: calc(0.40625rem); }
+
+code { font-size: 0.85rem; line-height: 1.625rem; }
+
+kbd { font-size: 0.85rem; line-height: 1.625rem; }
+
+samp { font-size: 0.85rem; line-height: 1.625rem; }
+
+abbr { border-bottom: 1px dotted rgba(0, 0, 0, 0.5); cursor: help; }
+
+acronym { border-bottom: 1px dotted rgba(0, 0, 0, 0.5); cursor: help; }
+
+abbr[title] { border-bottom: 1px dotted rgba(0, 0, 0, 0.5); cursor: help; t=
+ext-decoration: none; }
+
+thead { text-align: left; }
+
+td, th { text-align: left; border-bottom: 1px solid rgba(0, 0, 0, 0.12); fo=
+nt-feature-settings: "tnum"; padding: 0.8125rem 1.08333rem calc(0.8125rem -=
+ 1px); }
+
+th:first-child, td:first-child { padding-left: 0px; }
+
+th:last-child, td:last-child { padding-right: 0px; }
+
+h3, h4, h5, h6 { margin-bottom: 0.8125rem; margin-top: 1.625rem; }
+
+ol, ul { margin-left: 2.03125rem; }
+
+li > ol, li > ul { margin-left: 2.03125rem; }
+
+a { color: rgb(64, 120, 192); text-decoration: none; }
+
+a:hover, a:active { text-decoration: underline; }
+
+h2, h3 { margin-top: 2.4375rem; }
+
+h1, h2 { border-bottom: none; }
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d790285f-524f-40c9-a800-25f5cd5eeab5@mhtml.blink
+
+@charset "utf-8";
+
+.kuaylo { padding: 0px 1.5rem; max-width: 960px; margin: 0px auto 60px; min=
+-height: 50vh; }
+
+.jwJece { margin: 0.25rem 0.5rem; font-size: 0.75rem; text-transform: upper=
+case; text-align: center; font-weight: bold; }
+
+.hJdTUN { animation: 1s ease 0s 1 normal none running isiQnN, 2s linear 0s =
+infinite normal none running eoUyJr; width: 30px; height: 30px; }
+
+.hJdTUN svg { width: 100%; height: 100%; fill: rgb(255, 152, 0); }
+
+.dTkcTc { margin: 0px; border-radius: 0.5rem; padding: 0.5rem 1rem; font-we=
+ight: 700; border: 1px solid rgb(255, 152, 0); background: transparent; col=
+or: rgb(51, 51, 51); transition: all 0.1s ease 0s; }
+
+.dTkcTc:hover, .dTkcTc:focus { background: rgb(255, 173, 51); }
+
+.dTkcTc:hover, .dTkcTc:focus { border: 1px solid transparent; background: r=
+gb(255, 152, 0); color: rgb(255, 255, 255); }
+
+.keqpVm { margin: 0px; background: rgb(255, 152, 0); border-radius: 0.5rem;=
+ padding: 0.5rem 1rem; color: rgb(255, 255, 255); font-weight: 700; transit=
+ion: all 0.1s ease 0s; }
+
+.keqpVm:hover, .keqpVm:focus { background: rgb(255, 173, 51); }
+
+.iQKEuF .endpoint { color: var(--punctuation); }
+
+.iQKEuF .request { font-weight: 500; color: var(--string); user-select: non=
+e; }
+
+.eikEcu { display: flex; -webkit-box-pack: center; justify-content: center;=
+ -webkit-box-align: center; align-items: center; height: 60px; border-botto=
+m: 1px solid transparent; position: relative; z-index: 2; }
+
+@media (max-width: 40.625em) {
+  .eikEcu { border-bottom: none; }
+}
+
+.eikEcu .nav-item { transition: all 0.1s ease 0s; }
+
+.eikEcu .nav-item__primary { font-weight: 700; }
+
+.eikEcu .home-icon { display: flex; -webkit-box-pack: center; justify-conte=
+nt: center; -webkit-box-align: center; align-items: center; }
+
+.eikEcu .home-icon svg { fill: rgb(51, 51, 51); }
+
+.dtvleI { display: flex; -webkit-box-pack: center; justify-content: center;=
+ -webkit-box-align: center; align-items: center; height: 60px; border-botto=
+m: 1px solid rgba(46, 41, 51, 0.08); position: fixed; width: 100%; z-index:=
+ 2; }
+
+@media (max-width: 40.625em) {
+  .dtvleI { border-bottom: none; }
+}
+
+.dtvleI .nav-item { transition: all 0.1s ease 0s; }
+
+.dtvleI .nav-item__primary { font-weight: 700; }
+
+.dtvleI .home-icon { display: flex; -webkit-box-pack: center; justify-conte=
+nt: center; -webkit-box-align: center; align-items: center; }
+
+.dtvleI .home-icon svg { fill: rgb(51, 51, 51); }
+
+.ehgJoC { display: flex; -webkit-box-pack: justify; justify-content: space-=
+between; -webkit-box-align: center; align-items: center; margin: 0px auto; =
+width: 100%; min-height: 60px; padding: 0px 1.5rem; }
+
+@media (max-width: 40.625em) {
+  .ehgJoC { border-bottom: 1px solid rgba(46, 41, 51, 0.08); }
+}
+
+.eIsSlF { color: rgb(51, 51, 51); border: none; }
+
+.eIsSlF:hover, .eIsSlF:focus { color: rgb(255, 152, 0); }
+
+.eIsSlF.active { color: rgb(255, 152, 0); }
+
+.LYiXj { display: flex; -webkit-box-pack: center; justify-content: center; =
+-webkit-box-align: center; align-items: center; padding: 0px; margin: 0px; =
+}
+
+.LYiXj li { margin: 0px; }
+
+.LYiXj li:not(:last-child) { margin-right: 1.75rem; }
+
+.erFval.mobile { display: none; padding: 0.25rem 0.5rem; }
+
+@media (max-width: 40.625em) {
+  .erFval.desktop { display: none; }
+  .erFval.mobile { display: block; }
+}
+
+.bgaOvs span { font-size: 0.75rem; }
+
+.bgaOvs span a { font-weight: bold; transition: color 0.2s ease 0s; color: =
+rgb(245, 245, 245); border-bottom: 1px solid rgb(255, 152, 0); }
+
+.bgaOvs span a:hover, .bgaOvs span a:focus { color: rgb(255, 152, 0); borde=
+r-bottom: none; }
+
+.CZpTZ { display: flex; -webkit-box-pack: center; justify-content: center; =
+-webkit-box-align: center; align-items: center; flex-flow: column nowrap; p=
+osition: relative; background: rgb(32, 35, 41); color: rgb(158, 158, 158); =
+padding: 4.5rem 0px; min-height: calc(120px); width: 100%; }
+
+.CZpTZ .mt { margin-top: 1.25rem; }
+
+.CZpTZ ul { display: flex; -webkit-box-pack: center; justify-content: cente=
+r; -webkit-box-align: center; align-items: center; margin: 0px; padding: 0p=
+x; width: 100%; }
+
+.CZpTZ ul li { margin: 0px; }
+
+.CZpTZ ul li + li { margin-left: 1.5rem; }
+
+.CZpTZ ul li .footer-icon { vertical-align: middle; }
+
+.CZpTZ ul li span { margin: 0px; }
+
+.CZpTZ ul li a { color: rgb(158, 158, 158); border-bottom: none; }
+
+.CZpTZ ul li a:hover, .CZpTZ ul li a:focus { color: rgb(255, 152, 0); }
+
+.NVGIK { display: flex; -webkit-box-pack: center; justify-content: center; =
+-webkit-box-align: center; align-items: center; color: rgb(158, 158, 158); =
+}
+
+.NVGIK .stats { margin-left: 0px; }
+
+.NVGIK .server-icon { height: 0.5rem; width: 0.5rem; border-radius: 50%; ba=
+ckground: rgb(85, 204, 68); }
+
+.fvEmfW { padding-top: 2px; }
+
+.jHMBqe { width: 600px; height: 220px; display: flex; overflow: hidden; bac=
+kground: rgb(60, 62, 68); border-radius: 0.5rem; margin: 0.75rem; box-shado=
+w: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1p=
+x; }
+
+@media (max-width: 40.625em) {
+  .jHMBqe { flex-direction: column; height: initial; width: 100%; }
+}
+
+.kZPbSk { flex: 2 1 0%; width: 100%; }
+
+.kZPbSk img { width: 100%; height: 100%; margin: 0px; opacity: 0; transitio=
+n: opacity 0.5s ease 0s; object-position: center center; object-fit: cover;=
+ }
+
+@media (max-width: 40.625em) {
+  .kZPbSk img { height: 300px; }
+}
+
+.gzCUdp { flex: 2 1 0%; width: 100%; }
+
+.gzCUdp img { width: 100%; height: 100%; margin: 0px; opacity: 1; transitio=
+n: opacity 0.5s ease 0s; object-position: center center; object-fit: cover;=
+ }
+
+@media (max-width: 40.625em) {
+  .gzCUdp img { height: 300px; }
+}
+
+.hNRKYn { flex: 3 1 0%; position: relative; padding: 0.75rem; color: rgb(25=
+5, 255, 255); display: flex; flex-direction: column; }
+
+.hNRKYn span, .hNRKYn h2 { margin: 0px; padding: 0px; }
+
+.hNRKYn h2 { font-size: 1.5rem; }
+
+.hNRKYn span { font-size: 16px; font-weight: 500; }
+
+.hNRKYn a { color: rgb(245, 245, 245); }
+
+.hNRKYn a:hover, .hNRKYn a:focus { color: rgb(255, 152, 0); text-decoration=
+: none; }
+
+.hNRKYn .text-gray { color: rgb(158, 158, 158); }
+
+.hNRKYn .section { flex: 1 1 0%; display: flex; flex-direction: column; -we=
+bkit-box-pack: center; justify-content: center; }
+
+.hNRKYn .section:first-child { -webkit-box-pack: start; justify-content: fl=
+ex-start; }
+
+.hNRKYn .section:last-child { -webkit-box-pack: end; justify-content: flex-=
+end; }
+
+@media (max-width: 40.625em) {
+  .hNRKYn .section + .section { margin-top: 1.25rem; }
+}
+
+.hNRKYn .status { display: flex; -webkit-box-align: center; align-items: ce=
+nter; text-transform: capitalize; }
+
+.hNRKYn .status__icon { height: 0.5rem; width: 0.5rem; margin-right: 0.375r=
+em; background: rgb(214, 61, 46); border-radius: 50%; }
+
+@media (max-width: 40.625em) {
+  .hNRKYn { pointer-events: none; }
+}
+
+.ldeZQp { flex: 3 1 0%; position: relative; padding: 0.75rem; color: rgb(25=
+5, 255, 255); display: flex; flex-direction: column; }
+
+.ldeZQp span, .ldeZQp h2 { margin: 0px; padding: 0px; }
+
+.ldeZQp h2 { font-size: 1.5rem; }
+
+.ldeZQp span { font-size: 16px; font-weight: 500; }
+
+.ldeZQp a { color: rgb(245, 245, 245); }
+
+.ldeZQp a:hover, .ldeZQp a:focus { color: rgb(255, 152, 0); text-decoration=
+: none; }
+
+.ldeZQp .text-gray { color: rgb(158, 158, 158); }
+
+.ldeZQp .section { flex: 1 1 0%; display: flex; flex-direction: column; -we=
+bkit-box-pack: center; justify-content: center; }
+
+.ldeZQp .section:first-child { -webkit-box-pack: start; justify-content: fl=
+ex-start; }
+
+.ldeZQp .section:last-child { -webkit-box-pack: end; justify-content: flex-=
+end; }
+
+@media (max-width: 40.625em) {
+  .ldeZQp .section + .section { margin-top: 1.25rem; }
+}
+
+.ldeZQp .status { display: flex; -webkit-box-align: center; align-items: ce=
+nter; text-transform: capitalize; }
+
+.ldeZQp .status__icon { height: 0.5rem; width: 0.5rem; margin-right: 0.375r=
+em; background: rgb(85, 204, 68); border-radius: 50%; }
+
+@media (max-width: 40.625em) {
+  .ldeZQp { pointer-events: none; }
+}
+
+.hOxzhF { flex: 3 1 0%; position: relative; padding: 0.75rem; color: rgb(25=
+5, 255, 255); display: flex; flex-direction: column; }
+
+.hOxzhF span, .hOxzhF h2 { margin: 0px; padding: 0px; }
+
+.hOxzhF h2 { font-size: 1.5rem; }
+
+.hOxzhF span { font-size: 16px; font-weight: 500; }
+
+.hOxzhF a { color: rgb(245, 245, 245); }
+
+.hOxzhF a:hover, .hOxzhF a:focus { color: rgb(255, 152, 0); text-decoration=
+: none; }
+
+.hOxzhF .text-gray { color: rgb(158, 158, 158); }
+
+.hOxzhF .section { flex: 1 1 0%; display: flex; flex-direction: column; -we=
+bkit-box-pack: center; justify-content: center; }
+
+.hOxzhF .section:first-child { -webkit-box-pack: start; justify-content: fl=
+ex-start; }
+
+.hOxzhF .section:last-child { -webkit-box-pack: end; justify-content: flex-=
+end; }
+
+@media (max-width: 40.625em) {
+  .hOxzhF .section + .section { margin-top: 1.25rem; }
+}
+
+.hOxzhF .status { display: flex; -webkit-box-align: center; align-items: ce=
+nter; text-transform: capitalize; }
+
+.hOxzhF .status__icon { height: 0.5rem; width: 0.5rem; margin-right: 0.375r=
+em; background: rgb(158, 158, 158); border-radius: 50%; }
+
+@media (max-width: 40.625em) {
+  .hOxzhF { pointer-events: none; }
+}
+
+.hkDYHb { height: 20px; width: 20px; fill: rgb(51, 51, 51); transition: tra=
+nsform 0.5s ease 0s; }
+
+.jlOiRP { position: fixed; bottom: 0px; right: 0px; z-index: 9999; border-r=
+adius: 50%; height: 60px; width: 60px; margin: 20px; box-shadow: rgba(0, 0,=
+ 0, 0.3) 0px 0px 20px; user-select: none; cursor: pointer; display: flex; -=
+webkit-box-pack: center; justify-content: center; -webkit-box-align: center=
+; align-items: center; background: rgb(255, 152, 0); border: 1px solid rgb(=
+255, 152, 0); }
+
+.esnBGc { transform: rotate(0deg); }
+
+.gBSXWo { height: calc(100vh - 60px); position: fixed; overflow: auto; inse=
+t: 60px 0px 0px; background: rgb(255, 255, 255); z-index: 999; pointer-even=
+ts: none; transform: translateX(-100%); opacity: 0; transition: opacity 0.3=
+s ease 0s; }
+
+.hEJucj { padding: 1.5rem; width: 260px; transform: translateX(-100%); tran=
+sition: transform 0.5s ease 0s; }
+
+.cPElHS { position: sticky; top: 60px; padding: 1.5rem; border-right: 1px s=
+olid rgba(46, 41, 51, 0.08); min-width: 260px; height: calc(100vh - 60px); =
+overflow-y: auto; }
+
+.cYgfJU ul { padding: 0px; margin: 0px; }
+
+.cYgfJU ul li { list-style-type: none; }
+
+.cYgfJU .section { margin-bottom: 1.5rem; }
+
+.cYgfJU .section .title { font-size: 1.25rem; margin: 0.2rem 0px 0px; font-=
+weight: 700; }
+
+.cYgfJU .section .item { margin: 3px 0px; }
+
+.cYgfJU .section:last-child { margin-bottom: 0px; }
+
+.gmaGpC #nav-desktop { display: block; }
+
+.gmaGpC #nav-mobile { display: none; }
+
+@media (max-width: 55.625em) {
+  .gmaGpC #nav-desktop { display: none; }
+  .gmaGpC #nav-mobile { display: block; }
+}
+
+.ghTjvL { border-bottom: none; }
+
+.iwfUYx { margin-top: 58px; display: flex; }
+
+@media (max-width: 55.625em) {
+  .iwfUYx { display: block; }
+}
+
+.iwfUYx .content { overflow: hidden; -webkit-box-flex: 1; flex-grow: 1; }
+
+.gJdYTa h2, .gJdYTa h3 { padding-top: 84px; margin-top: -28px; }
+
+.hruCvr { display: flex; -webkit-box-pack: end; justify-content: flex-end; =
+-webkit-box-align: center; align-items: center; border-top: 1px solid rgba(=
+46, 41, 51, 0.08); padding: 0px 1.5rem; }
+
+.egxLAS { display: flex; -webkit-box-pack: center; justify-content: center;=
+ -webkit-box-align: center; align-items: center; font-size: 0.75rem; paddin=
+g: 1.25rem 0px; }
+
+.egxLAS span { margin-left: 0.5rem; }
+
+.gLjIY { font-size: 1rem; }
+
+.hcPGbd li { list-style-type: initial; }
+
+body { background: rgb(32, 35, 41); font-variant-ligatures: none; text-rend=
+ering: optimizelegibility; -webkit-font-smoothing: antialiased; text-decora=
+tion-skip-ink: auto; }
+
+header, main { background: rgb(255, 255, 255); }
+
+a { color: rgb(51, 51, 51); }
+
+p a, li a { color: rgb(51, 51, 51); border-bottom: 2px solid rgb(255, 152, =
+0); transition: all 0.1s ease 0s; }
+
+a:hover, a:focus { text-decoration: none; border-bottom: none; color: rgb(2=
+55, 152, 0); }
+
+li { list-style-type: none; }
+
+::selection { color: rgb(255, 152, 0); background: rgb(32, 35, 41); }
+
+img { width: 100%; height: auto; display: block; }
+
+.kZQvlq { display: flex; -webkit-box-pack: center; justify-content: center;=
+ -webkit-box-align: center; align-items: center; padding: 4.5rem 0px; backg=
+round: rgb(36, 40, 47); min-height: calc(50vh - 60px); }
+
+@media (max-width: 40.625em) {
+  .kZQvlq { padding: 1.5rem; }
+}
+
+.iUltZj { display: flex; -webkit-box-pack: center; justify-content: center;=
+ -webkit-box-align: center; align-items: center; flex-wrap: wrap; max-width=
+: 1920px; }
+
+.bWzmMU { display: flex; -webkit-box-pack: center; justify-content: center;=
+ -webkit-box-align: center; align-items: center; flex-direction: column; he=
+ight: calc(50vh - 60px); text-align: center; position: relative; }
+
+.bWzmMU .hero-image { position: absolute; width: 100%; height: 100%; }
+
+.bWzmMU .hero-image svg { width: 100%; height: 100%; fill: rgb(245, 245, 24=
+5); }
+
+@media (max-width: 40.625em) {
+  .bWzmMU { padding: 0px 1.25rem; }
+}
+
+.iJtZvt { margin: 0px; color: rgb(32, 35, 41); border: none; font-weight: 9=
+00; z-index: 1; font-size: 5.625rem; }
+
+@media (max-width: 55.625em) {
+  .iJtZvt { font-size: 3.75rem; }
+}
+
+@media (max-width: 40.625em) {
+  .iJtZvt { font-size: 3.125rem; }
+}
+
+@-webkit-keyframes isiQnN {=20
+  0% { opacity: 0; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes isiQnN {=20
+  0% { opacity: 0; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes eoUyJr {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes eoUyJr {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-635fd176-59db-4427-8a8e-ad51d7ea20ec@mhtml.blink
+
+@charset "utf-8";
+
+#nprogress { pointer-events: none; }
+
+#nprogress .bar { background: rgb(255, 152, 0); position: fixed; z-index: 1=
+031; top: 0px; left: 0px; width: 100%; height: 2px; }
+
+#nprogress .peg { display: block; position: absolute; right: 0px; width: 10=
+0px; height: 100%; box-shadow: rgb(255, 152, 0) 0px 0px 10px, rgb(255, 152,=
+ 0) 0px 0px 5px; opacity: 1; transform: rotate(3deg) translate(0px, -4px); =
+}
+
+#nprogress .spinner { display: block; position: fixed; z-index: 1031; top: =
+15px; right: 15px; }
+
+#nprogress .spinner-icon { width: 18px; height: 18px; box-sizing: border-bo=
+x; border-width: 2px; border-style: solid; border-color: rgb(255, 152, 0) t=
+ransparent transparent rgb(255, 152, 0); border-image: initial; border-radi=
+us: 50%; animation: 400ms linear 0s infinite normal none running nprogress-=
+spinner; }
+
+.nprogress-custom-parent { overflow: hidden; position: relative; }
+
+.nprogress-custom-parent #nprogress .spinner, .nprogress-custom-parent #npr=
+ogress .bar { position: absolute; }
+
+@-webkit-keyframes nprogress-spinner {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes nprogress-spinner {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://translate.googleapis.com/translate_static/css/translateelement.css
+
+@charset "utf-8";
+
+.goog-te-banner-frame { left: 0px; top: 0px; height: 39px; width: 100%; z-i=
+ndex: 10000001; position: fixed; border-top: none; border-right: none; bord=
+er-left: none; border-image: initial; border-bottom: 1px solid rgb(107, 144=
+, 218); margin: 0px; box-shadow: rgb(153, 153, 153) 0px 0px 8px 1px; }
+
+.goog-te-menu-frame { z-index: 10000002; position: fixed; border: none; box=
+-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; }
+
+.goog-te-ftab-frame { z-index: 10000000; border: none; margin: 0px; }
+
+.goog-te-gadget { font-family: arial; font-size: 11px; color: rgb(102, 102,=
+ 102); white-space: nowrap; }
+
+.goog-te-gadget img { vertical-align: middle; border: none; }
+
+.goog-te-gadget-simple { background-color: rgb(255, 255, 255); border-width=
+: 1px; border-style: solid; border-color: rgb(155, 155, 155) rgb(213, 213, =
+213) rgb(232, 232, 232); font-size: 10pt; display: inline-block; padding-to=
+p: 1px; padding-bottom: 2px; cursor: pointer; zoom: 1; }
+
+.goog-te-gadget-icon { margin-left: 2px; margin-right: 2px; width: 19px; he=
+ight: 19px; border: none; vertical-align: middle; }
+
+.goog-te-combo { margin-left: 4px; margin-right: 4px; vertical-align: basel=
+ine; }
+
+.goog-te-gadget .goog-te-combo { margin: 4px 0px; }
+
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-=
+link:hover, .goog-logo-link:active { font-size: 12px; font-weight: bold; co=
+lor: rgb(68, 68, 68); text-decoration: none; }
+
+.goog-te-banner .goog-logo-link, .goog-close-link { display: block; margin:=
+ 0px 10px; }
+
+.goog-te-banner .goog-logo-link { padding-top: 2px; padding-left: 4px; }
+
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-=
+te-menu2 *, .goog-te-balloon * { font-family: arial; font-size: 10pt; }
+
+.goog-te-banner { margin: 0px; background-color: rgb(228, 239, 251); overfl=
+ow: hidden; }
+
+.goog-te-banner img { border: none; }
+
+.goog-te-banner-content { color: rgb(0, 0, 0); }
+
+.goog-te-banner-content img { vertical-align: middle; }
+
+.goog-te-banner-info { color: rgb(102, 102, 102); vertical-align: top; marg=
+in-top: 0px; font-size: 7pt; }
+
+.goog-te-banner-margin { width: 8px; }
+
+.goog-te-button { border-color: rgb(231, 231, 231); border-style: none soli=
+d solid none; border-width: 0px 1px 1px 0px; }
+
+.goog-te-button div { border-color: rgb(204, 204, 204) rgb(153, 153, 153) r=
+gb(153, 153, 153) rgb(204, 204, 204); border-style: solid; border-width: 1p=
+x; height: 20px; }
+
+.goog-te-button button { background: transparent; border: none; cursor: poi=
+nter; height: 20px; overflow: hidden; margin: 0px; vertical-align: top; whi=
+te-space: nowrap; }
+
+.goog-te-button button:active { background: none 0px 0px repeat scroll rgb(=
+204, 204, 204); }
+
+.goog-te-ftab { margin: 0px; background-color: rgb(255, 255, 255); white-sp=
+ace: nowrap; }
+
+.goog-te-ftab-link { text-decoration: none; font-weight: bold; font-size: 1=
+0pt; border: 1px outset rgb(136, 136, 136); padding: 6px 10px; white-space:=
+ nowrap; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-ftab-link img { margin-left: 2px; margin-right: 2px; width: 19px; =
+height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-ftab-link span { text-decoration: underline; margin-left: 2px; mar=
+gin-right: 2px; vertical-align: middle; }
+
+.goog-float-top .goog-te-ftab-link { padding: 2px; border-top-width: 0px; }
+
+.goog-float-bottom .goog-te-ftab-link { padding: 2px; border-bottom-width: =
+0px; }
+
+.goog-te-menu-value { text-decoration: none; color: rgb(0, 0, 204); white-s=
+pace: nowrap; margin-left: 4px; margin-right: 4px; }
+
+.goog-te-menu-value span { text-decoration: underline; }
+
+.goog-te-menu-value img { margin-left: 2px; margin-right: 2px; }
+
+.goog-te-gadget-simple .goog-te-menu-value { color: rgb(0, 0, 0); }
+
+.goog-te-gadget-simple .goog-te-menu-value span { text-decoration: none; }
+
+.goog-te-menu { background-color: rgb(255, 255, 255); text-decoration: none=
+; border: 2px solid rgb(195, 217, 255); overflow: hidden scroll; position: =
+absolute; left: 0px; top: 0px; }
+
+.goog-te-menu-item { padding: 3px; text-decoration: none; }
+
+.goog-te-menu-item, .goog-te-menu-item:link { color: rgb(0, 0, 204); backgr=
+ound: rgb(255, 255, 255); }
+
+.goog-te-menu-item:visited { color: rgb(85, 26, 139); }
+
+.goog-te-menu-item:hover { background: rgb(195, 217, 255); }
+
+.goog-te-menu-item:active { color: rgb(0, 0, 204); }
+
+.goog-te-menu2 { background-color: rgb(255, 255, 255); text-decoration: non=
+e; border: 1px solid rgb(107, 144, 218); overflow: hidden; padding: 4px; }
+
+.goog-te-menu2-colpad { width: 16px; }
+
+.goog-te-menu2-separator { margin: 6px 0px; height: 1px; background-color: =
+rgb(170, 170, 170); overflow: hidden; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item-selected div { padding: 4px; }
+
+.goog-te-menu2-item .indicator { display: none; }
+
+.goog-te-menu2-item-selected .indicator { }
+
+.goog-te-menu2-item-selected .text { padding-left: 4px; padding-right: 4px;=
+ }
+
+.goog-te-menu2-item, .goog-te-menu2-item-selected { text-decoration: none; =
+}
+
+.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:=
+visited div, .goog-te-menu2-item:active div { color: rgb(0, 0, 204); backgr=
+ound: rgb(255, 255, 255); }
+
+.goog-te-menu2-item:hover div { color: rgb(255, 255, 255); background: rgb(=
+51, 102, 204); }
+
+.goog-te-menu2-item-selected div, .goog-te-menu2-item-selected:link div, .g=
+oog-te-menu2-item-selected:visited div, .goog-te-menu2-item-selected:hover =
+div, .goog-te-menu2-item-selected:active div { color: rgb(0, 0, 0); font-we=
+ight: bold; }
+
+.goog-te-balloon { background-color: rgb(255, 255, 255); overflow: hidden; =
+padding: 8px; border: none; border-radius: 10px; }
+
+.goog-te-balloon-frame { background-color: rgb(255, 255, 255); border: 1px =
+solid rgb(107, 144, 218); box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; b=
+order-radius: 8px; }
+
+.goog-te-balloon img { border: none; }
+
+.goog-te-balloon-text { margin-top: 6px; }
+
+.goog-te-balloon-zippy { margin-top: 6px; white-space: nowrap; }
+
+.goog-te-balloon-zippy * { vertical-align: middle; }
+
+.goog-te-balloon-zippy .minus { background-image: url("//www.google.com/ima=
+ges/zippy_minus_sm.gif"); }
+
+.goog-te-balloon-zippy .plus { background-image: url("//www.google.com/imag=
+es/zippy_plus_sm.gif"); }
+
+.goog-te-balloon-zippy span { color: rgb(0, 0, 204); text-decoration: under=
+line; cursor: pointer; margin: 0px 4px; }
+
+.goog-te-balloon-form { margin: 6px 0px 0px; }
+
+.goog-te-balloon-form form { margin: 0px; }
+
+.goog-te-balloon-form form textarea { margin-bottom: 4px; width: 100%; }
+
+.goog-te-balloon-footer { margin: 6px 0px 4px; }
+
+.goog-te-spinner-pos { z-index: 1000; position: fixed; transition-delay: 0.=
+6s; left: -1000px; top: -1000px; }
+
+.goog-te-spinner-animation { display: flex; align-items: center; justify-co=
+ntent: center; width: 104px; height: 104px; border-radius: 50px; background=
+: url("//www.gstatic.com/images/branding/product/2x/translate_24dp.png") 50=
+% 50% no-repeat rgb(255, 255, 255); transition: all 0.6s ease-in-out 0s; tr=
+ansform: scale(0.4); opacity: 0; }
+
+.goog-te-spinner-animation-show { transform: scale(0.5); opacity: 1; }
+
+.goog-te-spinner { margin: 2px 0px 0px 2px; animation: 1.4s linear 0s infin=
+ite normal none running goog-te-spinner-rotator; }
+
+@keyframes goog-te-spinner-rotator {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.goog-te-spinner-path { stroke-dasharray: 187; stroke-dashoffset: 0; stroke=
+: rgb(66, 133, 244); transform-origin: center center; animation: 1.4s ease-=
+in-out 0s infinite normal none running goog-te-spinner-dash; }
+
+@keyframes goog-te-spinner-dash {=20
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+#goog-gt-tt html, #goog-gt-tt body, #goog-gt-tt div, #goog-gt-tt span, #goo=
+g-gt-tt iframe, #goog-gt-tt h1, #goog-gt-tt h2, #goog-gt-tt h3, #goog-gt-tt=
+ h4, #goog-gt-tt h5, #goog-gt-tt h6, #goog-gt-tt p, #goog-gt-tt a, #goog-gt=
+-tt img, #goog-gt-tt ol, #goog-gt-tt ul, #goog-gt-tt li, #goog-gt-tt table,=
+ #goog-gt-tt form, #goog-gt-tt tbody, #goog-gt-tt tr, #goog-gt-tt td { marg=
+in: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inhe=
+rit; font-weight: inherit; font-stretch: inherit; font-size: inherit; font-=
+family: inherit; vertical-align: baseline; text-align: left; line-height: n=
+ormal; }
+
+#goog-gt-tt ol, #goog-gt-tt ul { list-style: none; }
+
+#goog-gt-tt table { border-collapse: collapse; border-spacing: 0px; }
+
+#goog-gt-tt caption, #goog-gt-tt th, #goog-gt-tt td { text-align: left; fon=
+t-weight: normal; }
+
+div#goog-gt-tt { padding: 10px 14px; }
+
+#goog-gt-tt { color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);=
+ border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.2) 0px 4=
+px 16px; display: none; font-family: arial; font-size: 10pt; width: 420px; =
+padding: 12px; position: absolute; z-index: 10000; }
+
+#goog-gt-tt .original-text, .gt-hl-layer { clear: both; font-size: 10pt; po=
+sition: relative; text-align: justify; width: 100%; }
+
+#goog-gt-tt .title { color: rgb(153, 153, 153); font-family: arial, sans-se=
+rif; margin: 4px 0px; text-align: left; }
+
+#goog-gt-tt .close-button { display: none; }
+
+#goog-gt-tt .logo { float: left; margin: 0px; }
+
+#goog-gt-tt .activity-links { display: inline-block; }
+
+#goog-gt-tt .started-activity-container { display: none; width: 100%; }
+
+#goog-gt-tt .activity-root { margin-top: 20px; }
+
+#goog-gt-tt .left { float: left; }
+
+#goog-gt-tt .right { float: right; }
+
+#goog-gt-tt .bottom { min-height: 15px; position: relative; height: 1%; }
+
+#goog-gt-tt .status-message { background: rgb(41, 145, 13); border-radius: =
+4px; box-shadow: rgb(30, 102, 9) 0px 2px 2px inset; color: white; font-size=
+: 9pt; font-weight: bolder; margin-top: 12px; padding: 6px; text-shadow: rg=
+b(30, 102, 9) 1px 1px 1px; }
+
+#goog-gt-tt .activity-link { color: rgb(17, 85, 204); cursor: pointer; font=
+-family: arial; font-size: 11px; margin-right: 15px; text-decoration: none;=
+ }
+
+#goog-gt-tt textarea { font-family: arial; resize: vertical; width: 100%; m=
+argin-bottom: 10px; border-radius: 1px; border-width: 1px; border-style: so=
+lid; border-color: silver rgb(217, 217, 217) rgb(217, 217, 217); border-ima=
+ge: initial; font-size: 13px; height: auto; overflow-y: auto; padding: 1px;=
+ }
+
+#goog-gt-tt textarea:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px ins=
+et; border: 1px solid rgb(77, 144, 254); outline: none; }
+
+#goog-gt-tt .activity-cancel { margin-right: 10px; }
+
+#goog-gt-tt .translate-form { min-height: 25px; vertical-align: middle; pad=
+ding-top: 8px; }
+
+#goog-gt-tt .translate-form .activity-form { margin-bottom: 0px; }
+
+#goog-gt-tt .translate-form .activity-form input { display: inline-block; m=
+in-width: 54px; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; c=
+olor: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: 27px; ou=
+tline: 0px; padding: 0px 8px; vertical-align: middle; line-height: 27px; ma=
+rgin: 0px 16px 0px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px; border-=
+radius: 2px; transition: all 0.218s ease 0s; background-color: rgb(245, 245=
+, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), =
+rgb(241, 241, 241)); user-select: none; cursor: default; }
+
+#goog-gt-tt .translate-form .activity-form input:hover { border: 1px solid =
+rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all 0s ease 0s; bac=
+kground-color: rgb(248, 248, 248); background-image: -webkit-linear-gradien=
+t(top, rgb(248, 248, 248), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:active { border: 1px solid=
+ rgb(198, 198, 198); color: rgb(51, 51, 51); background-color: rgb(246, 246=
+, 246); background-image: -webkit-linear-gradient(top, rgb(246, 246, 246), =
+rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .transl=
+ate-form .activity-form input.focus { outline: none; border: 1px solid rgb(=
+77, 144, 254); z-index: 4 !important; }
+
+#goog-gt-tt .translate-form .activity-form input.selected { background-colo=
+r: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(2=
+38, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px =
+2px inset; border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit { color: w=
+hite; border-color: rgb(48, 121, 237); background-color: rgb(77, 144, 254);=
+ background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, =
+135, 237)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover #goo=
+g-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-g=
+t-tt .translate-form .activity-form input.activity-submit.focus #goog-gt-tt=
+ .translate-form .activity-form input.activity-submit:active { border-color=
+: rgb(48, 121, 237); background-color: rgb(53, 122, 232); background-image:=
+ -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover { bo=
+x-shadow: rgb(255, 255, 255) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.1) 0px =
+1px 1px; }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .transl=
+ate-form .activity-form input.focus, #goog-gt-tt .translate-form .activity-=
+form input:active, #goog-gt-tt .translate-form .activity-form input:hover, =
+#goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #go=
+og-gt-tt .translate-form .activity-form input.activity-submit.focus, #goog-=
+gt-tt .translate-form .activity-form input.activity-submit:active, #goog-gt=
+-tt .translate-form .activity-form input.activity-submit:hover { border-col=
+or: rgb(48, 121, 237); }
+
+#goog-gt-tt .gray { color: rgb(153, 153, 153); font-family: arial, sans-ser=
+if; }
+
+#goog-gt-tt .alt-helper-text { color: rgb(153, 153, 153); font-size: 11px; =
+font-family: arial, sans-serif; margin: 15px 0px 5px; }
+
+#goog-gt-tt .alt-error-text { color: rgb(136, 0, 0); display: none; font-si=
+ze: 9pt; }
+
+.goog-text-highlight { background-color: rgb(201, 215, 241); box-shadow: rg=
+b(153, 153, 170) 2px 2px 4px; box-sizing: border-box; position: relative; }
+
+#goog-gt-tt .alt-menu.goog-menu { background: rgb(255, 255, 255); border: 1=
+px solid rgb(221, 221, 221); box-shadow: rgb(153, 153, 170) 0px 2px 4px; mi=
+n-width: 0px; outline: none; padding: 0px; position: absolute; z-index: 200=
+0; }
+
+#goog-gt-tt .alt-menu .goog-menuitem { cursor: pointer; padding: 2px 5px 5p=
+x; margin-right: 0px; border-style: none; }
+
+#goog-gt-tt .alt-menu div.goog-menuitem:hover { background: rgb(221, 221, 2=
+21); }
+
+#goog-gt-tt .alt-menu .goog-menuitem h1 { font-size: 100%; font-weight: bol=
+d; margin: 4px 0px; }
+
+#goog-gt-tt .alt-menu .goog-menuitem strong { color: rgb(52, 90, 173); }
+
+#goog-gt-tt .goog-submenu-arrow { text-align: right; position: absolute; ri=
+ght: 0px; left: auto; }
+
+#goog-gt-tt .goog-menuitem-rtl .goog-submenu-arrow { text-align: left; posi=
+tion: absolute; left: 0px; right: auto; }
+
+#goog-gt-tt .gt-hl-text, #goog-gt-tt .trans-target-highlight { background-c=
+olor: rgb(241, 234, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.5) =
+3px 3px 4px; box-sizing: border-box; color: rgb(241, 234, 0); cursor: point=
+er; margin: -2px -2px -2px -3px; padding: 2px 2px 2px 3px; position: relati=
+ve; }
+
+#goog-gt-tt .trans-target-highlight { color: rgb(34, 34, 34); }
+
+#goog-gt-tt .gt-hl-layer { color: white; position: absolute !important; }
+
+#goog-gt-tt .trans-target, #goog-gt-tt .trans-target .trans-target-highligh=
+t { background-color: rgb(201, 215, 241); border-radius: 4px 4px 0px 0px; b=
+ox-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; cursor: =
+pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 3px 3px; position: r=
+elative; }
+
+#goog-gt-tt span:focus { outline: none; }
+
+#goog-gt-tt .trans-edit { background-color: transparent; border: 1px solid =
+rgb(77, 144, 254); border-radius: 0em; margin: -2px; padding: 1px; }
+
+#goog-gt-tt .gt-trans-highlight-l { border-left: 2px solid red; margin-left=
+: -2px; }
+
+#goog-gt-tt .gt-trans-highlight-r { border-right: 2px solid red; margin-rig=
+ht: -2px; }
+
+#goog-gt-tt #alt-input { padding: 2px; }
+
+#goog-gt-tt #alt-input-text { font-size: 11px; padding: 2px 2px 3px; margin=
+: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); border=
+-width: 1px; border-style: solid; border-color: rgb(192, 192, 192) rgb(217,=
+ 217, 217) rgb(217, 217, 217); border-image: initial; display: inline-block=
+; vertical-align: top; height: 21px; box-sizing: border-box; border-radius:=
+ 1px; }
+
+#goog-gt-tt #alt-input-text:hover { border-width: 1px; border-style: solid;=
+ border-color: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); bo=
+rder-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+#goog-gt-tt #alt-input-text:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px =
+2px inset; outline: none; border: 1px solid rgb(77, 144, 254); }
+
+#goog-gt-tt #alt-input-submit { font-size: 11px; padding: 2px 6px 3px; marg=
+in: 0px 0px 0px 2px; height: 21px; }
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/product/2x/translate_24dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAG+UlEQVR4Ae2YVXfbWBCAtc/L8H+W
+ocztYpmflrfccGKIU2ZmZuY2jLbMDjNvw693dkbOKIrWcpR18JzNOV987dL3SXMlpdJE+fr/CwDe
+WHqgY+6inb2e+Tv7hJ55OwaY288cJiPMbA3r97a+hUijjbpYvLdz/oJdfYKJNWBhWtsMRBptBt7s
+7HVr5WMNmGnvfIRIo426IEkjeUKVNxkwy4F/319F7yLSaKIuWHTkApCkujmINJqoCxYd/vgwOnnC
+3vkYkUYTdWFe3nwAj9G4jBBLG8tHHx9iJjI7qXoeIo0W6kIvbCTPAXMz+kDLHEeY2VrS+2Dl/g5w
+uspFVVWDaG5pFa2tYVpaWlSam5sVmpqaItLY2EjQWq6urp+GSIy6GI48oZdntPLMtYceEQxVoQAJ
+//cAprKyZgYiERIvjKWNR2eoo88kn66C3DxZVFXXk3DMAfX1jU5EIiRezDUhvvhAnzj5ohvkik5o
+auuAZsRd2Qmn8LPF+yLLz0KW7WmHzCynkOWAqG9ojDWAkQiJF0biTPL1HtHY2gGvOyJDv7btYk/E
+AOIqjlFhkUcEAiGSGvkAkjSC5F+/HpCtbOiEx65OuF3QBaGa8Gf0uvJQb0T5mfaBMXJ7AqK0tIzE
+WJ4xko8hAOf8p/196pFv/7sDjj3r1l42aQ177vfA0v2R5Tlgaf8YuVx+EQiGRHl5OQmOYADJRODk
+824+8sqs66/32rk3OvrM1QfhMfL7g3QWKIJEhj0+DQ0NhERIvDAKoA1L8k14FubtHCzPmJGfgSSd
+wjHKpTHyi1CoVJSVqRGxB7CYHhKngNxAJ+jFjTb0g+KuiAFLduMYZdIY+USwP4BYtc0Ka5MywIR8
+bAEkbSbgibNLL8+oY+Tz0RiFA1Zus8DK7VYgsRELYEntCM3dyc84YWy3elT2PRzYK1dyuv4lP92G
+WPtg3tZnsPgPCyzbhNJbrQi+bmOssDohA9Yk7kAyGOUzjXzkABbWc0KziekmxvIq6WGOPBn4fSnX
+elieUeSJmSk18OPvFli6MRywYmuaGrACA1Zut6GwQyMfY8AP+wYuo214GT3ytFvMyhgsn3KjR7S2
+h39PTVMXzM/oZfEwNgYjkCsP3DhGbmWMtJu5oqJCIf34BSXizrMs/fgYB5CQEQlXB9/IKuhG5uyE
+m3gj81Z2qp/T70m40mMozwGJeDXKyXUJ2e0XwWBoUIDb6xOr4+ywJj4dyvC9gfzwAjiisYVEI0Nn
+wHare0h5YvGudojLOAVLN1hg56mLwAHELnxPG3rniYtQWVlJouYCeByiQeN0/Fk3uMo7lU3d3NYJ
+HjwD5zO7YemBXmFGnphm7YVTNwrFsg1WWLbZCpm5+Yr8q9wCsQr3AJ2BIqcsKKCqqoqFYwuYEYXp
+9gHMyBOJJyvBcfginoU0+CVtN5TIsvjVskfZzEcu3wIaJwrgiPr6+ugBM4xFTYkzRuIsz/y0sx1e
+vioWG6wHYfmWNFiXkA4rUH6D4wCU4khxgHGELiAWaWJaP2bkp/Zz5b5bPH2ZJ5Zv4cupDYqdsjJO
+HECvHFBdXc0RxgHGwsbieqLLMzRGVZC06wzeE9JwL6TBcryp7Tp5CTiA0QbU1NREDjCWNCHN2MJo
+xA3kEUsvzLE0wPe/psKqzTa4cOeRWBfvgBUYsePkRYowDKitrSUkQuKFeWljccaMPDElrRd+2HAY
+7j58pTxiv8wpEGtxLyzfhhEnLsCwAowFzYsTU/vRiBvKE38dCEB2jkt9xM7MKxTrEhzKOO04rpwJ
+bQARQ4DNmKk6hpL/hgJw/QNejV71P2IHwndljChQIujZyH7sHHAAYRgww9brMpY0L05MsfaKSOIM
+yzOX78mioFAe9Iid1R9x/ModOgP6MSIkQuLFbEv77FikWVxLJPkpOigmQXk2Un7g1z/cMdEDmKnx
+1fOmpr72TbV0Ci1ThuCbtH/zNTIltRO0fKPj65QOhR8czco+cMm0D8q0AfwaPWC02JL4NO6zuTfh
+Ux2fzLmh8umcm7A5+Qnk5eMZcA8+A8S4BsTZn3/0xYI7oOXz+YPZnvoCcvNcorjEK/wBZRMz4x9A
+rP3jRcuXi+7DF3oW3od420vIL5BFEcp7PPyzQdQAjiAkgr6NKkmOrA0UoMLy9hco7xTFxR4cHR/9
+lyOOTwivQqVGAczYBjgcDz7QihNx1uc482F5WfYJnz+ARz8YLYAZ+wBizW8vWlg+3vYcZ75EFBW5
+FXmvz49HP3oArzmgtLxCRiSCvo06ybacP5Qjj/I5ucWiEG9aTqdHkff7owfwe23Aq+yS+YhE0LdR
+Jw7HKM7yGDKz8kVOTpEoKCgRThddNt0KHg/GeL3C5/NxEEFrbSD9Xu+jpzkLEInhxWRl8gf8A1/5
+iBrINb9BAAAAAElFTkSuQmCC
+
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blocksi.net/includes/raisehand.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://rickandmortyapi.com/styles.2946f3cc1f53ed9e3f62.css
+
+@charset "utf-8";
+
+@import url("https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_c=
+ode.css");
+
+:root { --property:#ff79c6; --numeric:#f08d49; --string:#4cff8f; --keyword:=
+#66d9ef; --punctuation:#abb2bf; --background:#202329; --radius:6px; --inlin=
+e-background:rgba(27,31,35,0.0509804); --inline-color:#476582; }
+
+code[class*=3D"language-"], pre[class*=3D"language-"] { font-family: "Fira =
+Code", Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace; color: rg=
+b(255, 255, 255); background: none; text-align: left; white-space: pre; wor=
+d-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: =
+1.5; tab-size: 4; hyphens: none; }
+
+pre[class*=3D"language-"] { background: var(--background); padding: 2em; ma=
+rgin: 0.5em 0px 1em; overflow: auto; border-radius: var(--radius); }
+
+pre.language-shell { border-radius: var(--radius) var(--radius) 0 0; margin=
+-bottom: 0px; }
+
+pre.language-json { border-radius: 0 0 var(--radius) var(--radius); margin-=
+top: 1px; }
+
+li > code[class*=3D"language-"], p > code[class*=3D"language-"] { backgroun=
+d: var(--inline-background); color: var(--inline-color); font-weight: 500; =
+padding: 0.25rem 0.5rem; border-radius: 3px; white-space: normal; }
+
+.token.cdata, .token.comment, .token.doctype, .token.prolog { color: rgb(11=
+2, 128, 144); }
+
+.namespace { opacity: 0.7; }
+
+.token.constant, .token.deleted, .token.property, .token.symbol, .token.tag=
+ { color: var(--property); }
+
+.token.boolean, .token.number { color: var(--numeric); }
+
+.token.attr-name, .token.builtin, .token.char, .token.inserted, .token.sele=
+ctor, .token.string { color: var(--string); }
+
+.language-css .token.string, .style .token.string, .token.entity, .token.op=
+erator, .token.punctuation, .token.url, .token.variable { color: var(--punc=
+tuation); }
+
+.token.atrule, .token.attr-value, .token.function { color: rgb(230, 219, 11=
+6); }
+
+.token.keyword { color: var(--keyword); }
+
+.token.important, .token.regex { color: rgb(253, 151, 31); }
+
+.token.bold, .token.important { font-weight: 700; }
+
+.token.italic { font-style: italic; }
+
+.token.entity { cursor: help; }
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css
+
+@charset "utf-8";
+
+@font-face { font-family: "Fira Code"; src: url("eot/FiraCode-Light.eot") f=
+ormat("embedded-opentype"), url("woff2/FiraCode-Light.woff2") format("woff2=
+"), url("woff/FiraCode-Light.woff") format("woff"), url("ttf/FiraCode-Light=
+.ttf") format("truetype"); font-weight: 300; font-style: normal; }
+
+@font-face { font-family: "Fira Code"; src: url("eot/FiraCode-Regular.eot")=
+ format("embedded-opentype"), url("woff2/FiraCode-Regular.woff2") format("w=
+off2"), url("woff/FiraCode-Regular.woff") format("woff"), url("ttf/FiraCode=
+-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: "Fira Code"; src: url("eot/FiraCode-Medium.eot") =
+format("embedded-opentype"), url("woff2/FiraCode-Medium.woff2") format("wof=
+f2"), url("woff/FiraCode-Medium.woff") format("woff"), url("ttf/FiraCode-Me=
+dium.ttf") format("truetype"); font-weight: 500; font-style: normal; }
+
+@font-face { font-family: "Fira Code"; src: url("eot/FiraCode-Bold.eot") fo=
+rmat("embedded-opentype"), url("woff2/FiraCode-Bold.woff2") format("woff2")=
+, url("woff/FiraCode-Bold.woff") format("woff"), url("ttf/FiraCode-Bold.ttf=
+") format("truetype"); font-weight: 700; font-style: normal; }
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADFUlEQVR4AWKgC0gC9E5OXW6FUQDt
+c41/VI89UxvvtcZVXNu2jbEV28nYNze3j+f0npV8cY271o6z9/10IZBddOILX3hcAKLgmAD5YfII
+lQC5IjtuDE77rUDxCYErOiHAjwLFR0eyfivAxHEBJmcBQsG///1ARE4k3z2RoxRgg8Qy45cDTJoo
+z1cJSOQpBcwNo3jcjy5XHwwODcFQmMHBQRgYGIjQ398fcDo96XGB/BjywjB5JKAQcMOZcexRm0Xp
+dwP0PBkJJIrLH/HQY+dwYGQC1fZJLH/ARwI5Ii8/m8FstlOE5EScnBEJkJRR9pCH8fEJfNIawMPP
+eHjYzOG+e3xEThy560W1xgQOp4vJvx+ghWTQnb/o4JAtKrtzFsiWC7ju1Dh2dOrBYrGBy+X6cYBk
+jIHhCVS85IHk12oDMD4xgYTeOUlyArNEXnw2gU5vBpvNDpsrZJgY6OvriwZIxmAjyKYteSEIO+8E
+od0yiZ+1XESeKROwsLwG1+2V4IbSo7ipTIKbK+S4tVqFW6pUmBQgGaP0QWgNHotrcOgpD3cbOaT3
+++7ymEUBWYi1J8fx2oOX0NrZDQ6HA6SXbuOzj7WpR5CtECCWA2Kk28bhwHBoF1WKuypWnhlGefUz
+7FVdxLd1jbBdcgrtdjt4vV6SxweyRGkqMuVREuUZ0iAeuuPBUuUl3FAmwfqWTnA6nbToLJI6wISM
+jDCJ8nSRVcdHcGupCndITuPZe4+RAoTb7Qa/3x8NpJDGIwtBYiYn0iRBPH6jFrrUeig9fgHP3XmM
+LODz+WIDQS6VlJHOSJATh257UaMxgt5ghNKTF/FjQ0tyIOfoSFaaNBhMl/LASIthqSREmoTHtKMB
+ApeGWX1iFLVaI50H2k1x6zDlV6+9ez/NW1T0GhcWvSJwQeErPKRsQIPBDLSDCIr8doCuLbvqBxcW
+v0WiWlGPPWoDmMwWcQS2uIDH4/m9wGF5865FJW+xSl6PnZ1a0OmMYI4PsAj3W4GKipa51fJabG9X
+g1qtA4NBHIHJBBaLBaxWKz0TfEODOnfK/7i+AovHxWW/Lj+SAAAAAElFTkSuQmCC
+
+------MultipartBoundary--5cBXBnKiNdj0nxD0Z2YUQL2uyYc25a5P8pU2o7j0Lt------

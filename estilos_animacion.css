@@ -1,0 +1,447 @@
+
+ 
+ /*primero en el móvil (mobile first)*/
+
+  /* etiqueta body con sus componentes en columna*/  
+  body {
+    margin: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+  }
+  /* etiqueta header es flex y tiene sus items en columna*/
+  header{
+    width: 100%;
+    display: flex;
+    flex-direction:column;  
+  }
+  a:hover {
+    color: rgb(180, 70, 175);
+  }
+
+  /*la lista que está dentro de etiqueta nav es disposición flex 
+   y contiene en columna los componentes*/
+  ul{
+    display: flex;
+    flex-direction: column;
+  }
+  /*le crea un margen y le da mejor aspecto*/ 
+  article {
+    padding: 20px;
+  }
+/* le he dado más espacio entre líneas y letras*/
+  p {
+    line-height: 2;
+  }
+/* El div que tiene a clase idiomas  es disposición flex por lo 
+que los componentes se muestran por defecto en linea*/
+.idiomas{
+  display: flex;
+}
+.direccion{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/*.idiomas a{
+  text-decoration: none;
+}*/
+.idiomas a:hover {
+    color: rgb(180, 70, 175);
+  }
+ /* estilo para  las opciones del menú  que están programadas como una lista. Cada
+opción es un hiperenlace cuyo color de fondo cambia al pasar el
+ratón por encima 
+/* elimino el stilo de la lista "." padding y magin a 0 y componetes al centro*/
+ ul {
+  list-style: none;
+  padding: 1em;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+/*los links no están subrayados y son de color especificado*/
+a {
+  color: #0085a3;
+text-decoration: none;
+  
+}
+li{
+  padding: 0.3em;
+}
+
+
+li a:hover {
+  color: rgb(180, 70, 175);
+}
+/*clase inicial dispone en clolumna y al centro*/
+.inicial{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} 
+
+
+/*formato redondo para imagen presentación*/
+.presentacion img{
+  
+  border-radius:50px;
+  float: left;
+  top: 0em;
+  margin: 0px;
+}
+.presentacion{
+  width: auto;
+ 
+ /* max-width: max-content;*/
+  background-color:#5f9ea0 ;
+  
+}
+.bordeado{
+  border-top: solid 0.1em ;
+   border-top-color :rgb(180, 70, 175);
+   border-bottom: solid 0.1em;
+   border-bottom-color: black;
+ 
+}
+.video-responsive {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+	}
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	}
+  /*para entrar la lista de clase comunidades no podía poner flex porque me desaparecían
+  he optado por display ruby y el margen a modificar porque solo me tomaba como centro el pimer elemrntop*/
+.iconos {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap:nowrap;
+   text-align: center;
+   padding: 0em;
+  }
+ .color{
+  color: white; 
+ }
+ a:hover{
+  color: rgb(180,70, 175);  
+ }
+ul .iconos{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap:nowrap;
+   text-align: center;
+   padding: 0em;
+ }
+ .pie ul{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   background-color: black;
+ }
+ .pie a {
+  color: white;
+text-decoration: none;
+
+}
+
+ .pie a:hover {
+    color: rgb(180,70, 175); 
+  }
+  .pie{
+    border-top-width: 2em;
+    border-top-style: solid;
+  }
+
+ .centrar{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: black;
+   
+ }
+
+p.tamaño{
+  font-size:150% ;
+}
+
+nav ul{
+  font-size: 1em;
+  display:flex;
+  flex-direction:column;
+  font-weight: bold;
+  
+}
+ul.iconos{
+  border: 2em;
+}
+
+.idiomas{
+  font-size: 0.65em; 
+}
+.cambioTamaño{
+  font-size: 1.2em;
+
+}
+
+.informacion{
+  display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+.arte{
+ text-align: center;
+}
+picture img{
+  width: 80%;
+  text-align:center;
+}
+.imagenes {
+display:flex;
+flex-direction:column;
+text-align:center;
+}
+
+
+
+.webp{
+  width:100%;
+  text-align: center;
+}
+
+.img{
+  display: flex;
+  flex-direction:column;
+  width: 100%;
+  align-items:center;
+} 
+.png{
+  width: 75%;
+  text-align: center;
+}
+.gif{
+  width: 80%;
+}
+/*prefijos para los diferentes navegadores
+Chrome & Safari: -webkit-
+Firefox: -moz-
+Opera: -o-
+Internet Explorer: -ms-*/
+@keyframes  cambiarOpacidad {
+  0% {
+  transform: scale(0.1);
+  opacity: 0;
+  }
+  60% {
+  transform: scale(1.2);
+  opacity: 1;
+  }
+  100% {
+  transform: scale(1);
+  }
+  }
+
+  .logo{
+    animation-duration: 1s;
+    animation-name: cambiarOpacidad;
+    animation-iteration-count: 1;
+  }  
+
+
+   .apunte span{
+      background-color: #5f9ea0;
+      animation-duration: 12s;
+      animation-name: desplazamiento;
+      animation-iteration-count: infinite;
+      font-size: xx-large;
+    }
+    .animacion{
+      width: 50%;
+      height: 50%;
+    }
+    
+    @keyframes desplazamiento {
+      from {
+        margin-left: 100%;
+        width: 300%
+      }
+    
+      to {
+        margin-left: 0%;
+        width: 100%;
+      }
+    }
+    
+    .aclaracion{
+      animation-name:desplazamiento;
+    animation-duration:20s ;
+    animation-iteration-count: infinite;
+    }
+    @keyframes girar{
+      0% {
+        transform: rotate(10deg);
+        
+        }
+        50%{
+    transform:rotateY(180deg);
+    transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    transform-style: preserve-3d;
+        }
+        100%{
+          transform: none;
+        }
+    }
+
+    .png {
+      animation-name: girar;
+      animation-duration: 8s;
+      animation-iteration-count: infinite;
+    }
+    .cambioTamaño{
+      animation: aparecer 4s; 
+
+    }
+    ul {
+      animation: aparecer 8s; 
+     }
+     @keyframes aparecer {
+      0% {
+      opacity:0;
+      }
+      50%{
+      opacity:0.5;
+      }
+      100% {
+      opacity:1;
+      }
+     }
+     @keyframes escribir{
+      from{width: 0;}
+      to{width: 24em;}
+    }
+    @keyframes aparecercursor{
+      from{border-right-color: rgba(126, 15, 89, 0.75);}
+      to{border-right-color: transparent;}
+    }
+    /* Animación escribe a máquina */
+.escribeMaquina{
+  animation: escribir 4s steps(44) 1s 1 normal both,
+             aparecercursor 500ms steps(44) infinite normal;
+             animation-iteration-count: infinite;    
+}
+.primeraLinea{
+  position: relative;
+  top: 50%;  
+  width: 24em;
+  margin: 0 auto;
+  border-right: 2px solid rgba(255,255,255,.75);
+  font-size: 180%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);    
+}
+
+
+/**************************************************************
+*media querie que indica se aplicará cuando el tamaño de pantalla sea al menos 576 px
+***************************************************************/
+
+@media screen and (min-width:576px) {
+
+  a:hover {
+    color: #b446af; 
+  }
+  header{
+    display: flex;
+    flex-direction: column; 
+    
+    justify-content: center;
+    
+    /*align-items: center;*/
+  }
+ /* estilo para pantalla pc página module_Bundletrs*/
+.inicial{
+ width: 100%;
+display: flex;
+flex-direction:row-reverse;
+flex-wrap:nowrap;
+justify-content:space-between;
+align-items: flex-end;
+
+
+ }
+.cambioTamaño{
+  font-size:150%;
+}
+.cambioTamaño1{
+  font-size:0.75em;
+} 
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+  }
+
+ /* tiene um margin 2 em para que no sobresalga del viweport*/
+.idiomas{
+  display: flex;
+  flex-direction: row;
+margin-right: 2em;
+  }
+
+  .direccion,.informacion{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+ .informacion a,.iconos a{
+ padding-right: 0.5em;
+ }
+
+.img{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+} 
+}
+
+ /**************************************************************
+*media querie que indica se aplicará cuando el tamaño de pantalla sea al menos 650 px
+***************************************************************/
+
+@media screen and (min-width:650px) {
+
+  nav ul{
+    flex-direction: row;
+   font-size:large;
+   padding:2em;
+   justify-content: space-around;
+  
+  }
+.presentacion{
+height: 7.5em;
+}
+
+.imagenes{
+  display: flex;
+ flex-flow: row nowrap;
+ width: 100%;
+}
+
+} 

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es" >
+  <head>
+    <link rel="stylesheet" type="text/css" href="estilos_animacion.css" />
+    
+    <meta charset="utf-8">
+    <!--linea para que el código se muestre correctamente en movil aunque sea neceasario zoom-->
+    <meta name="viewport" content="width = device-width, initial-scale=1">
+    <title>Enciclopedia de Front-End</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" /><!--link a página de iconos-->
+  </head>
+  <body>
+    <header> 
+        <div class="inicial">
+           <div class="idiomas">
+              <a href="castellano.html"><p>ESK |</p> </a>
+             <a href="castellano.html"><p>ES | </p></a>
+             <a href="castellano.html"><p>ING </p> </a>
+          </div>
+          
+          <a href="index.html"> <h1 class="cambioTamaño">Enciclopedia de Front-End</h1></a>  <!-- titulo -->
+          <a href="index.html"><img class="logo" src="logo1.png" alt="logotipo pequeño firefox" ></a> <!-- logo -->
+        </div>
+      
+      <nav>
+          <ul>
+              <li><a href="index.html">Module_bundletrs</a></li>
+              <li><a href="lenguajes_Frond-End.html" >Lenguajes Frond-End</a></li>
+              <li><a href="preprocesadores.html" >Preprocesadores</a></li>
+          </ul>
+      </nav>
+      <div class="arte">
+        <!-- insert picture element -->
+        <picture class="principal">
+          <h1 class="aclaracion">Esta imagen tiene aplicado la técnica de arte he creado  imagenes de varios recortes de fondo para otros tamaños de pantallas</h1>
+          <source media="(max-width:514px)" srcset="principal_514.jpg">
+          <source media="(min-width:515px )" srcset="imagenPrincipal_1200.jpg">
+          <img src=imagenPrincipal_1200.jpg alt="mujer con gafas virtuales mira pizarra de codigo multicolor">
+          <div class="bird-container">
+            <div class="bird"></div>
+          </div>
+        </picture>
+      </div>
+  
+    </header>
+    <main><!--dentro de la etiquea main introduzco una etiqueta article esta va a contener 
+        la información de la página-->
+         <article>
+         
+               <h2>Las bases del Front-End</h2>
+               <p>Frontend es la parte de un sitio web que interactúa con los usuarios, por eso decimos que está del lado del cliente. 
+                 Backend es la parte que se conecta con la base de datos
+                  y el servidor que utiliza dicho sitio web, por eso decimos que el backend corre del lado del servidor.
+                  ¿Que tiene que saber un front end?
+                   El Desarrollador Frontend debe saber: Programar en <strong>JavaScript</strong>, lenguaje orientado a objetos. Programar en <strong>HTML</strong>,
+                   utilizado para etiquetar, organizar y crear la estructura de los contenidos. Programar en <strong>CSS</strong>, utilizado para 
+                   crear las cascadas de estilo y darle formato a los contenidos.</p>
+                   <p>Los formatos de las imágenes son muy importantes , con ellos podemos plasmar diferentes tipos de imágenes 
+                      con pesos muy diversos para la web. .Por lo
+                      general se cargan imágenes más grandes de lo que el dispositivo necesita.
+                      Lo ideal es calcular el tamaño de imagen más grande que el dispositivo
+                      pueda mostrar y cargar en diferentes breakpoints los tamaños máximos de
+                      imagen de cada uno.
+                      Hay varios formatos para tratar las imágenes en la web.He aquí los más
+                      adecuados:
+                     <strong>JPG</strong>  para fotografías
+                     <strong>PNG </strong> para imágenes con transparencias , colores planos, imágenes
+                      pequeñitas ….
+                      <strong>SVG</strong> para vectores, logos,imágenes pequeñas, icons
+                      <strong>GIFF</strong> para animaciones
+                      Después están otros dos formatos pero que no son soportados por todos los
+                      navegadores.JPEG 2000 y JPEG XR
+                      Jpeg2000 solamente lo soportan los navegadores Safari de Apple, tanto en MacOS
+                      como en IOS.
+                      y JPEG XR sólo tiene soporte con los navegadores de Microsoft: Edge y Explorer.
+                      WEBP es uno de los nuevos formatos , aporta las características de jpg y png
+                      en un solo formato que bien podría ser el próximo estándar para imágenes en
+                      internet. creado en el año 2010 por Google, con la idea de aportar un formato
+                      específico para la web.
+                      Al igual que los otros dos formatos, <strong>WEBP</strong>, ofrece una mejor calidad de compresión
+                      de imagen que el formato JPEG; siendo soportado por la mayoría de navegadores,
+                      llegando así a un 77% de los usuarios.
+                   </p>
+               <!--tres imágenes con diferente formato-->
+           
+            <div class="imagenes">
+              <!-- inserto imágenes con diferentes formatos
+                <img srcset="imagen1_320.jpg 400w,
+                             imagen1_480.jpg 600w,
+                             imagen1_800.jpg 800w"
+                             
+                             
+                sizes="(max-width:320px) 280px,
+                      (max-width:480px) 440px,
+               440px"
+              src=" imagen1_800.jpg" alt=" persona programando"> -->
+              
+              
+              
+              <div class='img'><img class="png" src="imagenPng.png" alt="compara dos formatos jpg y webp"><span>PNG</span></div>
+                
+              <div class='img'><picture class="webp">
+                    <source type="image/webp" srcset="imagenWebp.webp">
+                    <source type="image/jpeg" srcset="imagenWebp.jpg">
+                    <img src="imagenWebp.jpg" alt="">
+                  </picture>
+                  <span>WEBP</span></div>
+              
+                  <div class='img'> <img class="gif" src="MARIPOSA1.gif" alt="MARIPOSA EN MOVIMIENTO"> <span>GIF</span></div>
+            </div>
+
+         </article>
+        </main>
+
+        <footer class="pie">
+    
+          <div class="centrar">
+              <a href="index.html"><img src="logoPequeño.png" alt="logotipo  pequeño firefox" ></a> <!-- logo -->
+              <a href="module_bundlers.html"><p class="tamaño">Enciclopedia de Front-End</p></a>
+              <div class="direccion">
+                <p class="color" >Calle Intxaurrondo 10,</p><p class="color" >31800 Alsasua</p>
+              </div>
+                <p class="color" >Tel:636314973</p>
+              <p class="color" >info@enciclopediafrontend.org</p>
+             
+              <ul class="iconos">
+                <li>
+                      <a href="https://twitter.com/?lang=es" title="icono de twitter"> 
+                       <span class="fa-brands fa-twitter"></span>
+                    </a>
+                 </li>
+                 <li>
+                     <a href="https://es-es.facebook.com/" title="icono de fa-facebook-f" >
+                       <span class="fa-brands fa-facebook-f"></span>
+                    </a>
+                </li>
+                 <li>
+                     <a href="https://www.instagram.com/?hl=es" title="icono de instagram" >
+                      <span class="fa-brands fa-instagram"></span>
+                    </a>
+                 </li>
+                <li>
+                     <a href="https://www.youtube.com/?hl=ES" title="icono de youtube">
+                     <span class="fa-brands fa-youtube"></span>
+                     </a> 
+                 </li> 
+                </ul>
+         
+             <ul>
+            <li class="informacion">
+              <a  href="quienesSomos.html"><p >Quienes somos</p></a>
+              <a href="politicaPrivacidad.html"><p>Política privacidad</p></a>
+              <a href="avisoLegal.html"><p>Aviso legal</p></a>
+              <a href="cookies.html"><p>Cookies</p></a>
+            </li>
+           </ul>
+         </div> 
+       </footer>
+       <p>
+         <a href="http://jigsaw.w3.org/css-validator/check/referer">
+             <img style="border:0;width:88px;height:31px"
+                 src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+                 alt="¡CSS Válido!" />
+             </a>
+             <a href="https://www.w3.org/WAI/WCAG2AA-Conformance"
+      title="Explanation of WCAG 2 Level AA conformance">
+     <img height="32" width="88"
+          src="https://www.w3.org/WAI/wcag2AA"
+          alt="Level AA conformance,
+               W3C WAI Web Content Accessibility Guidelines 2.0">
+   </a> 
+         </p>
+                
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js" integrity="sha512-yFjZbTYRCJodnuyGlsKamNE/LlEaEAxSUDe5+u61mV8zzqJVFOH7TnULE2/PP/l5vKWpUNnF4VGVkXh3MjgLsg==" 
+       crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+     </body>
+     </html>
